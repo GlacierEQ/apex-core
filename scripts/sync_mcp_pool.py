@@ -184,14 +184,18 @@ def sync_all() -> int:
         print(f"  ✓ Synced Kilo MCP Hub Config         -> {kilo_path} ({len(kilo_raw['mcp'])} servers)")
 
     # 4. Sync Mermicorn (Scoped)
-    mermi_path = Path.home() / "Dropbox-Cyber.lazer.mermicor" / "opencode.json"
-    if mermi_path.exists():
-        mermi_raw = json.loads(mermi_path.read_text(encoding="utf-8"))
-        mermi_raw["mcp"] = build_opencode_mcp_config(pool)
+    mermi_dir = Path.home() / "Dropbox-Cyber.lazer.mermicor"
+    mermi_path = mermi_dir / "opencode.json"
+    if mermi_dir.exists():
+        mermi_raw = {
+            "$schema": "https://opencode.ai/config.json",
+            "provider": oc_raw.get("provider", {}),
+            "mcp": build_opencode_mcp_config(pool)
+        }
         # Ensure filesystem is strictly scoped to Mermicorn
         mermi_raw["mcp"]["filesystem"] = {
             "type": "local",
-            "command": ["npx", "-y", "@modelcontextprotocol/server-filesystem", "/Users/kcbflux/Dropbox-Cyber.lazer.mermicor"],
+            "command": ["npx", "-y", "@modelcontextprotocol/server-filesystem", str(mermi_dir.resolve())],
             "enabled": True
         }
         mermi_path.write_text(json.dumps(mermi_raw, indent=2), encoding="utf-8")

@@ -92,7 +92,7 @@ def verify_workspace_isolation() -> Dict[str, Any]:
             cfg = json.loads(mermicorn_opencode.read_text(encoding="utf-8"))
             fs_args = cfg.get("mcp", {}).get("filesystem", {}).get("command", [])
             # Check filesystem scoping
-            if "/Users/kcbflux/Dropbox-Cyber.lazer.mermicor" in fs_args:
+            if any("Dropbox-Cyber.lazer.mermicor" in str(arg) for arg in fs_args):
                 reasons.append("Filesystem MCP strictly scoped to Mermicorn")
             else:
                 is_isolated = False
