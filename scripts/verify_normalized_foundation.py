@@ -118,6 +118,7 @@ class ApexFoundationVerifier:
             "apex-legal-index",
             "apex-qdrant",
             "apex-case",
+            "apex-deploy-portal",
             "agy-coder",
             "mimo",
             "free-models",
