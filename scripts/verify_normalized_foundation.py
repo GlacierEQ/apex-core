@@ -119,6 +119,7 @@ class ApexFoundationVerifier:
             "apex-qdrant",
             "apex-case",
             "apex-deploy-portal",
+            "apex-pinecone",
             "agy-coder",
             "mimo",
             "free-models",
