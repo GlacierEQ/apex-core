@@ -115,6 +115,8 @@ class ApexFoundationVerifier:
             "apex-metal",
             "apex-vector-daemon",
             "apex-swarm-dialectic",
+            "apex-legal-index",
+            "apex-qdrant",
             "agy-coder",
             "mimo",
             "free-models",
