@@ -117,6 +117,7 @@ class ApexFoundationVerifier:
             "apex-swarm-dialectic",
             "apex-legal-index",
             "apex-qdrant",
+            "apex-case",
             "agy-coder",
             "mimo",
             "free-models",
