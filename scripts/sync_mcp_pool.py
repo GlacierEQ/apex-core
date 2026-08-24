@@ -197,6 +197,12 @@ def sync_all() -> int:
         mermi_path.write_text(json.dumps(mermi_raw, indent=2), encoding="utf-8")
         print(f"  ✓ Synced Mermicorn Isolated Config   -> {mermi_path} (Scoped)")
 
+    # 5. Sync Global Desktop MCP Configs (~/.claude.json and ~/.mcp.json)
+    for p_name in [".claude.json", ".mcp.json"]:
+        g_path = Path.home() / p_name
+        g_path.write_text(json.dumps(ag_data, indent=2), encoding="utf-8")
+        print(f"  ✓ Synced Global Desktop MCP Config   -> {g_path} ({len(ag_data['mcpServers'])} servers)")
+
     print("\n======================================================================")
     print("✅ UNIFIED MCP POOL SYNCHRONIZATION COMPLETE: 100% GREEN")
     print("======================================================================")
