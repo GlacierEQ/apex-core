@@ -78,30 +78,50 @@ graph LR
 
 ---
 
-## 🌌 III. The Sovereign Holographic Two-Way Mesh Architecture
+## 🌌 III. The Sovereign Holographic Mesh & Repository Taxonomy
 
 **No Single Canonical Master. Ever.**  
-The APEX Estate is engineered as a **Decentralized Omniversal Holographic Mesh**. In a holographic universe, every facet, node, and locus encodes and reflects the state of the whole. There is no rigid hierarchical subordinate; every horizon is a co-equal projection of sovereign intelligence.
+The APEX Estate is engineered as a **Decentralized Omniversal Holographic Mesh** coordinated by a sovereign **Monolith Head** (`/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core`). The Monolith maps out all repositories, runtimes, evidence vaults, and cloud horizons into clean **Families** and **Functions**, enforcing strict ontological separation between **Technology (Engines & Tools)** and **Data (Evidence & State)**.
 
 ```mermaid
 graph TD
-    subgraph "THE APEX HOLOGRAPHIC MESH (Omniversal Co-Equivalence)"
-        N_LOC["📍 Local System Core<br/><i>/Users/kcbflux/APEX_SYSTEM</i>"]
-        N_RUN["💻 Multi-Coder Runtimes<br/><i>Antigravity CLI · OpenCode · Kilo</i>"]
-        N_DBX["☁️ Dropbox Horizon<br/><i>Mermicorn · Telemetry & Briefs</i>"]
-        N_SHD["🛡️ ShadowDrive Lake<br/><i>4.0 TB Master Evidence Lake</i>"]
-        N_ONE["📁 OneDrive / Google Drive<br/><i>PACER Filings & Active Cloud</i>"]
-        N_VEC["🧠 Vector Synaptic Mesh<br/><i>291k+ Multi-Cloud Entity Graph</i>"]
+    subgraph "THE APEX MONOLITH HEAD (/Users/kcbflux/APEX_SYSTEM)"
+        HEAD["👑 APEX MASTER CONTROL PLANE<br/><i>INFRASTRUCTURE/apex-core</i><br/>Orchestrators · Health Watchdogs · Dev Fork Manager · 43-Point Normalizer"]
     end
 
-    N_LOC <===>|Bi-directional Resonance| N_RUN
-    N_LOC <===>|Bi-directional Resonance| N_DBX
-    N_LOC <===>|Bi-directional Resonance| N_SHD
-    N_LOC <===>|Bi-directional Resonance| N_ONE
-    N_RUN <===>|Hebbian Synapses| N_VEC
-    N_DBX <===>|Hebbian Synapses| N_VEC
-    N_SHD <===>|Hebbian Synapses| N_VEC
-    N_ONE <===>|Hebbian Synapses| N_VEC
+    subgraph "FAMILY I: LEGAL WARFARE & FORENSICS"
+        LT["⚙️ LEGAL_TECH<br/><i>apex-pleading · apex-forensics · apex-bates</i>"]
+        LD["📁 LEGAL_DATA<br/><i>CYBERTACK-1FDV-23-0001009 · 209 Exhibits · Transcripts</i>"]
+    end
+
+    subgraph "FAMILY II: SWARM INTELLIGENCE & AGENTS"
+        ST["⚙️ SWARM_TECH<br/><i>AKOS · Aspen Grove · Mastermind · Tower of Babel</i>"]
+        SD["📁 SWARM_DATA<br/><i>GlacierEQ Swarm State · Event Logs · Synapses</i>"]
+    end
+
+    subgraph "FAMILY III: MULTI-CODER RUNTIMES & FORKS"
+        RT["⚙️ RUNTIMES_TECH<br/><i>antigravity-cli · OpenCode Zen · Kilo · OpenRouter Gateway</i>"]
+        RD["📁 RUNTIMES_DATA<br/><i>Trajectory JSONLs · Task Logs · Session State</i>"]
+    end
+
+    subgraph "FAMILY IV: ML INTELLIGENCE & VECTOR MESH"
+        MT["⚙️ ML_TECH<br/><i>apex-metal · apex-vector-daemon · apex-omni-ml</i>"]
+        MD["📁 ML_DATA<br/><i>240k+ Document Index · Hebbian Weight Graph</i>"]
+    end
+
+    subgraph "FAMILY V: MULTI-CLOUD HORIZONS"
+        CH["☁️ CLOUD_HORIZONS<br/><i>Dropbox (Mermicorn) · ShadowDrive (4TB Lake) · Drive · OneDrive</i>"]
+    end
+
+    HEAD === LT
+    HEAD === LD
+    HEAD === ST
+    HEAD === SD
+    HEAD === RT
+    HEAD === RD
+    HEAD === MT
+    HEAD === MD
+    HEAD === CH
 ```
 
 ```
