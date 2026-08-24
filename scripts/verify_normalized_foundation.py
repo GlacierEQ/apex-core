@@ -121,6 +121,7 @@ class ApexFoundationVerifier:
             "apex-build-cases",
             "apex-deploy-portal",
             "apex-pinecone",
+            "apex-opera",
             "agy-coder",
             "mimo",
             "free-models",
