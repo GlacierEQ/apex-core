@@ -28,20 +28,7 @@ class ApexEstateDaemon:
         t0 = time.time()
         results = {"timestamp": t0, "checks": {}, "healthy": True}
 
-        # 1. Hardening & Permissions
-        p_harden = subprocess.run(
-            ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_harden.py"],
-            capture_output=True,
-            text=True,
-        )
-        results["checks"]["hardening"] = {
-            "passed": p_harden.returncode == 0,
-            "exit_code": p_harden.returncode,
-        }
-        if p_harden.returncode != 0:
-            results["healthy"] = False
-
-        # 2. MCP Pools Sync
+        # 1. MCP Pools Sync
         p_sync = subprocess.run(
             ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/sync_mcp_pool.py"],
             capture_output=True,
@@ -52,6 +39,19 @@ class ApexEstateDaemon:
             "exit_code": p_sync.returncode,
         }
         if p_sync.returncode != 0:
+            results["healthy"] = False
+
+        # 2. Hardening & Permissions
+        p_harden = subprocess.run(
+            ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_harden.py"],
+            capture_output=True,
+            text=True,
+        )
+        results["checks"]["hardening"] = {
+            "passed": p_harden.returncode == 0,
+            "exit_code": p_harden.returncode,
+        }
+        if p_harden.returncode != 0:
             results["healthy"] = False
 
         # Log Result
