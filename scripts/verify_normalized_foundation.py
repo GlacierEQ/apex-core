@@ -119,6 +119,7 @@ class ApexFoundationVerifier:
             "apex-qdrant",
             "apex-case",
             "apex-build-cases",
+            "apex-legal-catalog",
             "apex-deploy-portal",
             "apex-pinecone",
             "apex-opera",
