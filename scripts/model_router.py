@@ -89,15 +89,61 @@ def cmd_optimize(args: argparse.Namespace) -> int:
     return 0
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description="APEX Unified Model Router & Free Loadout Dispatcher")
-    subparsers = parser.add_subparsers(dest="command", required=True)
+import subprocess
+from active_model_state import get_active_state, print_switcher_menu, set_active_model
 
+
+def cmd_switch(args: argparse.Namespace) -> int:
+    new_st = set_active_model(args.model)
+    print(f"✅ Active model successfully switched to: {new_st['name']} ({new_st['active_model_id']})")
+    print(f"   Engine: {new_st['engine']} | Context: {new_st['context_length']:,} tokens | Multimodal: {new_st['multimodal']}")
+    return 0
+
+
+def cmd_run(args: argparse.Namespace) -> int:
+    state = get_active_state()
+    engine = state.get("engine", "openrouter")
+    model_id = state.get("active_model_id", "xiaomi/mimo-v2.5-pro")
+
+    print(f"[*] Executing via Active Model: {state.get('name')} [{engine.upper()}]...")
+
+    if engine == "opencode":
+        cmd = ["opencode", "run", "--model", model_id, args.prompt]
+        p = subprocess.run(cmd, text=True)
+        return p.returncode
+    elif engine == "kilo":
+        agent_name = state.get("alias", "").replace("kilo/", "")
+        cmd = ["kilo", "run", "--agent", agent_name, args.prompt] if agent_name in ["zen", "coding", "analysis", "fast", "creative"] else ["kilo", "run", "--model", model_id, args.prompt]
+        p = subprocess.run(cmd, text=True)
+        return p.returncode
+    else:
+        res = chat_openrouter(model=model_id, prompt=args.prompt)
+        if res.get("status") == "success":
+            print(f"\n=== RESPONSE ({res.get('model_used')}) ===\n")
+            print(res.get("response"))
+            print("\n" + "=" * 50)
+            return 0
+        else:
+            print(f"❌ Error: {res.get('message')}")
+            return 1
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="APEX Unified Model Router & Multi-Coder Dispatcher")
+    subparsers = parser.add_subparsers(dest="command")
+
+    subparsers.add_parser("list", help="Display interactive switcher menu of all models")
     subparsers.add_parser("list-free", help="List all available zero-cost OpenRouter models")
+
+    sw_p = subparsers.add_parser("switch", help="Switch the active model engine (e.g. 'switch kilo/coding')")
+    sw_p.add_argument("model", help="Model alias or identifier")
+
+    run_p = subparsers.add_parser("run", help="Run a prompt through the active model")
+    run_p.add_argument("prompt", help="Prompt text")
 
     chat_p = subparsers.add_parser("chat", help="Dispatch prompt to OpenRouter model")
     chat_p.add_argument("prompt", help="Prompt text")
-    chat_p.add_argument("--model", "-m", default="google/gemini-2.0-flash-exp:free", help="Model identifier")
+    chat_p.add_argument("--model", "-m", default="xiaomi/mimo-v2.5-pro", help="Model identifier")
     chat_p.add_argument("--system", "-s", default="", help="System prompt")
     chat_p.add_argument("--temperature", "-t", type=float, default=0.7, help="Temperature")
 
@@ -112,8 +158,15 @@ def main() -> int:
 
     args = parser.parse_args()
 
-    if args.command == "list-free":
+    if not args.command or args.command == "list":
+        print_switcher_menu()
+        return 0
+    elif args.command == "list-free":
         return cmd_list_free()
+    elif args.command == "switch":
+        return cmd_switch(args)
+    elif args.command == "run":
+        return cmd_run(args)
     elif args.command == "chat":
         return cmd_chat(args)
     elif args.command == "opencode":
