@@ -223,6 +223,93 @@ class ApexEpistemicChunker:
         return chunks
 
     @staticmethod
+    def chunk_multilang_code(
+        code: str,
+        file_path: str = "source_file.ts",
+        max_chunk_lines: int = 60
+    ) -> List[SemanticChunk]:
+        """
+        Structural pattern-based syntax chunker for TypeScript/JavaScript, Go, Rust, and SQL.
+        """
+        p = Path(file_path)
+        ext = p.suffix.lower()
+
+        if ext == ".py":
+            return ApexEpistemicChunker.chunk_python_code(code, file_path, max_chunk_lines)
+
+        lines = code.splitlines(keepends=True)
+        total_lines = len(lines)
+        if total_lines == 0:
+            return []
+
+        # Define block header regexes by language
+        patterns = []
+        if ext in (".ts", ".tsx", ".js", ".jsx"):
+            patterns = [
+                (r"^(?:export\s+)?(?:async\s+)?function\s+([a-zA-Z0-9_$]+)", "Function"),
+                (r"^(?:export\s+)?(?:abstract\s+)?class\s+([a-zA-Z0-9_$]+)", "Class"),
+                (r"^(?:export\s+)?interface\s+([a-zA-Z0-9_$]+)", "Interface"),
+                (r"^(?:export\s+)?type\s+([a-zA-Z0-9_$]+)", "TypeAlias"),
+                (r"^(?:export\s+)?const\s+([a-zA-Z0-9_$]+)\s*=\s*(?:async\s*)?\(", "ArrowFunction"),
+            ]
+        elif ext == ".go":
+            patterns = [
+                (r"^func\s+(?:\([^\)]+\)\s+)?([a-zA-Z0-9_]+)", "Function"),
+                (r"^type\s+([a-zA-Z0-9_]+)\s+struct", "Struct"),
+                (r"^type\s+([a-zA-Z0-9_]+)\s+interface", "Interface"),
+            ]
+        elif ext == ".rs":
+            patterns = [
+                (r"^(?:pub\s+)?(?:async\s+)?fn\s+([a-zA-Z0-9_]+)", "Function"),
+                (r"^(?:pub\s+)?struct\s+([a-zA-Z0-9_]+)", "Struct"),
+                (r"^(?:pub\s+)?enum\s+([a-zA-Z0-9_]+)", "Enum"),
+                (r"^impl(?:\s*<[^>]+>)?\s+([a-zA-Z0-9_]+)", "Impl"),
+            ]
+        elif ext in (".sql", ".pgsql"):
+            patterns = [
+                (r"^(?:CREATE|ALTER)\s+(?:OR\s+REPLACE\s+)?TABLE\s+(?:IF\s+NOT\s+EXISTS\s+)?([a-zA-Z0-9_.\"]+)", "Table"),
+                (r"^(?:CREATE|ALTER)\s+(?:OR\s+REPLACE\s+)?VIEW\s+([a-zA-Z0-9_.\"]+)", "View"),
+                (r"^(?:CREATE|ALTER)\s+(?:OR\s+REPLACE\s+)?FUNCTION\s+([a-zA-Z0-9_.\"]+)", "Function"),
+            ]
+
+        # Scan for block start indices
+        block_starts: List[Tuple[int, str, str]] = [] # (line_idx_0, name, type)
+        for idx, line in enumerate(lines):
+            l_strip = line.strip()
+            for pat, btype in patterns:
+                m = re.match(pat, l_strip, re.IGNORECASE)
+                if m:
+                    block_starts.append((idx, m.group(1), btype))
+                    break
+
+        if not block_starts:
+            return ApexEpistemicChunker.chunk_text_linear(code, file_path, max_lines=max_chunk_lines)
+
+        chunks = []
+        for i, (start_idx, name, btype) in enumerate(block_starts):
+            end_idx = block_starts[i + 1][0] if (i + 1) < len(block_starts) else total_lines
+            block_content = "".join(lines[start_idx:end_idx])
+            start_l = start_idx + 1
+            end_l = end_idx
+
+            chash = hashlib.sha256(block_content.encode("utf-8")).hexdigest()[:12]
+            chunk_id = f"{p.stem}_{name}_{start_l}_{end_l}"
+
+            chunks.append(SemanticChunk(
+                chunk_id=chunk_id,
+                source_file=file_path,
+                chunk_type=btype,
+                start_line=start_l,
+                end_line=end_l,
+                token_count_est=int(len(block_content.split()) * 1.3),
+                content=block_content,
+                content_hash=chash,
+                symbols=[name],
+            ))
+
+        return chunks
+
+    @staticmethod
     def chunk_text_linear(
         text: str,
         file_path: str = "document.txt",
