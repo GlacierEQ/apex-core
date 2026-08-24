@@ -201,13 +201,14 @@ class ApexOmniCloudMLEngine:
         start_time = time.time()
 
         for source_name, source_path in CLOUD_SOURCES:
-            if not source_path.exists():
+            resolved_p = source_path.resolve()
+            if not resolved_p.exists():
                 print(f"  [-] Skipping offline / unmounted source: {source_name}")
                 continue
 
-            print(f"  [*] Indexing Cloud Source: {source_name} ({source_path})...")
+            print(f"  [*] Indexing Cloud Source: {source_name} ({resolved_p})...")
             count_in_source = 0
-            for root, dirs, files in os.walk(source_path):
+            for root, dirs, files in os.walk(resolved_p):
                 # Skip heavy build and lock directories
                 dirs[:] = [d for d in dirs if d not in {
                     ".git", "node_modules", ".venv", "venv", "__pycache__",
@@ -216,8 +217,8 @@ class ApexOmniCloudMLEngine:
                 }]
 
                 # Limit depth
-                rel_depth = len(Path(root).relative_to(source_path).parts)
-                if rel_depth > 4:
+                rel_depth = len(Path(root).relative_to(resolved_p).parts)
+                if rel_depth > 4 or count_in_source >= max_files_per_source:
                     dirs[:] = []
                     continue
 
