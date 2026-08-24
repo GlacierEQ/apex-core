@@ -55,3 +55,20 @@ Other models have repeatedly confused aspiration with reality. This stops now. Y
 2. **Never overwrite reality with an assumption.** If you don't have L2 proof, you must fetch it or build it before proceeding.
 3. **If you assume, you fail.** Known (L2) → Fact. Observed (L0/L1) → Hypothesis. Assumed/Inferred → **SILENCE**. 
 4. **No "return True" stubs.** Every module shipped must actually perform its task.
+
+## 🔱 The Dev Fork Doctrine (Modular Upstream-Tracking Standard)
+
+When forking, adopting, or extending upstream repositories into the APEX Monolith:
+
+1. **Pristine Upstream Base**:
+   - Never mutate or hack core upstream source files destructively.
+   - Upstream tracking branches (`upstream/main`) must remain cleanly mergeable and rebaseable without manual intervention.
+2. **"Build Around It and With It" (Overlay Architecture)**:
+   - All custom extensions, multi-model bridges, sidecars, and domain plugins must live in modular overlay layers (`extensions/`, `plugins/`, `sidecars/`, `scripts/`, or registered MCP entry points).
+   - Hook into core runtimes via clean adapters, dynamic registries, environment variables, or config overlays rather than brittle in-place patching.
+3. **Automated Weekly Upstream Synchronization**:
+   - Every fork must maintain an automated synchronization pipeline (GitHub Actions `weekly-upstream-sync.yml` and local `apex-fork-sync`).
+   - The sync pipeline must cryptographically verify that all custom APEX extensions and test suites remain 100% green before and after merging upstream commits.
+4. **Zero-Drift Standard**:
+   - The master estate monolith tracks and audits all active forks via `apex-forks`, ensuring upstream advances are ingested continuously while preserving all APEX enhancements.
+
