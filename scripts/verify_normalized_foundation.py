@@ -118,6 +118,7 @@ class ApexFoundationVerifier:
             "apex-legal-index",
             "apex-qdrant",
             "apex-case",
+            "apex-build-cases",
             "apex-deploy-portal",
             "apex-pinecone",
             "agy-coder",
