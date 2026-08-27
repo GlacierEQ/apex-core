@@ -1,0 +1,3942 @@
+{
+  "PORTFOLIO_ESTATE": [
+    {
+      "name": "AEON-777",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AEON-777",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/AEON-777.git"
+        ],
+        "branch": "main",
+        "commit_count": 387,
+        "last_commit": "Mon Aug 24 20:48:42 2026 -1000 (10 hours ago) - APEX: Sovereign override merge. Restoring ascension wave commit."
+      },
+      "metrics": {
+        "total_files": 574,
+        "total_size_mb": 3.06,
+        "extensions": [
+          [
+            ".md",
+            211
+          ],
+          [
+            ".json",
+            131
+          ],
+          [
+            ".mjs",
+            78
+          ],
+          [
+            ".txt",
+            52
+          ],
+          [
+            "no_ext",
+            37
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Production-ready integration framework for 14 cloud services** *L7-Pointer Architecture | Aspen Grove Legal Filing System*"
+      }
+    },
+    {
+      "name": "AKOS",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AKOS",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/AKOS.git"
+        ],
+        "branch": "main",
+        "commit_count": 650,
+        "last_commit": "Mon Aug 24 16:15:03 2026 -1000 (14 hours ago) - Harden recovered family estate graph proof"
+      },
+      "metrics": {
+        "total_files": 495,
+        "total_size_mb": 2.2,
+        "extensions": [
+          [
+            ".md",
+            162
+          ],
+          [
+            ".json",
+            140
+          ],
+          [
+            ".py",
+            123
+          ],
+          [
+            "no_ext",
+            18
+          ],
+          [
+            ".yml",
+            18
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Status: Active Seed Created: 2026-07-04"
+      }
+    },
+    {
+      "name": "ECHO",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/ECHO",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/ECHO.git"
+        ],
+        "branch": "main",
+        "commit_count": 63,
+        "last_commit": "Sat Aug 22 11:31:04 2026 +0000 (3 days ago) - fix: remove unused import from innovation CLI"
+      },
+      "metrics": {
+        "total_files": 90,
+        "total_size_mb": 0.36,
+        "extensions": [
+          [
+            ".py",
+            44
+          ],
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".md",
+            11
+          ],
+          [
+            ".json",
+            6
+          ],
+          [
+            ".yml",
+            5
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "GlacierEQ_Swarm",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/GlacierEQ_Swarm",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/GlacierEQ_Swarm.git"
+        ],
+        "branch": "main",
+        "commit_count": 26,
+        "last_commit": "Sun Aug 23 13:04:55 2026 -1000 (2 days ago) - test: prevent AKOS visibility authority propagation"
+      },
+      "metrics": {
+        "total_files": 104,
+        "total_size_mb": 0.47,
+        "extensions": [
+          [
+            ".py",
+            49
+          ],
+          [
+            "no_ext",
+            22
+          ],
+          [
+            ".md",
+            15
+          ],
+          [
+            ".json",
+            12
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "| File | Role | |------|------|"
+      }
+    },
+    {
+      "name": "JOB-RESUME-BUILDER-",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/JOB-RESUME-BUILDER-",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "upstream: https://github.com/gaurish7gopal-jpg/JOB-RESUME-BUILDER-.git",
+          "origin: https://github.com/GlacierEQ/JOB-RESUME-BUILDER-.git"
+        ],
+        "branch": "main",
+        "commit_count": 33,
+        "last_commit": "Wed Aug 19 06:29:42 2026 +0000 (6 days ago) - record JOB_RESTORE handoff after live intelligence restoration"
+      },
+      "metrics": {
+        "total_files": 358,
+        "total_size_mb": 11.02,
+        "extensions": [
+          [
+            ".js",
+            92
+          ],
+          [
+            ".json",
+            77
+          ],
+          [
+            ".map",
+            53
+          ],
+          [
+            ".ts",
+            39
+          ],
+          [
+            ".rsc",
+            26
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> Analyze a source r\u00e9sum\u00e9 against a target role, generate source-grounded rewrite proposals, require human review, preserve private runs locally, and compile real application artif"
+      }
+    },
+    {
+      "name": "Pro-comet-agent",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/Pro-comet-agent",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/Pro-comet-agent.git"
+        ],
+        "branch": "main",
+        "commit_count": 51,
+        "last_commit": "Sun Aug 23 13:06:17 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 106,
+        "total_size_mb": 0.59,
+        "extensions": [
+          [
+            "no_ext",
+            22
+          ],
+          [
+            ".md",
+            21
+          ],
+          [
+            ".ts",
+            21
+          ],
+          [
+            ".py",
+            19
+          ],
+          [
+            ".json",
+            16
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This folder is a self-contained autonomous forensic processor. 1. **Copy** this entire `FORENSIC_PLANTABLE` folder into any directory you want to process (e.g., your Dropbox mount,"
+      }
+    },
+    {
+      "name": "anthropic-agent-coordinator",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-agent-coordinator",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/anthropic-agent-coordinator.git"
+        ],
+        "branch": "master",
+        "commit_count": 32,
+        "last_commit": "Sun Aug 23 13:21:47 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 61,
+        "total_size_mb": 0.13,
+        "extensions": [
+          [
+            ".py",
+            24
+          ],
+          [
+            ".json",
+            12
+          ],
+          [
+            "no_ext",
+            11
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "anthropic-safety-monitor",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-safety-monitor",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/anthropic-safety-monitor.git"
+        ],
+        "branch": "master",
+        "commit_count": 32,
+        "last_commit": "Sun Aug 23 13:21:36 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 55,
+        "total_size_mb": 0.13,
+        "extensions": [
+          [
+            ".py",
+            20
+          ],
+          [
+            "no_ext",
+            11
+          ],
+          [
+            ".json",
+            11
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "apex-cli",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apex-cli",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/apex-cli.git"
+        ],
+        "branch": "master",
+        "commit_count": 159,
+        "last_commit": "Sun Aug 23 11:46:04 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 233,
+        "total_size_mb": 1.15,
+        "extensions": [
+          [
+            "no_ext",
+            94
+          ],
+          [
+            ".py",
+            87
+          ],
+          [
+            ".md",
+            14
+          ],
+          [
+            ".txt",
+            14
+          ],
+          [
+            ".json",
+            9
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "| Service | Module | Port | Purpose | |---------|--------|------|---------|"
+      }
+    },
+    {
+      "name": "apex-control-plane",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apex-control-plane",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/apex-control-plane.git"
+        ],
+        "branch": "main",
+        "commit_count": 301,
+        "last_commit": "Mon Aug 24 17:10:31 2026 -1000 (13 hours ago) - feat(buildkite): master live readback and exact-SHA reconciliation"
+      },
+      "metrics": {
+        "total_files": 288,
+        "total_size_mb": 85.63,
+        "extensions": [
+          [
+            ".py",
+            104
+          ],
+          [
+            ".json",
+            82
+          ],
+          [
+            "no_ext",
+            36
+          ],
+          [
+            ".md",
+            30
+          ],
+          [
+            ".yml",
+            15
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory wires the daily audit loop and connector registry into Supermemory (semantic memory) and Neon (operational state). apex-control-plane is the **daily audit and connec"
+      }
+    },
+    {
+      "name": "apple-ane-kv-quantizer",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apple-ane-kv-quantizer",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/apple-ane-kv-quantizer.git"
+        ],
+        "branch": "main",
+        "commit_count": 30,
+        "last_commit": "Sat Aug 22 10:53:01 2026 +0000 (3 days ago) - ci: verify pinned integration lineage"
+      },
+      "metrics": {
+        "total_files": 49,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".py",
+            14
+          ],
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".yml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Independent GlacierEQ portfolio work exploring deterministic KV-cache storage tradeoffs, recency-tiered precision planning, and local quantization examples for Apple-Silicon-orient"
+      }
+    },
+    {
+      "name": "aws-trainium-neuron-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/aws-trainium-neuron-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/aws-trainium-neuron-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 19,
+        "last_commit": "Sat Aug 22 09:02:19 2026 +0000 (3 days ago) - fix: retire secret-bound promotion authority"
+      },
+      "metrics": {
+        "total_files": 42,
+        "total_size_mb": 0.04,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".cpp",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Independent local accelerator-scenario exhibit inspired by public AWS Trainium/Inferentia concepts.** This repository is **not affiliated with, endorsed by, or operated by Amazon"
+      }
+    },
+    {
+      "name": "colossus-gateway",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-gateway",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/colossus-gateway.git"
+        ],
+        "branch": "main",
+        "commit_count": 153,
+        "last_commit": "Sun Aug 23 11:45:52 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 243,
+        "total_size_mb": 1.13,
+        "extensions": [
+          [
+            ".ts",
+            106
+          ],
+          [
+            ".py",
+            32
+          ],
+          [
+            ".md",
+            31
+          ],
+          [
+            "no_ext",
+            22
+          ],
+          [
+            ".json",
+            21
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Three-layer Diamond Agent system for case research, document intelligence, and legal analysis. ```"
+      }
+    },
+    {
+      "name": "colossus-training-flux",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-training-flux",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/colossus-training-flux.git"
+        ],
+        "branch": "main",
+        "commit_count": 24,
+        "last_commit": "Sun Aug 23 13:13:28 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 43,
+        "total_size_mb": 0.09,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".go",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Independent local training-capacity and gang-scheduling exhibit inspired by public distributed-training patterns.** This repository is **not affiliated with, endorsed by, or oper"
+      }
+    },
+    {
+      "name": "comet-browser-agent-bridge",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/comet-browser-agent-bridge",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/comet-browser-agent-bridge.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Sat Aug 22 08:56:12 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 44,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".ts",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Browser automation bridge linking autonomous AI agents with Chrome DevTools Protocol (CDP) & WebAssembly.** [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)]"
+      }
+    },
+    {
+      "name": "deepmind-tpu-mesh-optimizer",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepmind-tpu-mesh-optimizer",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/deepmind-tpu-mesh-optimizer.git"
+        ],
+        "branch": "main",
+        "commit_count": 19,
+        "last_commit": "Sat Aug 22 11:00:36 2026 +0000 (3 days ago) - ci: prove mesh frontier across Python matrix"
+      },
+      "metrics": {
+        "total_files": 52,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".py",
+            16
+          ],
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".yml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Independent GlacierEQ portfolio work exploring deterministic mesh communication and compute-overlap arithmetic for TPU-style accelerator scenarios. **Status:** local scenario model"
+      }
+    },
+    {
+      "name": "deepseek-mla-moe-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepseek-mla-moe-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/deepseek-mla-moe-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 15,
+        "last_commit": "Wed Aug 12 11:16:09 2026 -1000 (13 days ago) - fix: resolve MLA/MoE runtime merge corruption"
+      },
+      "metrics": {
+        "total_files": 44,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            11
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".c",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Independent GlacierEQ portfolio work exploring latent KV-storage arithmetic and expert-activation ratios inspired by publicly described MLA/MoE design patterns. **Status:** local a"
+      }
+    },
+    {
+      "name": "glaciereq-mcp-stack",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/glaciereq-mcp-stack",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/glaciereq-mcp-stack.git"
+        ],
+        "branch": "main",
+        "commit_count": 36,
+        "last_commit": "Sun Aug 23 13:06:08 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 101,
+        "total_size_mb": 0.25,
+        "extensions": [
+          [
+            ".json",
+            27
+          ],
+          [
+            ".py",
+            20
+          ],
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".ts",
+            12
+          ],
+          [
+            ".md",
+            11
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "The preserved historical router test uses a .legacy suffix to prevent pytest from collecting it alongside the active test module."
+      }
+    },
+    {
+      "name": "grokodile",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/grokodile",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/grokodile.git"
+        ],
+        "branch": "main",
+        "commit_count": 19,
+        "last_commit": "Sun Aug 23 11:47:27 2026 -1000 (2 days ago) - fix: remove AKOS governance bridge authority"
+      },
+      "metrics": {
+        "total_files": 44,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            13
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".lean",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Independent GlacierEQ portfolio work. Not affiliated with, endorsed by, or employed by xAI.** Grokodile demonstrates a small, local operator-safety toolkit in Python:"
+      }
+    },
+    {
+      "name": "job-application",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/job-application",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/job-application.git"
+        ],
+        "branch": "main",
+        "commit_count": 1052,
+        "last_commit": "Sat Aug 22 21:45:54 2026 -1000 (2 days ago) - Eradicate pre-fix Helix runtime pins and restore recipe (#265)"
+      },
+      "metrics": {
+        "total_files": 1381,
+        "total_size_mb": 517.78,
+        "extensions": [
+          [
+            ".html",
+            343
+          ],
+          [
+            ".json",
+            287
+          ],
+          [
+            ".patch",
+            135
+          ],
+          [
+            ".filtered",
+            135
+          ],
+          [
+            ".md",
+            132
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Independent GlacierEQ reference implementation for evidence-bound agentic AI operations in mission-critical environments.** This project turns a public engineering need into a sm"
+      }
+    },
+    {
+      "name": "kimi-mooncake-kv-stream",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/kimi-mooncake-kv-stream",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/kimi-mooncake-kv-stream.git"
+        ],
+        "branch": "main",
+        "commit_count": 15,
+        "last_commit": "Wed Aug 12 11:16:29 2026 -1000 (13 days ago) - fix: resolve KV stream runtime merge corruption"
+      },
+      "metrics": {
+        "total_files": 46,
+        "total_size_mb": 0.09,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            12
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".go",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Independent GlacierEQ portfolio work exploring local cache-reuse arithmetic, request scheduling, and ring-buffer mechanics inspired by publicly discussed disaggregated prefill/deco"
+      }
+    },
+    {
+      "name": "lovable-design-app-synth",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/lovable-design-app-synth",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/lovable-design-app-synth.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Sat Aug 22 08:56:06 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 43,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".ts",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **TypeScript design token synthesizer generating glassmorphism CSS & dynamic UI components.** [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)]()"
+      }
+    },
+    {
+      "name": "manus-autonomous-web-agent",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/manus-autonomous-web-agent",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/manus-autonomous-web-agent.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Sat Aug 22 08:56:03 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 43,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".ts",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **TypeScript task executor and Python simulation harness for autonomous web agent workflows.** [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)]()"
+      }
+    },
+    {
+      "name": "mastermind",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/mastermind",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/mastermind.git"
+        ],
+        "branch": "main",
+        "commit_count": 15,
+        "last_commit": "Mon Aug 24 10:33:43 2026 -1000 (20 hours ago) - refactor: Eradicate dangerous 'canonical' concept, enforce Sovereign/Holographic mesh terminology"
+      },
+      "metrics": {
+        "total_files": 45,
+        "total_size_mb": 0.14,
+        "extensions": [
+          [
+            ".py",
+            16
+          ],
+          [
+            ".md",
+            14
+          ],
+          [
+            "no_ext",
+            5
+          ],
+          [
+            ".jsonl",
+            3
+          ],
+          [
+            ".json",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Receipt-backed, identity-gated execution engine** [![Tests](https://img.shields.io/badge/tests-21%2F21%20PASSED-brightgreen.svg)](tests/)"
+      }
+    },
+    {
+      "name": "meta-llama-collective-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/meta-llama-collective-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/meta-llama-collective-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Sat Aug 22 08:55:57 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 43,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".cpp",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **C++ NCCL collective communication monitor and bandwidth analyzer for Meta Llama distributed training.** [![C++](https://img.shields.io/badge/C++-17-00599C)]()"
+      }
+    },
+    {
+      "name": "microsoft-azure-ops",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/microsoft-azure-ops",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/microsoft-azure-ops.git"
+        ],
+        "branch": "main",
+        "commit_count": 21,
+        "last_commit": "Sun Aug 23 13:15:18 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 39,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Azure infrastructure lifecycle management with automated provisioning, monitoring, and cost optimization.** [![Python](https://img.shields.io/badge/Python-3.9+-blue)]()"
+      }
+    },
+    {
+      "name": "microsoft-identity-zero-trust",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/microsoft-identity-zero-trust",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/microsoft-identity-zero-trust.git"
+        ],
+        "branch": "main",
+        "commit_count": 21,
+        "last_commit": "Sun Aug 23 13:14:15 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 42,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".rs",
+            4
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Zero Trust identity verification with continuous authentication, conditional access, and least-privilege enforcement.** [![Python](https://img.shields.io/badge/Python-3.9+-blue"
+      }
+    },
+    {
+      "name": "notion-mcp-empowerment-engine",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/notion-mcp-empowerment-engine",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/notion-mcp-empowerment-engine.git"
+        ],
+        "branch": "main",
+        "commit_count": 54,
+        "last_commit": "Sun Aug 23 13:15:36 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 60,
+        "total_size_mb": 0.23,
+        "extensions": [
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".json",
+            11
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".sh",
+            5
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **TypeScript & JavaScript MCP server exposing Notion workspace search, page creation, and database tools.** [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)]()"
+      }
+    },
+    {
+      "name": "notion-workflow-intelligence",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/notion-workflow-intelligence",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/notion-workflow-intelligence.git"
+        ],
+        "branch": "master",
+        "commit_count": 24,
+        "last_commit": "Sun Aug 23 13:13:20 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 41,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            12
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Deterministic local intent heuristics, workflow planning, and guarded workflow execution.** This repository is an independent portfolio project. It is not affiliated with Notion "
+      }
+    },
+    {
+      "name": "notion-workspace-optimizer",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/notion-workspace-optimizer",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/notion-workspace-optimizer.git"
+        ],
+        "branch": "main",
+        "commit_count": 34,
+        "last_commit": "Sun Aug 23 13:15:28 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 44,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            13
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Local page-metadata scoring, recommendation labeling, and title-prefix grouping.** This repository is an independent portfolio project. It is not affiliated with Notion and it do"
+      }
+    },
+    {
+      "name": "nvidia-deep-reasoning",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-deep-reasoning",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/nvidia-deep-reasoning.git"
+        ],
+        "branch": "master",
+        "commit_count": 27,
+        "last_commit": "Sun Aug 23 11:46:41 2026 -1000 (2 days ago) - fix: remove AKOS governance bridge authority"
+      },
+      "metrics": {
+        "total_files": 49,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            ".py",
+            17
+          ],
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Deterministic local attention-score pruning and reasoning-budget scheduling.** This is an **independent portfolio project**. It is **not affiliated with NVIDIA**, does not use pr"
+      }
+    },
+    {
+      "name": "nvidia-gpu-health",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-gpu-health",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/nvidia-gpu-health.git"
+        ],
+        "branch": "master",
+        "commit_count": 29,
+        "last_commit": "Sun Aug 23 13:21:59 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 43,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            11
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Independent GlacierEQ portfolio work. Not affiliated with, endorsed by, or connected to NVIDIA.** This repository demonstrates deterministic **local GPU-health scoring** from s"
+      }
+    },
+    {
+      "name": "openai-reasoning-kv-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openai-reasoning-kv-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/openai-reasoning-kv-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 13,
+        "last_commit": "Sun Aug 9 20:27:38 2026 -1000 (2 weeks ago) - fix(excellence): PROJECTION_TRUTH_CLOSED gate for PROMOTED (monolith #95 policy)"
+      },
+      "metrics": {
+        "total_files": 51,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".py",
+            15
+          ],
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".txt",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "An independent portfolio experiment for **entropy- and feature-guided retention of reasoning-trajectory records under a bounded cache-count budget**. > **Independent portfolio proj"
+      }
+    },
+    {
+      "name": "openclaw",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openclaw",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/openclaw.git"
+        ],
+        "branch": "main",
+        "commit_count": 95,
+        "last_commit": "Thu Aug 20 19:30:59 2026 +0000 (5 days ago) - test: cover host activation continuation receipt"
+      },
+      "metrics": {
+        "total_files": 83,
+        "total_size_mb": 0.28,
+        "extensions": [
+          [
+            ".py",
+            40
+          ],
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            4
+          ],
+          [
+            ".yml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "opera-neon-spatial-workspace",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/opera-neon-spatial-workspace",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/opera-neon-spatial-workspace.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Sat Aug 22 08:56:09 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 41,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Spatial workspace layout manager and window position synthesizer for 3D browser interfaces.** [![Python](https://img.shields.io/badge/Python-3.9+-blue)]()"
+      }
+    },
+    {
+      "name": "pro-code",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/pro-code",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/pro-code.git"
+        ],
+        "branch": "main",
+        "commit_count": 113,
+        "last_commit": "Sun Aug 23 21:39:24 2026 -1000 (33 hours ago) - Record pro-code Monolith link"
+      },
+      "metrics": {
+        "total_files": 133,
+        "total_size_mb": 0.5,
+        "extensions": [
+          [
+            ".md",
+            33
+          ],
+          [
+            ".json",
+            24
+          ],
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".yml",
+            14
+          ],
+          [
+            ".py",
+            11
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> A React/TypeScript operator surface backed by a dependency-free local Nexus runtime, fail-closed worker dispatch, automatic workspace intelligence, and native polyglot verificati"
+      }
+    },
+    {
+      "name": "qwen-vl-flash-router",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/qwen-vl-flash-router",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/qwen-vl-flash-router.git"
+        ],
+        "branch": "main",
+        "commit_count": 13,
+        "last_commit": "Sat Aug 22 08:56:00 2026 +0000 (3 days ago) - Helix: land tests.yml so SRC/TEST/CI match. Structure is not ladder promotion."
+      },
+      "metrics": {
+        "total_files": 42,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **TypeScript multi-modal flash attention router & CUDA kernel for vision-language image patch tokenization.** [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6)]"
+      }
+    },
+    {
+      "name": "robotics-vla-torque-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/robotics-vla-torque-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/robotics-vla-torque-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 12,
+        "last_commit": "Sun Aug 9 20:28:34 2026 -1000 (2 weeks ago) - fix(excellence): PROJECTION_TRUTH_CLOSED gate for PROMOTED (monolith #95 policy)"
+      },
+      "metrics": {
+        "total_files": 41,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **C++ ISO 10218-1 torque safety controller and Rust minimum-jerk 5th-order polynomial trajectory planner.** [![C++](https://img.shields.io/badge/C++-17-00599C)]()"
+      }
+    },
+    {
+      "name": "sigma-glue",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/sigma-glue",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/sigma-glue.git"
+        ],
+        "branch": "main",
+        "commit_count": 27,
+        "last_commit": "Sat Aug 8 11:40:55 2026 -1000 (2 weeks ago) - Prove provider idempotency and ambiguous-outcome recovery (#14)"
+      },
+      "metrics": {
+        "total_files": 80,
+        "total_size_mb": 0.45,
+        "extensions": [
+          [
+            ".mjs",
+            62
+          ],
+          [
+            ".md",
+            13
+          ],
+          [
+            ".json",
+            2
+          ],
+          [
+            ".yml",
+            2
+          ],
+          [
+            "no_ext",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Federation glue between Sigma UI and independent component repositories.** Status: **Implemented control-plane slice** \u2014 signed approval, durable one-shot mutation authority, pro"
+      }
+    },
+    {
+      "name": "spacex-autonomy",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-autonomy",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-autonomy.git"
+        ],
+        "branch": "main",
+        "commit_count": 28,
+        "last_commit": "Sun Aug 23 13:13:57 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 66,
+        "total_size_mb": 0.19,
+        "extensions": [
+          [
+            ".py",
+            29
+          ],
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-conjunction-sentinel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-conjunction-sentinel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-conjunction-sentinel.git"
+        ],
+        "branch": "main",
+        "commit_count": 34,
+        "last_commit": "Sun Aug 23 13:13:38 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 45,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".toml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-cryogenics",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-cryogenics",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-cryogenics.git"
+        ],
+        "branch": "main",
+        "commit_count": 26,
+        "last_commit": "Sun Aug 23 13:14:07 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 59,
+        "total_size_mb": 0.13,
+        "extensions": [
+          [
+            "no_ext",
+            19
+          ],
+          [
+            ".py",
+            17
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-ground-network",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-ground-network",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-ground-network.git"
+        ],
+        "branch": "main",
+        "commit_count": 30,
+        "last_commit": "Sun Aug 23 13:15:09 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 61,
+        "total_size_mb": 0.11,
+        "extensions": [
+          [
+            "no_ext",
+            19
+          ],
+          [
+            ".py",
+            16
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-launch-sequencer",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-launch-sequencer",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-launch-sequencer.git"
+        ],
+        "branch": "main",
+        "commit_count": 42,
+        "last_commit": "Sat Aug 22 11:08:05 2026 +0000 (3 days ago) - ci: retain launch sequence verification receipts"
+      },
+      "metrics": {
+        "total_files": 63,
+        "total_size_mb": 0.12,
+        "extensions": [
+          [
+            ".py",
+            19
+          ],
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".json",
+            10
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**A repository-local countdown state machine with milestone ordering, hold/resume accounting, readiness votes, required-step failure handling, and fail-closed abort conditions.** >"
+      }
+    },
+    {
+      "name": "spacex-mission-control",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-mission-control",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-mission-control.git"
+        ],
+        "branch": "main",
+        "commit_count": 32,
+        "last_commit": "Mon Aug 24 16:02:02 2026 -1000 (14 hours ago) - Harden SpaceX family routing invariants at runtime"
+      },
+      "metrics": {
+        "total_files": 62,
+        "total_size_mb": 0.14,
+        "extensions": [
+          [
+            ".py",
+            22
+          ],
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".json",
+            10
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".yml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**A repository-local mission-operations simulation with severity-filtered event fan-out, telemetry aggregation, phase-state orchestration, callbacks, abort behavior, and synthetic "
+      }
+    },
+    {
+      "name": "spacex-orbital-mechanics",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-orbital-mechanics",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-orbital-mechanics.git"
+        ],
+        "branch": "main",
+        "commit_count": 37,
+        "last_commit": "Thu Aug 20 09:06:41 2026 +0000 (5 days ago) - APEX: guard all active evolution surfaces"
+      },
+      "metrics": {
+        "total_files": 61,
+        "total_size_mb": 0.12,
+        "extensions": [
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".py",
+            17
+          ],
+          [
+            ".json",
+            10
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".yml",
+            4
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Deterministic local orbital-mechanics calculations for Kepler equations, state-vector conversion, classical transfer estimates, bounded perturbation experiments, and a restored"
+      }
+    },
+    {
+      "name": "spacex-pad-weather-gate",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-pad-weather-gate",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-pad-weather-gate.git"
+        ],
+        "branch": "main",
+        "commit_count": 34,
+        "last_commit": "Sat Aug 22 09:01:16 2026 +0000 (3 days ago) - fix: retire secret-bound promotion authority"
+      },
+      "metrics": {
+        "total_files": 45,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            10
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".md",
+            6
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Deterministic local rule evaluation for synthetic weather observations and in-memory electric-field measurements.** This is an independent GlacierEQ portfolio repository. It is"
+      }
+    },
+    {
+      "name": "spacex-propulsion-monitor",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-propulsion-monitor",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-propulsion-monitor.git"
+        ],
+        "branch": "main",
+        "commit_count": 39,
+        "last_commit": "Thu Aug 20 09:09:23 2026 +0000 (5 days ago) - APEX: emit normalized health capability receipt"
+      },
+      "metrics": {
+        "total_files": 70,
+        "total_size_mb": 0.16,
+        "extensions": [
+          [
+            ".py",
+            22
+          ],
+          [
+            "no_ext",
+            16
+          ],
+          [
+            ".json",
+            15
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-satellite-mesh",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-satellite-mesh",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-satellite-mesh.git"
+        ],
+        "branch": "main",
+        "commit_count": 27,
+        "last_commit": "Sun Aug 23 13:12:44 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 61,
+        "total_size_mb": 0.15,
+        "extensions": [
+          [
+            "no_ext",
+            19
+          ],
+          [
+            ".py",
+            17
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".toml",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-telemetry",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-telemetry",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-telemetry.git"
+        ],
+        "branch": "main",
+        "commit_count": 33,
+        "last_commit": "Sun Aug 23 13:11:21 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 86,
+        "total_size_mb": 0.14,
+        "extensions": [
+          [
+            ".py",
+            30
+          ],
+          [
+            "no_ext",
+            17
+          ],
+          [
+            ".json",
+            15
+          ],
+          [
+            ".md",
+            11
+          ],
+          [
+            ".proto",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spacex-thermal-protection",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-thermal-protection",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spacex-thermal-protection.git"
+        ],
+        "branch": "main",
+        "commit_count": 24,
+        "last_commit": "Sun Aug 23 11:45:15 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 61,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".py",
+            16
+          ],
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".json",
+            13
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "spiral-engine",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spiral-engine",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/spiral-engine.git"
+        ],
+        "branch": "main",
+        "commit_count": 18,
+        "last_commit": "Sun Aug 23 11:47:11 2026 -1000 (2 days ago) - fix: remove AKOS governance bridge authority"
+      },
+      "metrics": {
+        "total_files": 59,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            29
+          ],
+          [
+            ".py",
+            12
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **Rust spiral execution kernel implementing multi-pass iterative loops and state advances.** [![Rust](https://img.shields.io/badge/Rust-Safety%20Critical-orange)]()"
+      }
+    },
+    {
+      "name": "tasklet-micro-agent-engine",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/tasklet-micro-agent-engine",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/tasklet-micro-agent-engine.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Mon Aug 17 18:50:04 2026 -1000 (8 days ago) - Reframe Tasklet from smallest-useful doctrine to elite atomic execution primitive"
+      },
+      "metrics": {
+        "total_files": 51,
+        "total_size_mb": 0.13,
+        "extensions": [
+          [
+            "no_ext",
+            15
+          ],
+          [
+            ".py",
+            14
+          ],
+          [
+            ".md",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".tag",
+            2
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "tesla-fsd-occupancy-stream",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/tesla-fsd-occupancy-stream",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/tesla-fsd-occupancy-stream.git"
+        ],
+        "branch": "main",
+        "commit_count": 14,
+        "last_commit": "Fri Aug 21 13:23:55 2026 -1000 (4 days ago) - Strengthen occupancy tests: path-safe import, throttle receipt, required fields."
+      },
+      "metrics": {
+        "total_files": 42,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            "no_ext",
+            13
+          ],
+          [
+            ".py",
+            9
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".tag",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **CUDA 3D voxel grid raycasting kernel and Go Bird's-Eye-View (BEV) coordinate transformer for Tesla FSD.** [![CUDA](https://img.shields.io/badge/CUDA-12.0+-76B900)]()"
+      }
+    },
+    {
+      "name": "the-tower-of-babel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/the-tower-of-babel",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/the-tower-of-babel.git"
+        ],
+        "branch": "main",
+        "commit_count": 412,
+        "last_commit": "Mon Aug 24 02:49:35 2026 -1000 (28 hours ago) - Merge pull request #59 from GlacierEQ/feat/ascend-10-thin-floors"
+      },
+      "metrics": {
+        "total_files": 308,
+        "total_size_mb": 1.02,
+        "extensions": [
+          [
+            ".py",
+            70
+          ],
+          [
+            ".json",
+            47
+          ],
+          [
+            "no_ext",
+            42
+          ],
+          [
+            ".md",
+            19
+          ],
+          [
+            ".yml",
+            12
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This is the flagship cross-language proof path. | Stage | Technology | Responsibility |"
+      }
+    },
+    {
+      "name": "token_saver",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/token_saver",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/token_saver.git"
+        ],
+        "branch": "main",
+        "commit_count": 77,
+        "last_commit": "Sun Aug 23 11:42:56 2026 -1000 (2 days ago) - fix: remove AKOS governance bridge authority"
+      },
+      "metrics": {
+        "total_files": 86,
+        "total_size_mb": 0.18,
+        "extensions": [
+          [
+            ".py",
+            39
+          ],
+          [
+            "no_ext",
+            24
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".json",
+            9
+          ],
+          [
+            ".sh",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Dependency-free, measurement-honest, distributed token optimization for LLM agent infrastructure.** Zero external dependencies. 52 tests. Every claim is measured."
+      }
+    },
+    {
+      "name": "xai-colossus-2",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-2",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-2.git"
+        ],
+        "branch": "master",
+        "commit_count": 40,
+        "last_commit": "Sun Aug 23 11:45:24 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 141,
+        "total_size_mb": 0.55,
+        "extensions": [
+          [
+            ".py",
+            72
+          ],
+          [
+            "no_ext",
+            45
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".json",
+            8
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> Independent GlacierEQ engineering project for next-generation datacenter orchestration, subsystem composition, simulation, evidence, and control-plane development. **Non-affiliat"
+      }
+    },
+    {
+      "name": "xai-colossus-cooling",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-cooling",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-cooling.git"
+        ],
+        "branch": "main",
+        "commit_count": 176,
+        "last_commit": "Sun Aug 23 11:44:47 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 359,
+        "total_size_mb": 1.06,
+        "extensions": [
+          [
+            ".py",
+            130
+          ],
+          [
+            ".md",
+            74
+          ],
+          [
+            "no_ext",
+            63
+          ],
+          [
+            ".json",
+            38
+          ],
+          [
+            ".ts",
+            22
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Magnetic-bearing centrifugal chillers, cooling towers, free cooling economisation, and AI-predictive pre-cooling for xAI Colossus 2."
+      }
+    },
+    {
+      "name": "xai-colossus-cooling-alpha",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-cooling-alpha",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-cooling-alpha.git"
+        ],
+        "branch": "master",
+        "commit_count": 34,
+        "last_commit": "Sun Aug 23 13:13:03 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 70,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            ".py",
+            19
+          ],
+          [
+            "no_ext",
+            16
+          ],
+          [
+            ".json",
+            15
+          ],
+          [
+            ".sha256",
+            8
+          ],
+          [
+            ".md",
+            8
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "xai-colossus-cooling-omega",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-cooling-omega",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-cooling-omega.git"
+        ],
+        "branch": "master",
+        "commit_count": 33,
+        "last_commit": "Sun Aug 23 13:13:47 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 70,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            ".py",
+            18
+          ],
+          [
+            ".json",
+            17
+          ],
+          [
+            "no_ext",
+            16
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".sha256",
+            7
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "xai-colossus-energy",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-energy",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-energy.git"
+        ],
+        "branch": "main",
+        "commit_count": 64,
+        "last_commit": "Sun Aug 23 11:46:19 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 169,
+        "total_size_mb": 0.64,
+        "extensions": [
+          [
+            ".py",
+            100
+          ],
+          [
+            "no_ext",
+            28
+          ],
+          [
+            ".md",
+            14
+          ],
+          [
+            ".json",
+            13
+          ],
+          [
+            ".yml",
+            4
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Migrated from [`GlacierEQ/electricity`](https://github.com/GlacierEQ/electricity) \u2014 that repo is now archived.** This package owns all finite-bounded power grid physics for the C"
+      }
+    },
+    {
+      "name": "xai-colossus-energy-alpha",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-energy-alpha",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-energy-alpha.git"
+        ],
+        "branch": "master",
+        "commit_count": 33,
+        "last_commit": "Sun Aug 23 13:15:59 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 66,
+        "total_size_mb": 0.06,
+        "extensions": [
+          [
+            ".py",
+            17
+          ],
+          [
+            "no_ext",
+            16
+          ],
+          [
+            ".json",
+            15
+          ],
+          [
+            ".md",
+            8
+          ],
+          [
+            ".sha256",
+            6
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "xai-colossus-energy-omega",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-energy-omega",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-energy-omega.git"
+        ],
+        "branch": "master",
+        "commit_count": 33,
+        "last_commit": "Sun Aug 23 13:13:13 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 57,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            ".py",
+            16
+          ],
+          [
+            "no_ext",
+            14
+          ],
+          [
+            ".json",
+            12
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".sha256",
+            6
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "<<<<<<< HEAD ======="
+      }
+    },
+    {
+      "name": "xai-colossus-nanosphere",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-nanosphere",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-nanosphere.git"
+        ],
+        "branch": "main",
+        "commit_count": 37,
+        "last_commit": "Sun Aug 23 11:45:37 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 106,
+        "total_size_mb": 0.31,
+        "extensions": [
+          [
+            ".py",
+            42
+          ],
+          [
+            "no_ext",
+            25
+          ],
+          [
+            ".json",
+            16
+          ],
+          [
+            ".md",
+            14
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "An independent portfolio project for comparing simplified nanofluid coolant scenarios across modeled thermal conductivity, colloidal stability, settling risk, viscosity, pumping pe"
+      }
+    },
+    {
+      "name": "xai-colossus-security",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-security",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-security.git"
+        ],
+        "branch": "main",
+        "commit_count": 43,
+        "last_commit": "Sun Aug 23 11:45:02 2026 -1000 (2 days ago) - fix: remove canonical AKOS control bridge"
+      },
+      "metrics": {
+        "total_files": 113,
+        "total_size_mb": 0.26,
+        "extensions": [
+          [
+            "no_ext",
+            45
+          ],
+          [
+            ".py",
+            35
+          ],
+          [
+            ".md",
+            14
+          ],
+          [
+            ".json",
+            14
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "An independent portfolio project for evaluating declared suspicious-zone signals, recording threats, assigning severity, and producing bounded response proposals that require exter"
+      }
+    },
+    {
+      "name": "xai-colossus-servers",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-servers",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/xai-colossus-servers.git"
+        ],
+        "branch": "main",
+        "commit_count": 50,
+        "last_commit": "Sun Aug 23 13:12:54 2026 -1000 (2 days ago) - fix: convert AKOS bridge to non-authoritative compatibility pointer"
+      },
+      "metrics": {
+        "total_files": 111,
+        "total_size_mb": 0.2,
+        "extensions": [
+          [
+            "no_ext",
+            42
+          ],
+          [
+            ".py",
+            31
+          ],
+          [
+            ".json",
+            21
+          ],
+          [
+            ".md",
+            10
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory holds rack and node configuration JSON for Colossus-class hardware. - `rack_template.json` \u2014 minimal schema for per-rack slot maps."
+      }
+    }
+  ],
+  "LEGAL_WARFARE": [
+    {
+      "name": "01_Legal_Codex",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/01_Legal_Codex",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 972,
+        "total_size_mb": 47.49,
+        "extensions": [
+          [
+            ".md",
+            318
+          ],
+          [
+            ".js",
+            137
+          ],
+          [
+            ".ts",
+            95
+          ],
+          [
+            ".map",
+            82
+          ],
+          [
+            ".mjs",
+            53
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "CYBERTACK-1FDV-23-0001009",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/CYBERTACK-1FDV-23-0001009",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/CYBERTACK-1FDV-23-0001009.git"
+        ],
+        "branch": "master",
+        "commit_count": 24,
+        "last_commit": "Mon Aug 24 03:12:01 2026 -1000 (27 hours ago) - docs(codex): elevate AGENTS.md to genius-level sovereign architecture standard"
+      },
+      "metrics": {
+        "total_files": 302,
+        "total_size_mb": 81.1,
+        "extensions": [
+          [
+            ".md",
+            211
+          ],
+          [
+            ".pdf",
+            21
+          ],
+          [
+            ".docx",
+            16
+          ],
+          [
+            ".txt",
+            13
+          ],
+          [
+            ".py",
+            13
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "LEGAL_DATA",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/LEGAL_DATA",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 1282,
+        "total_size_mb": 128.65,
+        "extensions": [
+          [
+            ".md",
+            534
+          ],
+          [
+            ".js",
+            137
+          ],
+          [
+            ".ts",
+            95
+          ],
+          [
+            ".map",
+            82
+          ],
+          [
+            ".py",
+            60
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "LEGAL_TECH",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/LEGAL_TECH",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 9,
+        "total_size_mb": 0.26,
+        "extensions": [
+          [
+            ".py",
+            8
+          ],
+          [
+            ".html",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "__pycache__",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/__pycache__",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 0,
+        "total_size_mb": 0.0,
+        "extensions": [],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "forensics",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/forensics",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 1,
+        "total_size_mb": 0.0,
+        "extensions": [
+          [
+            ".txt",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "github_mirror",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/github_mirror",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 1558,
+        "total_size_mb": 768.38,
+        "extensions": [
+          [
+            ".md",
+            720
+          ],
+          [
+            ".pak",
+            223
+          ],
+          [
+            ".txt",
+            183
+          ],
+          [
+            ".pdf",
+            113
+          ],
+          [
+            ".json",
+            70
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Case:** Hawaii Family Court Case 1FDV-23-0001009 \u2014 Custody Modification **Custodian:** GlacierEQ (Casey Del Carpio Barton)"
+      }
+    },
+    {
+      "name": "index_seed",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/index_seed",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 5,
+        "total_size_mb": 0.0,
+        "extensions": [
+          [
+            ".md",
+            5
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    }
+  ],
+  "SWARM_INTELLIGENCE": [
+    {
+      "name": "Apex_Mastermind",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/Apex_Mastermind",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 18123,
+        "total_size_mb": 649.6,
+        "extensions": [
+          [
+            ".txt",
+            4700
+          ],
+          [
+            ".py",
+            4340
+          ],
+          [
+            ".ts",
+            1337
+          ],
+          [
+            ".json",
+            1331
+          ],
+          [
+            ".log",
+            1004
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "CYBERTACK",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/CYBERTACK",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 8,
+        "total_size_mb": 0.06,
+        "extensions": [
+          [
+            ".txt",
+            7
+          ],
+          [
+            ".md",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "GlacierEQ_Swarm",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/GlacierEQ_Swarm",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 14,
+        "total_size_mb": 0.14,
+        "extensions": [
+          [
+            ".json",
+            6
+          ],
+          [
+            "no_ext",
+            3
+          ],
+          [
+            ".log",
+            2
+          ],
+          [
+            ".md",
+            1
+          ],
+          [
+            ".jsonl",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "agent",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/agent",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 40,
+        "total_size_mb": 0.08,
+        "extensions": [
+          [
+            ".md",
+            40
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "mastermind_repo",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/mastermind_repo",
+      "git": {
+        "is_git": true,
+        "remotes": [
+          "origin: https://github.com/GlacierEQ/mastermind.git"
+        ],
+        "branch": "main",
+        "commit_count": 13,
+        "last_commit": "Sun Aug 23 18:18:19 2026 -1000 (2 days ago) - feat(builder): add APEX Sovereign Builder Engine to replace legacy AKOS containment loop"
+      },
+      "metrics": {
+        "total_files": 48,
+        "total_size_mb": 0.12,
+        "extensions": [
+          [
+            ".py",
+            17
+          ],
+          [
+            ".md",
+            15
+          ],
+          [
+            "no_ext",
+            5
+          ],
+          [
+            ".jsonl",
+            3
+          ],
+          [
+            ".yml",
+            3
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains data from the pytest's cache plugin, which provides the `--lf` and `--ff` options, as well as the `cache` fixture."
+      }
+    },
+    {
+      "name": "tower_of_babel",
+      "path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/SWARM_INTELLIGENCE/tower_of_babel",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 4719,
+        "total_size_mb": 134.35,
+        "extensions": [
+          [
+            ".py",
+            2858
+          ],
+          [
+            ".pyi",
+            291
+          ],
+          [
+            ".so",
+            196
+          ],
+          [
+            "no_ext",
+            142
+          ],
+          [
+            ".mat",
+            111
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Image: china.jpg Released under a creative commons license. [1]"
+      }
+    }
+  ],
+  "AEROSPACE_MECHANICS": [],
+  "IDENTITY_AND_PORTFOLIO": [],
+  "ENGINES": [
+    {
+      "name": "ML_INTELLIGENCE",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ENGINES/ML_INTELLIGENCE",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 1,
+        "total_size_mb": 0.01,
+        "extensions": [
+          [
+            ".py",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    }
+  ],
+  "INFRASTRUCTURE": [
+    {
+      "name": "MCP_SERVERS",
+      "path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/MCP_SERVERS",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 281,
+        "total_size_mb": 55.37,
+        "extensions": [
+          [
+            ".ts",
+            111
+          ],
+          [
+            ".js",
+            60
+          ],
+          [
+            ".md",
+            19
+          ],
+          [
+            ".json",
+            16
+          ],
+          [
+            "no_ext",
+            16
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "Desktop Commander gives Claude Code access to a local MCP server for terminal sessions, filesystem work, structured documents, search, process management, and SSH workflows. - Skil"
+      }
+    },
+    {
+      "name": "RUNTIMES",
+      "path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/RUNTIMES",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 5302,
+        "total_size_mb": 219.21,
+        "extensions": [
+          [
+            ".py",
+            4032
+          ],
+          [
+            ".pyi",
+            305
+          ],
+          [
+            "no_ext",
+            271
+          ],
+          [
+            ".md",
+            142
+          ],
+          [
+            ".json",
+            84
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "- `FULL_CONNECTOR_MAP.md` \u2014 exhaustive read + write inventory for swarm workers - `LIGHT_TRAVEL.md` \u2014 high-frequency subset for daily operator work"
+      }
+    },
+    {
+      "name": "__pycache__",
+      "path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/__pycache__",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 0,
+        "total_size_mb": 0.0,
+        "extensions": [],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "apex-core",
+      "path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core",
+      "git": {
+        "is_git": true,
+        "remotes": [],
+        "branch": "main",
+        "commit_count": 27,
+        "last_commit": "Mon Aug 24 10:48:19 2026 -1000 (20 hours ago) - docs(legal-taxonomy): ground master 80-repo legal category matrix across 5 sovereign families"
+      },
+      "metrics": {
+        "total_files": 49,
+        "total_size_mb": 0.27,
+        "extensions": [
+          [
+            ".py",
+            41
+          ],
+          [
+            ".md",
+            4
+          ],
+          [
+            "no_ext",
+            1
+          ],
+          [
+            ".swift",
+            1
+          ],
+          [
+            ".js",
+            1
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This repository is the central nervous system and canonical source of truth for all overarching APEX global automation and orchestration scripts. * `scripts/apex_surgical_engine.sh"
+      }
+    },
+    {
+      "name": "services",
+      "path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/services",
+      "git": {
+        "is_git": false,
+        "remotes": [],
+        "branch": "",
+        "commit_count": 0,
+        "last_commit": ""
+      },
+      "metrics": {
+        "total_files": 28,
+        "total_size_mb": 0.01,
+        "extensions": [
+          [
+            ".json",
+            27
+          ],
+          [
+            ".sh",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    }
+  ],
+  "ARCHIVE_CODEX": [
+    {
+      "name": "01_Legal_Intelligence_Manifests",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/01_Legal_Intelligence_Manifests",
+      "metrics": {
+        "total_files": 1,
+        "total_size_mb": 0.07,
+        "extensions": [
+          [
+            ".md",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "02_AI_and_Swarm_Engines",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/02_AI_and_Swarm_Engines",
+      "metrics": {
+        "total_files": 12,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".py",
+            8
+          ],
+          [
+            ".md",
+            2
+          ],
+          [
+            ".sh",
+            1
+          ],
+          [
+            ".html",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "02_Artificial_Intelligence",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/02_Artificial_Intelligence",
+      "metrics": {
+        "total_files": 4413,
+        "total_size_mb": 164.38,
+        "extensions": [
+          [
+            ".ts",
+            1167
+          ],
+          [
+            ".map",
+            1093
+          ],
+          [
+            ".js",
+            820
+          ],
+          [
+            ".py",
+            405
+          ],
+          [
+            ".mjs",
+            173
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "03_Forensics_and_Recovery_Manifests",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/03_Forensics_and_Recovery_Manifests",
+      "metrics": {
+        "total_files": 29,
+        "total_size_mb": 7.55,
+        "extensions": [
+          [
+            ".json",
+            18
+          ],
+          [
+            ".md",
+            7
+          ],
+          [
+            ".py",
+            1
+          ],
+          [
+            ".sh",
+            1
+          ],
+          [
+            ".log",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "04_Historical_Backups",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/04_Historical_Backups",
+      "metrics": {
+        "total_files": 290,
+        "total_size_mb": 88.17,
+        "extensions": [
+          [
+            "no_ext",
+            258
+          ],
+          [
+            ".ldb",
+            16
+          ],
+          [
+            ".log",
+            8
+          ],
+          [
+            ".old",
+            7
+          ],
+          [
+            ".md",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "04_Infrastructure",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/04_Infrastructure",
+      "metrics": {
+        "total_files": 11749,
+        "total_size_mb": 434.43,
+        "extensions": [
+          [
+            ".h",
+            1696
+          ],
+          [
+            ".ts",
+            1379
+          ],
+          [
+            ".md",
+            1282
+          ],
+          [
+            ".svg",
+            1271
+          ],
+          [
+            ".js",
+            1244
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "- `FULL_CONNECTOR_MAP.md` \u2014 exhaustive read + write inventory for swarm workers - `LIGHT_TRAVEL.md` \u2014 high-frequency subset for daily operator work"
+      }
+    },
+    {
+      "name": "05_Raw_Data",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/05_Raw_Data",
+      "metrics": {
+        "total_files": 71,
+        "total_size_mb": 804.22,
+        "extensions": [
+          [
+            "no_ext",
+            55
+          ],
+          [
+            ".py",
+            7
+          ],
+          [
+            ".json",
+            2
+          ],
+          [
+            ".sh",
+            2
+          ],
+          [
+            ".md",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "05_Unsorted",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/05_Unsorted",
+      "metrics": {
+        "total_files": 0,
+        "total_size_mb": 0.0,
+        "extensions": [],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "06_PROJECT_ARCHIVE",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/06_PROJECT_ARCHIVE",
+      "metrics": {
+        "total_files": 917,
+        "total_size_mb": 5.34,
+        "extensions": [
+          [
+            ".json",
+            353
+          ],
+          [
+            ".py",
+            249
+          ],
+          [
+            ".log",
+            143
+          ],
+          [
+            ".md",
+            99
+          ],
+          [
+            ".yml",
+            27
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "> **An agent name is not capability. OpenClaw v3.2 discovers and calls real endpoints, and fails over when one does not work.** OpenClaw combines file-integrity monitoring, policy-"
+      }
+    },
+    {
+      "name": "07_Media_Assets",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/07_Media_Assets",
+      "metrics": {
+        "total_files": 515,
+        "total_size_mb": 45.25,
+        "extensions": [
+          [
+            ".png",
+            389
+          ],
+          [
+            ".svg",
+            39
+          ],
+          [
+            ".jpg",
+            31
+          ],
+          [
+            ".gif",
+            26
+          ],
+          [
+            ".wav",
+            23
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "08_Datasets",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/08_Datasets",
+      "metrics": {
+        "total_files": 44,
+        "total_size_mb": 1.51,
+        "extensions": [
+          [
+            ".csv",
+            37
+          ],
+          [
+            ".log",
+            7
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "09_Frontend_Assets",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/09_Frontend_Assets",
+      "metrics": {
+        "total_files": 219,
+        "total_size_mb": 1.89,
+        "extensions": [
+          [
+            ".tsx",
+            178
+          ],
+          [
+            ".css",
+            29
+          ],
+          [
+            ".html",
+            10
+          ],
+          [
+            ".jsx",
+            2
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "10_Uncategorized_Logic",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/10_Uncategorized_Logic",
+      "metrics": {
+        "total_files": 0,
+        "total_size_mb": 0.0,
+        "extensions": [],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "11_Raw_Binaries_and_Unknown",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/11_Raw_Binaries_and_Unknown",
+      "metrics": {
+        "total_files": 3730,
+        "total_size_mb": 975.77,
+        "extensions": [
+          [
+            "no_ext",
+            664
+          ],
+          [
+            ".ts",
+            579
+          ],
+          [
+            ".so",
+            334
+          ],
+          [
+            ".pyi",
+            311
+          ],
+          [
+            ".mdx",
+            226
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains a collection of programs to demonstrate the features of the Tk toolkit.  The programs are all scripts for"
+      }
+    },
+    {
+      "name": "12_Core_Logic",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/12_Core_Logic",
+      "metrics": {
+        "total_files": 18890,
+        "total_size_mb": 202.89,
+        "extensions": [
+          [
+            ".py",
+            10849
+          ],
+          [
+            ".h",
+            6791
+          ],
+          [
+            ".md",
+            957
+          ],
+          [
+            ".txt",
+            73
+          ],
+          [
+            ".rs",
+            67
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "The IDLE icons are from https://bugs.python.org/issue1490384 Created by Andrew Clover."
+      }
+    },
+    {
+      "name": "AEON-777",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/AEON-777",
+      "metrics": {
+        "total_files": 546,
+        "total_size_mb": 3.05,
+        "extensions": [
+          [
+            ".md",
+            211
+          ],
+          [
+            ".json",
+            131
+          ],
+          [
+            ".mjs",
+            78
+          ],
+          [
+            ".txt",
+            52
+          ],
+          [
+            ".py",
+            23
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Production-ready integration framework for 14 cloud services** *L7-Pointer Architecture | Aspen Grove Legal Filing System*"
+      }
+    },
+    {
+      "name": "Carved_Assets",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/Carved_Assets",
+      "metrics": {
+        "total_files": 0,
+        "total_size_mb": 0.0,
+        "extensions": [],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "OMNIBUS",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/OMNIBUS",
+      "metrics": {
+        "total_files": 5611,
+        "total_size_mb": 51.83,
+        "extensions": [
+          [
+            ".md",
+            1818
+          ],
+          [
+            ".patch",
+            1298
+          ],
+          [
+            ".py",
+            1071
+          ],
+          [
+            ".xsd",
+            312
+          ],
+          [
+            ".pdf",
+            302
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "This directory contains screenshots for the Loki Mode README. ---"
+      }
+    },
+    {
+      "name": "chat_exports",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/chat_exports",
+      "metrics": {
+        "total_files": 88,
+        "total_size_mb": 0.69,
+        "extensions": [
+          [
+            ".md",
+            87
+          ],
+          [
+            ".json",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "chat_vault",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/chat_vault",
+      "metrics": {
+        "total_files": 511,
+        "total_size_mb": 27.37,
+        "extensions": [
+          [
+            ".txt",
+            170
+          ],
+          [
+            ".json",
+            170
+          ],
+          [
+            ".md",
+            170
+          ],
+          [
+            ".db",
+            1
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "investigation_zone",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/investigation_zone",
+      "metrics": {
+        "total_files": 5,
+        "total_size_mb": 0.1,
+        "extensions": [
+          [
+            ".md",
+            3
+          ],
+          [
+            ".py",
+            2
+          ]
+        ],
+        "has_readme": false,
+        "readme_snippet": ""
+      }
+    },
+    {
+      "name": "job-app-helix",
+      "path": "/Users/kcbflux/APEX_SYSTEM/ARCHIVE/Codex/job-app-helix",
+      "metrics": {
+        "total_files": 1039,
+        "total_size_mb": 5.8,
+        "extensions": [
+          [
+            ".json",
+            351
+          ],
+          [
+            ".py",
+            298
+          ],
+          [
+            ".log",
+            141
+          ],
+          [
+            ".md",
+            101
+          ],
+          [
+            ".yaml",
+            69
+          ]
+        ],
+        "has_readme": true,
+        "readme_snippet": "**Outcome:** One evidence-bound application surface connects recruiter value, senior-engineer proof, and AI/ATS ingestion. **Current status:** `PARTIALLY VERIFIED` - exact 67-repos"
+      }
+    }
+  ]
+}

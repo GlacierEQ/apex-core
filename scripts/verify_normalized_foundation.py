@@ -127,6 +127,7 @@ class ApexFoundationVerifier:
             "mimo",
             "free-models",
             "kilo",
+            "apex-skills",
         ]
 
         for b in binaries:

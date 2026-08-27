@@ -13,10 +13,20 @@ import json
 import math
 import os
 import re
+import signal
 import stat
 import sys
 import time
 from collections import Counter, defaultdict
+
+
+class _CloudSourceTimeout(BaseException):
+    """Raised via SIGALRM when a cloud source crawl exceeds its time budget.
+
+    Subclasses BaseException (not Exception) so the per-file `except Exception`
+    handler in crawl_and_index does not silently swallow it. A non-responsive
+    cloud file provider (e.g. Google Drive/TeraBox) must never hang the sync.
+    """
 from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -200,6 +210,11 @@ class ApexOmniCloudMLEngine:
         skipped_count = 0
         start_time = time.time()
 
+        cloud_source_timeout = 30  # seconds; a non-responsive cloud provider must not hang the sync
+
+        def _cloud_source_timeout_handler(signum, frame):
+            raise _CloudSourceTimeout(f"crawl exceeded {cloud_source_timeout}s on {source_name}")
+
         for source_name, source_path in CLOUD_SOURCES:
             resolved_p = source_path.resolve()
             if not resolved_p.exists():
@@ -208,83 +223,99 @@ class ApexOmniCloudMLEngine:
 
             print(f"  [*] Indexing Cloud Source: {source_name} ({resolved_p})...")
             count_in_source = 0
-            for root, dirs, files in os.walk(resolved_p):
-                # Skip heavy build and lock directories
-                dirs[:] = [d for d in dirs if d not in {
-                    ".git", "node_modules", ".venv", "venv", "__pycache__",
-                    ".cache", ".Trash", ".pytest_cache", ".DS_Store", "Config_Backups",
-                    "mimo_backups", "archive", ".antigravity-ide", "DerivedData"
-                }]
+            alarm_armed = False
+            try:
+                signal.signal(signal.SIGALRM, _cloud_source_timeout_handler)
+                signal.alarm(cloud_source_timeout)
+                alarm_armed = True
+            except (ValueError, OSError):
+                # Not in the main thread (or platform lacks SIGALRM); proceed without the guard.
+                alarm_armed = False
+            try:
+                for root, dirs, files in os.walk(resolved_p):
+                    # Skip heavy build and lock directories
+                    dirs[:] = [d for d in dirs if d not in {
+                        ".git", "node_modules", ".venv", "venv", "__pycache__",
+                        ".cache", ".Trash", ".pytest_cache", ".DS_Store", "Config_Backups",
+                        "mimo_backups", "archive", ".antigravity-ide", "DerivedData"
+                    }]
 
-                # Limit depth
-                rel_depth = len(Path(root).relative_to(resolved_p).parts)
-                if rel_depth > 4 or count_in_source >= max_files_per_source:
-                    dirs[:] = []
-                    continue
-
-                for f in files:
-                    fp = Path(root) / f
-                    if fp.suffix.lower() not in SUPPORTED_EXTENSIONS:
+                    # Limit depth
+                    rel_depth = len(Path(root).relative_to(resolved_p).parts)
+                    if rel_depth > 4 or count_in_source >= max_files_per_source:
+                        dirs[:] = []
                         continue
 
-                    try:
-                        st = fp.stat()
-                        fsize = st.st_size
-                        # Skip oversized binary/minified files (> 500KB)
-                        if fsize > 500 * 1024 or fsize < 10:
-                            skipped_count += 1
+                    for f in files:
+                        fp = Path(root) / f
+                        if fp.suffix.lower() not in SUPPORTED_EXTENSIONS:
                             continue
 
-                        mtime = st.st_mtime
-                        doc_id = hashlib.sha256(str(fp).encode("utf-8")).hexdigest()[:16]
+                        try:
+                            st = fp.stat()
+                            fsize = st.st_size
+                            # Skip oversized binary/minified files (> 500KB)
+                            if fsize > 500 * 1024 or fsize < 10:
+                                skipped_count += 1
+                                continue
 
-                        # Check if already indexed and unchanged
-                        if doc_id in self.docs and self.docs[doc_id].modified_time == mtime:
+                            mtime = st.st_mtime
+                            doc_id = hashlib.sha256(str(fp).encode("utf-8")).hexdigest()[:16]
+
+                            # Check if already indexed and unchanged
+                            if doc_id in self.docs and self.docs[doc_id].modified_time == mtime:
+                                count_in_source += 1
+                                continue
+
+                            # Read text preview with non-blocking timeout
+                            raw_text = self._safe_read_file(fp, timeout=0.25)
+                            if not raw_text:
+                                skipped_count += 1
+                                continue
+                            preview = raw_text[:3000]  # First 3KB for ML embedding
+                            content_hash = hashlib.sha256(preview.encode("utf-8")).hexdigest()[:16]
+
+                            tags = self._determine_tags(fp, preview)
+                            entities = self._extract_entities(preview, str(fp))
+
+                            doc_node = CloudDocumentNode(
+                                doc_id=doc_id,
+                                file_path=str(fp),
+                                cloud_source=source_name,
+                                file_name=fp.name,
+                                file_size=fsize,
+                                modified_time=mtime,
+                                content_hash=content_hash,
+                                text_preview=preview[:400],  # Concise stored preview
+                                tags=tags,
+                                entities=entities,
+                                cluster_id=0,
+                                synaptic_weight=1.0,
+                                access_count=0,
+                            )
+
+                            self.docs[doc_id] = doc_node
+                            indexed_count += 1
                             count_in_source += 1
-                            continue
 
-                        # Read text preview with non-blocking timeout
-                        raw_text = self._safe_read_file(fp, timeout=0.25)
-                        if not raw_text:
+                            if count_in_source >= max_files_per_source:
+                                dirs.clear()
+                                break
+                        except Exception:
                             skipped_count += 1
                             continue
-                        preview = raw_text[:3000]  # First 3KB for ML embedding
-                        content_hash = hashlib.sha256(preview.encode("utf-8")).hexdigest()[:16]
 
-                        tags = self._determine_tags(fp, preview)
-                        entities = self._extract_entities(preview, str(fp))
-
-                        doc_node = CloudDocumentNode(
-                            doc_id=doc_id,
-                            file_path=str(fp),
-                            cloud_source=source_name,
-                            file_name=fp.name,
-                            file_size=fsize,
-                            modified_time=mtime,
-                            content_hash=content_hash,
-                            text_preview=preview[:400],  # Concise stored preview
-                            tags=tags,
-                            entities=entities,
-                            cluster_id=0,
-                            synaptic_weight=1.0,
-                            access_count=0,
-                        )
-
-                        self.docs[doc_id] = doc_node
-                        indexed_count += 1
-                        count_in_source += 1
-
-                        if count_in_source >= max_files_per_source:
-                            dirs.clear()
-                            break
-                    except Exception:
-                        skipped_count += 1
-                        continue
-
-                if count_in_source >= max_files_per_source:
-                    dirs.clear()
-                    break
-
+                    if count_in_source >= max_files_per_source:
+                        dirs.clear()
+                        break
+            except _CloudSourceTimeout:
+                if alarm_armed:
+                    signal.alarm(0)
+                print(f"  [!] Timed out indexing {source_name}; skipping to avoid hang.", flush=True)
+                continue
+            finally:
+                if alarm_armed:
+                    signal.alarm(0)
             print(f"      └─ Indexed {count_in_source} files from {source_name}", flush=True)
             self.save_index()
 

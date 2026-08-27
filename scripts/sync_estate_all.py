@@ -38,7 +38,8 @@ def main():
         ("2. Estate Hardening & POSIX Permissions (0o600 / 0o755)", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_harden.py"]),
         ("3. Global Git Pre-Commit Security Hooks", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/install_git_hooks.py"]),
         ("4. Multi-Cloud Vector Knowledge Index Delta Crawl", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_omni_cloud_ml.py", "crawl", "--max-files", "25"]),
-        ("5. Full Estate Pytest Verification Suite (13/13 Green)", ["python3", "-m", "pytest", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/tests"]),
+        ("5. Multi-Cloud Storage Horizon Audit (ShadowDrive & Google Drive)", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_rclone_orchestrator.py", "status"]),
+        ("6. Full Estate Pytest Verification Suite", ["python3", "-m", "pytest", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/tests"]),
     ]
 
     all_passed = True
