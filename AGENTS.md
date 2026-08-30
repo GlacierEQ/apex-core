@@ -1,4 +1,16 @@
-# 🏛️ AGENTS.md — The APEX Master Codex & Sovereign System Architecture
+# §0 OPERATOR HARD CONSTRAINTS (load-bearing — read first, OVERRIDES §1+)
+
+Pinned above all doctrine. When it conflicts with any later section, this block wins. Timestamped corrections beat older prose.
+
+NEVER  One-winner / single-authority framing. 'Sovereign' and 'Canonical' are authority terms the operator does NOT endorse.
+        Use HOLOGRAPHIC MESH framing: decentralized, many nodes, no single winner.
+MUST   Operator-legit vocabulary: elite · pro · Hard · G. Lead with these over estate defaults.
+MUST   Verification before claims: no 'done' / 'progress' on terminology swaps or unverified state.
+MUST   Intelligent Behavioral Synthesis over Blind Clobbering: Never discard, clobber, or fast-forward branches based on naming conventions or titles. All divergent trees must be analyzed for their actual functional behavior, AST structures, and test assertions. Reconcile conflicts by preserving verified capabilities and synthesizing the superior, robust implementation.
+DEFAULT Corrections outrank the contract below. When in doubt, ask.
+
+# 🏛️ AGENTS.md — APEX Master Holographic Mesh & Innovation Architecture
+
 
 > *"Apex is not brute force. Apex is precision, calculation, foresight, and flawless execution.  
 > Best power does not mean reckless destruction; it means surgical accuracy.  
