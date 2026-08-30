@@ -35,6 +35,7 @@ def main():
 
     steps = [
         ("1. Master Two-Tier MCP Pool Synchronization", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/sync_mcp_pool.py"]),
+        ("1b. Agent Runtime Skills Resonance (mega-skills symlinks)", ["python3", "/Users/kcbflux/mega-skills/scripts/sync_runtime_skills.py"]),
         ("2. Estate Hardening & POSIX Permissions (0o600 / 0o755)", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_harden.py"]),
         ("3. Global Git Pre-Commit Security Hooks", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/install_git_hooks.py"]),
         ("4. Multi-Cloud Vector Knowledge Index Delta Crawl", ["python3", "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-core/scripts/apex_omni_cloud_ml.py", "crawl", "--max-files", "25"]),

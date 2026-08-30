@@ -131,9 +131,9 @@ Original Code Chunk:
 
 Return ONLY the complete, corrected replacement code for this chunk. No explanations, no markdown formatting if possible."""
 
-            print("  [*] Dispatching chunk to AI Repair Engine (Qwen 2.5 Coder)...")
+            print("  [*] Dispatching chunk to AI Repair Engine (Poolside Laguna S 2.1)...")
             res = chat_openrouter(
-                model="qwen/qwen-2.5-coder-32b-instruct:free",
+                model="poolside/laguna-s-2.1:free",
                 prompt=repair_prompt,
                 max_tokens=2048,
                 temperature=0.1,

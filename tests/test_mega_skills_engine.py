@@ -18,7 +18,7 @@ def test_taxonomy_completeness():
     """Verify that all 8 Mega Skills and 83 Sub-Skills are canonically defined."""
     assert len(APEX_MEGA_TAXONOMY) == 8
     total_sub_skills = sum(len(v["skills"]) for v in APEX_MEGA_TAXONOMY.values())
-    assert total_sub_skills == 83
+    assert total_sub_skills == 85
 
 
 def test_firewall_formatting():
@@ -55,7 +55,7 @@ def test_sub_skill_counts_per_mega_skill():
         "mega-filesystem-omni-engine": 7,
         "mega-gcp-data-engineering": 23,
         "mega-legal-forensic-engine": 5,
-        "mega-model-expansion-engine": 3,
+        "mega-model-expansion-engine": 5,
         "mega-supabase-ecosystem": 5,
         "mega-vercel-ecosystem": 25,
     }

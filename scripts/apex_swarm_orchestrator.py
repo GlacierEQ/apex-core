@@ -37,10 +37,10 @@ class ApexSwarmOrchestrator:
     Coordinates multi-model agentic swarms with role-based division of intelligence.
     """
 
-    ARCHITECT_MODEL = "deepseek/deepseek-r1:free"
+    ARCHITECT_MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
     MULTIMODAL_MODEL = "xiaomi/mimo-v2.5-pro"
-    CODER_MODEL = "qwen/qwen-2.5-coder-32b-instruct:free"
-    AUDITOR_MODEL = "deepseek/deepseek-chat:free"
+    CODER_MODEL = "poolside/laguna-s-2.1:free"
+    AUDITOR_MODEL = "z-ai/glm-5.2:free"
 
     @classmethod
     def execute_swarm(cls, task_prompt: str, context: str = "") -> SwarmExecutionReport:

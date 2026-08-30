@@ -56,9 +56,9 @@ class ApexSwarmDialectic:
     """
 
     MODELS = {
-        "architect": "deepseek/deepseek-r1:free",
-        "synthesizer": "qwen/qwen-2.5-coder-32b-instruct:free",
-        "auditor": "deepseek/deepseek-chat:free",
+        "architect": "nvidia/nemotron-3-ultra-550b-a55b:free",
+        "synthesizer": "poolside/laguna-s-2.1:free",
+        "auditor": "z-ai/glm-5.2:free",
         "perception": "xiaomi/mimo-v2.5-pro",
     }
 
