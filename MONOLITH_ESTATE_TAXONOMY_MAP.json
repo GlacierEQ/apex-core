@@ -13,6 +13,17 @@
         "is_fork": false
       },
       {
+        "name": "apex-legal-ops-dashboard",
+        "description": "APEX Automated Deployment - apex-legal-ops-dashboard",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-legal-ops-dashboard",
+        "is_fork": false
+      },
+      {
         "name": "legal-powerhouse",
         "description": "Legal Powerhouse - The relentless pursuit of truth | Unified legal engineering system",
         "category": "LEGAL",
@@ -21,6 +32,72 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/legal-powerhouse",
+        "is_fork": false
+      },
+      {
+        "name": "MCP-OMNI-PLATFORM",
+        "description": "\ud83d\ude80 Universal AI Orchestration Platform - Consolidating MCP-MASTER-OMNI-GRID + MCP-SOVEREIGN-DEPLOYMENT-COMPLETE with 25+ API connectors, quantum-enhanced memory, and enterprise-grade legal automation infrastructure",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/MCP-OMNI-PLATFORM",
+        "is_fork": false
+      },
+      {
+        "name": "legal-ai-editor",
+        "description": "",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/legal-ai-editor",
+        "is_fork": true
+      },
+      {
+        "name": "legal-aid-chatbot",
+        "description": "",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/legal-aid-chatbot",
+        "is_fork": true
+      },
+      {
+        "name": "project3-chatbot-for-legal-services-automation",
+        "description": "",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/project3-chatbot-for-legal-services-automation",
+        "is_fork": true
+      },
+      {
+        "name": "deadline-tracker-mcp",
+        "description": "Critical MCP server for tracking TRO expirations and motion deadlines in legal case management",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/deadline-tracker-mcp",
+        "is_fork": false
+      },
+      {
+        "name": "jefs-legal-ai-fortress",
+        "description": "Nuclear Legal AI System for Hawaii JEFS Integration - Maximum Power Legal Automation with Document Processing, Security, and Case Intelligence",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/jefs-legal-ai-fortress",
         "is_fork": false
       },
       {
@@ -288,17 +365,6 @@
         "is_fork": false
       },
       {
-        "name": "MCP-OMNI-PLATFORM",
-        "description": "\ud83d\ude80 Universal AI Orchestration Platform - Consolidating MCP-MASTER-OMNI-GRID + MCP-SOVEREIGN-DEPLOYMENT-COMPLETE with 25+ API connectors, quantum-enhanced memory, and enterprise-grade legal automation infrastructure",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/MCP-OMNI-PLATFORM",
-        "is_fork": false
-      },
-      {
         "name": "Pro-xAI",
         "description": "\ud83d\udd31 Pro-tier xAI sovereign flagship \u2014 Colossus infrastructure suite, Grok agent architecture, legal intelligence, thermal engineering, energy systems, waterplant, microcode, security, and community ops | GlacierEQ APEX",
         "category": "LEGAL",
@@ -417,17 +483,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/AIConstitution",
-        "is_fork": false
-      },
-      {
-        "name": "deadline-tracker-mcp",
-        "description": "Critical MCP server for tracking TRO expirations and motion deadlines in legal case management",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/deadline-tracker-mcp",
         "is_fork": false
       },
       {
@@ -563,17 +618,6 @@
         "is_fork": true
       },
       {
-        "name": "jefs-legal-ai-fortress",
-        "description": "Nuclear Legal AI System for Hawaii JEFS Integration - Maximum Power Legal Automation with Document Processing, Security, and Case Intelligence",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/jefs-legal-ai-fortress",
-        "is_fork": false
-      },
-      {
         "name": "ai_legal_assistant_project",
         "description": "",
         "category": "LEGAL",
@@ -662,17 +706,6 @@
         "is_fork": false
       },
       {
-        "name": "apex-legal-ops-dashboard",
-        "description": "APEX Automated Deployment - apex-legal-ops-dashboard",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-legal-ops-dashboard",
-        "is_fork": false
-      },
-      {
         "name": "mastermind-law",
         "description": "\ud83c\udfdb\ufe0f Law-specialized APEX Mastermind variant \u2014 autonomous legal warfare engine. Bolt-on deployment to case brain",
         "category": "LEGAL",
@@ -715,64 +748,9 @@
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/FEDERAL-LITIGATION-TEMPLATES",
         "is_fork": false
-      },
-      {
-        "name": "legal-aid-chatbot",
-        "description": "",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/legal-aid-chatbot",
-        "is_fork": true
-      },
-      {
-        "name": "project3-chatbot-for-legal-services-automation",
-        "description": "",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/project3-chatbot-for-legal-services-automation",
-        "is_fork": true
-      },
-      {
-        "name": "legal-ai-editor",
-        "description": "",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/legal-ai-editor",
-        "is_fork": true
       }
     ],
     "LEGAL_DATA": [
-      {
-        "name": "DOCKETS",
-        "description": "",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/DOCKETS",
-        "is_fork": false
-      },
-      {
-        "name": "aspen-grove-connectors",
-        "description": "\ud83d\udd0c ASPEN GROVE CONNECTORS \u2014 All 12 MCP connectors, connector registry, health monitoring. GitHub, Notion, Supabase, Dropbox, OneDrive, ClickUp, Linear, Vercel, DuckDB, Taskade, MemoryPlugin, Pinecone. Inherits aspen-grove-core. Case 1FDV-23-0001009 | GlacierEQ",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/aspen-grove-connectors",
-        "is_fork": false
-      },
       {
         "name": "CHERRY_CHAN_RECOVERY_MATRIX",
         "description": "Dedicated Forensic & Legal Recovery Matrix for Cherry Chan (Vegas Case) - SEPARATED FROM MAIN STACK",
@@ -782,6 +760,50 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/CHERRY_CHAN_RECOVERY_MATRIX",
+        "is_fork": false
+      },
+      {
+        "name": "apex-legal-case",
+        "description": "APEX Legal Intelligence \u2014 Case 1FDV-23-0001009 Hawaii First Circuit Family Court",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-legal-case",
+        "is_fork": false
+      },
+      {
+        "name": "CYBERTACK-1FDV-23-0001009",
+        "description": "\ud83d\udd31 CYBERTACK \u2014 Case 1FDV-23-0001009 Cyberattack Investigation \u2014 40 exhibits, $12.8M damages, Brower connection, evidence tampering (MD5 verified)",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/CYBERTACK-1FDV-23-0001009",
+        "github_url": "https://github.com/GlacierEQ/CYBERTACK-1FDV-23-0001009",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-apex-fs-commander",
+        "description": "Apex FS Commander - Power frontend for MCP orchestration, evidence automation, docket forensics, and file system control for Kekoa Barton Case 1FDV-23-0001009. Integrated with Linear, Notion, GitHub Aspen Grove memory, agent orchestration patterns.",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Pro-apex-fs-commander",
+        "is_fork": false
+      },
+      {
+        "name": "THE_CATACLYSM",
+        "description": "Forensic Email Archive - Case 1FDV-23-0001009 | Kekoa Barton | Chain-of-Custody Email Evidence System | Potato Peeler Protocol",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/THE_CATACLYSM",
         "is_fork": false
       },
       {
@@ -796,6 +818,50 @@
         "is_fork": false
       },
       {
+        "name": "DOCKETS",
+        "description": "",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/DOCKETS",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-AEON-777",
+        "description": "AEON-777 - Foundation Architecture Plans | Sovereign Ascension Protocol v1.0 | THE CATACLYSM ENGINE | Unifying 860 repos with Level 5 Apex Swarm + Colossus Backend + Mastermind Orchestration for Case 1FDV-23-0001009",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Pro-AEON-777",
+        "is_fork": false
+      },
+      {
+        "name": "CASE-LAW-ARSENAL",
+        "description": "\ud83d\udcda PRIVATE - Legal research database. Supreme Court + 9th Circuit precedent. Qualified immunity defeats. RICO case law. Constitutional violations. Markdown formatted opinions with citations. Searchable and version-controlled.",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/CASE-LAW-ARSENAL",
+        "is_fork": false
+      },
+      {
+        "name": "AspenGrove-KEKOA-1FDV-23-0001009",
+        "description": "Aspen Grove Quantum Memory + Potato Peeler Constitutional Warfare Knowledge Base for Case 1FDV-23-0001009 | Kekoa Barton Liberation | Persistent OSINT, Legal Templates, Evidence Vault Sync | All assets carryover-guaranteed",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/AspenGrove-KEKOA-1FDV-23-0001009",
+        "is_fork": false
+      },
+      {
         "name": "case-1FDV-23-0001009-legal-documents",
         "description": "Legal document repository for Hawaii Family Court Case 1FDV-23-0001009 - Custody Modification. Version-controlled motions, briefs, evidence logs, and case strategy.",
         "category": "LEGAL",
@@ -807,14 +873,124 @@
         "is_fork": false
       },
       {
-        "name": "THE_CATACLYSM",
-        "description": "Forensic Email Archive - Case 1FDV-23-0001009 | Kekoa Barton | Chain-of-Custody Email Evidence System | Potato Peeler Protocol",
+        "name": "Pro-Evidence",
+        "description": "\ud83d\udd0d Pro-tier forensic evidence vault \u2014 MEGA-PDF system, OCR, Bates numbering, SHA-256 hash chain, exhibit catalog, Dropbox 1FDV sync, AI-powered document consciousness | Case 1FDV-23-0001009 | GlacierEQ APEX",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/Pro-Evidence",
+        "github_url": "https://github.com/GlacierEQ/Pro-Evidence",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-Forensics",
+        "description": "\ud83d\udd10 Pro-tier federal forensic operations \u2014 device repair, firmware malware detection, WhisperX transcription, PDF analysis, SleuthKit, and evidence preservation with chain-of-custody integrity | GlacierEQ APEX | Case 1FDV-23-0001009",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/Pro-Forensics",
+        "github_url": "https://github.com/GlacierEQ/Pro-Forensics",
+        "is_fork": false
+      },
+      {
+        "name": "aspen-grove-core",
+        "description": "\ud83c\udf33 ASPEN GROVE CORE \u2014 Canonical Spiral Engine bootup. All memory layers, hyper-intelligence, swarm tech, skills, connectors. Point any agent here to boot the full APEX engine. Promoted from v7. Case 1FDV-23-0001009 | GlacierEQ",
         "category": "LEGAL",
         "subcategory": "LEGAL_DATA",
         "is_private": true,
         "is_local_cloned": false,
         "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/THE_CATACLYSM",
+        "github_url": "https://github.com/GlacierEQ/aspen-grove-core",
+        "is_fork": false
+      },
+      {
+        "name": "spiral-engine",
+        "description": "Spiral Engine \u2014 double helix hub-and-spoke architecture. Each spoke is pillar+piston. Defense and offense strands intertwined, connected by shared rungs. Each revolution compounds intelligence. The structural DNA that both aspen-grove and colossal-agent express. Case 1FDV-23-0001009.",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spiral-engine",
+        "github_url": "https://github.com/GlacierEQ/spiral-engine",
+        "is_fork": false
+      },
+      {
+        "name": "case-brain-unified-runtime",
+        "description": "Unified Case Brain runtime: architecture.md, dynamic_voice_background_ops.py, case_brain_ingestion.py + AKOS/max-token-saver for Case 1FDV-23-0001009 Kekoa protection. Persistent foundation for voice, background motion/GitHub, parallel text.",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/case-brain-unified-runtime",
+        "is_fork": false
+      },
+      {
+        "name": "hawaii-docket-automation",
+        "description": "\ud83c\udfdb\ufe0f Enterprise-grade Hawaii court docket processing system with MCP integration, automated analysis, report generation, and multi-platform sync",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/hawaii-docket-automation",
+        "is_fork": false
+      },
+      {
+        "name": "aspen-grove-apex-unified-v9",
+        "description": "\ud83c\udf33\u27c1 ASPEN GROVE APEX UNIFIED v9 \u2014 AKOS-governed, Pro-Code-gated, Spiral Engine core. All Groves merged. Case 1FDV-23-0001009 | GlacierEQ",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/aspen-grove-apex-unified-v9",
+        "is_fork": false
+      },
+      {
+        "name": "apex-boot-core",
+        "description": "APEX session auto-boot system \u2014 loads Casey/Kekoa/1FDV-23-0001009 context into any AI session automatically at startup",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-boot-core",
+        "is_fork": false
+      },
+      {
+        "name": "aspen-grove-connectors",
+        "description": "\ud83d\udd0c ASPEN GROVE CONNECTORS \u2014 All 12 MCP connectors, connector registry, health monitoring. GitHub, Notion, Supabase, Dropbox, OneDrive, ClickUp, Linear, Vercel, DuckDB, Taskade, MemoryPlugin, Pinecone. Inherits aspen-grove-core. Case 1FDV-23-0001009 | GlacierEQ",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/aspen-grove-connectors",
+        "is_fork": false
+      },
+      {
+        "name": "aspen-grove-memory",
+        "description": "\ud83e\udde0 ASPEN GROVE MEMORY \u2014 4-tier memory constellation. Tier1 in-process, Tier2 Supabase pgvector, Tier3 Pinecone+Mem0, Tier4 Neo4j+MemoryPlugin+Supermemory. Bidirectional file\u2194memory organism. Inherits aspen-grove-core. Case 1FDV-23-0001009 | GlacierEQ",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/aspen-grove-memory",
+        "is_fork": false
+      },
+      {
+        "name": "lockheed-evidence-binding-gateway",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "LEGAL",
+        "subcategory": "LEGAL_DATA",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/lockheed-evidence-binding-gateway",
         "is_fork": false
       },
       {
@@ -840,39 +1016,6 @@
         "is_fork": false
       },
       {
-        "name": "aspen-grove-core",
-        "description": "\ud83c\udf33 ASPEN GROVE CORE \u2014 Canonical Spiral Engine bootup. All memory layers, hyper-intelligence, swarm tech, skills, connectors. Point any agent here to boot the full APEX engine. Promoted from v7. Case 1FDV-23-0001009 | GlacierEQ",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/aspen-grove-core",
-        "is_fork": false
-      },
-      {
-        "name": "apex-legal-case",
-        "description": "APEX Legal Intelligence \u2014 Case 1FDV-23-0001009 Hawaii First Circuit Family Court",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-legal-case",
-        "is_fork": false
-      },
-      {
-        "name": "AspenGrove-KEKOA-1FDV-23-0001009",
-        "description": "Aspen Grove Quantum Memory + Potato Peeler Constitutional Warfare Knowledge Base for Case 1FDV-23-0001009 | Kekoa Barton Liberation | Persistent OSINT, Legal Templates, Evidence Vault Sync | All assets carryover-guaranteed",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/AspenGrove-KEKOA-1FDV-23-0001009",
-        "is_fork": false
-      },
-      {
         "name": "CASE-1FDV-23-0001009-LEAN",
         "description": "Lean case file \u2014 142 files, 3MB, all motions and evidence references",
         "category": "LEGAL",
@@ -881,17 +1024,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/CASE-1FDV-23-0001009-LEAN",
-        "is_fork": false
-      },
-      {
-        "name": "CYBERTACK-1FDV-23-0001009",
-        "description": "\ud83d\udd31 CYBERTACK \u2014 Case 1FDV-23-0001009 Cyberattack Investigation \u2014 40 exhibits, $12.8M damages, Brower connection, evidence tampering (MD5 verified)",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/LEGAL_WARFARE/CYBERTACK-1FDV-23-0001009",
-        "github_url": "https://github.com/GlacierEQ/CYBERTACK-1FDV-23-0001009",
         "is_fork": false
       },
       {
@@ -906,28 +1038,6 @@
         "is_fork": true
       },
       {
-        "name": "spiral-engine",
-        "description": "Spiral Engine \u2014 double helix hub-and-spoke architecture. Each spoke is pillar+piston. Defense and offense strands intertwined, connected by shared rungs. Each revolution compounds intelligence. The structural DNA that both aspen-grove and colossal-agent express. Case 1FDV-23-0001009.",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spiral-engine",
-        "github_url": "https://github.com/GlacierEQ/spiral-engine",
-        "is_fork": false
-      },
-      {
-        "name": "aspen-grove-memory",
-        "description": "\ud83e\udde0 ASPEN GROVE MEMORY \u2014 4-tier memory constellation. Tier1 in-process, Tier2 Supabase pgvector, Tier3 Pinecone+Mem0, Tier4 Neo4j+MemoryPlugin+Supermemory. Bidirectional file\u2194memory organism. Inherits aspen-grove-core. Case 1FDV-23-0001009 | GlacierEQ",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/aspen-grove-memory",
-        "is_fork": false
-      },
-      {
         "name": "aspen-grove-supabase",
         "description": "APEX Legal Ops \u2014 Supabase-native architecture for case 1FDV-23-0001009. PostgreSQL schema, Edge Functions, Python client, realtime subscriptions.",
         "category": "LEGAL",
@@ -936,17 +1046,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/aspen-grove-supabase",
-        "is_fork": false
-      },
-      {
-        "name": "aspen-grove-apex-unified-v9",
-        "description": "\ud83c\udf33\u27c1 ASPEN GROVE APEX UNIFIED v9 \u2014 AKOS-governed, Pro-Code-gated, Spiral Engine core. All Groves merged. Case 1FDV-23-0001009 | GlacierEQ",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/aspen-grove-apex-unified-v9",
         "is_fork": false
       },
       {
@@ -991,28 +1090,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/evidence-integrity-engine",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-apex-fs-commander",
-        "description": "Apex FS Commander - Power frontend for MCP orchestration, evidence automation, docket forensics, and file system control for Kekoa Barton Case 1FDV-23-0001009. Integrated with Linear, Notion, GitHub Aspen Grove memory, agent orchestration patterns.",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-apex-fs-commander",
-        "is_fork": false
-      },
-      {
-        "name": "lockheed-evidence-binding-gateway",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/lockheed-evidence-binding-gateway",
         "is_fork": false
       },
       {
@@ -1115,17 +1192,6 @@
         "is_fork": false
       },
       {
-        "name": "Pro-Forensics",
-        "description": "\ud83d\udd10 Pro-tier federal forensic operations \u2014 device repair, firmware malware detection, WhisperX transcription, PDF analysis, SleuthKit, and evidence preservation with chain-of-custody integrity | GlacierEQ APEX | Case 1FDV-23-0001009",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-Forensics",
-        "is_fork": false
-      },
-      {
         "name": "casebuilder-taskade-endpoints",
         "description": "Taskade API endpoints for 1FDV-23-0001009 RICO Casebuilder - Genesis agents, doc upload/download, automations",
         "category": "LEGAL",
@@ -1134,17 +1200,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/casebuilder-taskade-endpoints",
-        "is_fork": false
-      },
-      {
-        "name": "case-brain-unified-runtime",
-        "description": "Unified Case Brain runtime: architecture.md, dynamic_voice_background_ops.py, case_brain_ingestion.py + AKOS/max-token-saver for Case 1FDV-23-0001009 Kekoa protection. Persistent foundation for voice, background motion/GitHub, parallel text.",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/case-brain-unified-runtime",
         "is_fork": false
       },
       {
@@ -1167,17 +1222,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/EVIDENCE-VAULT-ENCRYPTED",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-Evidence",
-        "description": "\ud83d\udd0d Pro-tier forensic evidence vault \u2014 MEGA-PDF system, OCR, Bates numbering, SHA-256 hash chain, exhibit catalog, Dropbox 1FDV sync, AI-powered document consciousness | Case 1FDV-23-0001009 | GlacierEQ APEX",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-Evidence",
         "is_fork": false
       },
       {
@@ -1214,17 +1258,6 @@
         "is_fork": false
       },
       {
-        "name": "hawaii-docket-automation",
-        "description": "\ud83c\udfdb\ufe0f Enterprise-grade Hawaii court docket processing system with MCP integration, automated analysis, report generation, and multi-platform sync",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/hawaii-docket-automation",
-        "is_fork": false
-      },
-      {
         "name": "erik-breisacher-legal-investigation",
         "description": "Comprehensive legal case management repository for Erik Breisacher criminal investigation - theft, harassment, extortion case documentation with automated analysis tools",
         "category": "LEGAL",
@@ -1233,17 +1266,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/erik-breisacher-legal-investigation",
-        "is_fork": false
-      },
-      {
-        "name": "CASE-LAW-ARSENAL",
-        "description": "\ud83d\udcda PRIVATE - Legal research database. Supreme Court + 9th Circuit precedent. Qualified immunity defeats. RICO case law. Constitutional violations. Markdown formatted opinions with citations. Searchable and version-controlled.",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/CASE-LAW-ARSENAL",
         "is_fork": false
       },
       {
@@ -1299,28 +1321,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/ATOMIC-CATACLYSM",
-        "is_fork": false
-      },
-      {
-        "name": "apex-boot-core",
-        "description": "APEX session auto-boot system \u2014 loads Casey/Kekoa/1FDV-23-0001009 context into any AI session automatically at startup",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-boot-core",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-AEON-777",
-        "description": "AEON-777 - Foundation Architecture Plans | Sovereign Ascension Protocol v1.0 | THE CATACLYSM ENGINE | Unifying 860 repos with Level 5 Apex Swarm + Colossus Backend + Mastermind Orchestration for Case 1FDV-23-0001009",
-        "category": "LEGAL",
-        "subcategory": "LEGAL_DATA",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-AEON-777",
         "is_fork": false
       },
       {
@@ -1460,14 +1460,47 @@
         "is_fork": false
       },
       {
+        "name": "whisperX",
+        "description": "",
+        "category": "DOC_GEN",
+        "subcategory": "DOC_GEN_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/whisperX",
+        "is_fork": false
+      },
+      {
         "name": "Pro-DOCTOR-STRANGE",
-        "description": "\ud83c\udf0c Universal Orchestration Layer - Sees all 178 repos, understands all systems, coordinates all execution dynamically. The one brain that makes everything work together.",
+        "description": "Independent-reader convergence with cryptographic receipt replay. No fake consensus.",
         "category": "DOC_GEN",
         "subcategory": "DOC_GEN_TECH",
         "is_private": true,
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/Pro-DOCTOR-STRANGE",
+        "is_fork": false
+      },
+      {
+        "name": "legal-motion-automation",
+        "description": "Advanced legal motion generation system with Hawaii Family Court formatting, LaTeX compilation, and cross-platform document management",
+        "category": "DOC_GEN",
+        "subcategory": "DOC_GEN_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/legal-motion-automation",
+        "is_fork": false
+      },
+      {
+        "name": "legal-brief-pipeline",
+        "description": "Automated legal brief compilation pipeline: Overleaf LaTeX \u2192 GitHub \u2192 Supabase \u2192 Notion | LawTeX + Bluebook citation management",
+        "category": "DOC_GEN",
+        "subcategory": "DOC_GEN_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/legal-brief-pipeline",
         "is_fork": false
       },
       {
@@ -1526,17 +1559,6 @@
         "is_fork": true
       },
       {
-        "name": "whisperX",
-        "description": "",
-        "category": "DOC_GEN",
-        "subcategory": "DOC_GEN_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/whisperX",
-        "is_fork": false
-      },
-      {
         "name": "AI-powered-PDF-agent-project",
         "description": "AI-PDF-Agent converts PDFs into queryable data using AI. Extracts text (PyMuPDF), generates embeddings, and answers questions via LLMs (OpenAI). Modular for custom vector databases (Pinecone/FAISS). Ideal for research/legal analysis. MIT-licensed. Clone, install dependencies, and query documents. Open-source contributions enhance preprocessing. ",
         "category": "DOC_GEN",
@@ -1559,17 +1581,6 @@
         "is_fork": false
       },
       {
-        "name": "legal-motion-automation",
-        "description": "Advanced legal motion generation system with Hawaii Family Court formatting, LaTeX compilation, and cross-platform document management",
-        "category": "DOC_GEN",
-        "subcategory": "DOC_GEN_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/legal-motion-automation",
-        "is_fork": false
-      },
-      {
         "name": "legal-brief-system",
         "description": "Automated legal brief pipeline: Overleaf LaTeX \u2192 GitHub \u2192 Supabase PDF storage \u2192 Notion case management \u2192 MotherDuck analytics",
         "category": "DOC_GEN",
@@ -1578,17 +1589,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/legal-brief-system",
-        "is_fork": false
-      },
-      {
-        "name": "legal-brief-pipeline",
-        "description": "Automated legal brief compilation pipeline: Overleaf LaTeX \u2192 GitHub \u2192 Supabase \u2192 Notion | LawTeX + Bluebook citation management",
-        "category": "DOC_GEN",
-        "subcategory": "DOC_GEN_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/legal-brief-pipeline",
         "is_fork": false
       },
       {
@@ -1730,6 +1730,17 @@
   "SWARM": {
     "SWARM_TECH": [
       {
+        "name": "AKOS",
+        "description": "Apex Knowledge OS \u2014 identity, sessions, governance, swarm bridge. Live job application.",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AKOS",
+        "github_url": "https://github.com/GlacierEQ/AKOS",
+        "is_fork": false
+      },
+      {
         "name": "mastermind",
         "description": "APEX Mastermind \u2014 Boss API, forensic pipeline, control plane. AKOS-linked. Live job application.",
         "category": "SWARM",
@@ -1739,6 +1750,105 @@
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/mastermind",
         "github_url": "https://github.com/GlacierEQ/mastermind",
         "is_fork": false
+      },
+      {
+        "name": "notion-mcp-empowerment-engine",
+        "description": "Intent\u2192Notion MCP tool chains (portfolio) \u00b7 AKOS P0",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/notion-mcp-empowerment-engine",
+        "github_url": "https://github.com/GlacierEQ/notion-mcp-empowerment-engine",
+        "is_fork": false
+      },
+      {
+        "name": "anthropic-agent-coordinator",
+        "description": "Multi-agent coordinator (portfolio) AZOP waves \u00b7 AKOS portfolio",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-agent-coordinator",
+        "github_url": "https://github.com/GlacierEQ/anthropic-agent-coordinator",
+        "is_fork": false
+      },
+      {
+        "name": "jupyter-mcp-server__public_fork_archive",
+        "description": "[ARCHIVED public fork] superseded by private jupyter-mcp-server",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/jupyter-mcp-server__public_fork_archive",
+        "is_fork": true
+      },
+      {
+        "name": "vercel-edge-agent-cap-token",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/vercel-edge-agent-cap-token",
+        "is_fork": false
+      },
+      {
+        "name": "cloudflare-workers-agent-cap",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cloudflare-workers-agent-cap",
+        "is_fork": false
+      },
+      {
+        "name": "openclaw",
+        "description": "",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openclaw",
+        "github_url": "https://github.com/GlacierEQ/openclaw",
+        "is_fork": false
+      },
+      {
+        "name": "glaciereq-mcp-stack",
+        "description": "MCP tool router with allow-list (portfolio) \u00b7 AKOS P0",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/glaciereq-mcp-stack",
+        "github_url": "https://github.com/GlacierEQ/glaciereq-mcp-stack",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-comet-agent",
+        "description": "Pro-* plan/act/reflect agent loop \u00b7 AKOS P0",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/Pro-comet-agent",
+        "github_url": "https://github.com/GlacierEQ/Pro-comet-agent",
+        "is_fork": false
+      },
+      {
+        "name": "sre",
+        "description": "The Operating System for Agents",
+        "category": "SWARM",
+        "subcategory": "SWARM_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/sre",
+        "is_fork": true
       },
       {
         "name": "PANTHEON-MEGA-ORCHESTRATOR",
@@ -1763,17 +1873,6 @@
         "is_fork": false
       },
       {
-        "name": "AKOS",
-        "description": "Apex Knowledge OS \u2014 identity, sessions, governance, swarm bridge. Live job application.",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": true,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AKOS",
-        "github_url": "https://github.com/GlacierEQ/AKOS",
-        "is_fork": false
-      },
-      {
         "name": "pipecat",
         "description": "Open Source framework for voice and multimodal conversational AI",
         "category": "SWARM",
@@ -1793,17 +1892,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/supermemory",
-        "is_fork": true
-      },
-      {
-        "name": "sre",
-        "description": "The Operating System for Agents",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/sre",
         "is_fork": true
       },
       {
@@ -1862,50 +1950,6 @@
         "is_fork": true
       },
       {
-        "name": "anthropic-agent-coordinator",
-        "description": "Multi-agent coordinator (portfolio) AZOP waves \u00b7 AKOS portfolio",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-agent-coordinator",
-        "github_url": "https://github.com/GlacierEQ/anthropic-agent-coordinator",
-        "is_fork": false
-      },
-      {
-        "name": "notion-mcp-empowerment-engine",
-        "description": "Intent\u2192Notion MCP tool chains (portfolio) \u00b7 AKOS P0",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": true,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/notion-mcp-empowerment-engine",
-        "github_url": "https://github.com/GlacierEQ/notion-mcp-empowerment-engine",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-comet-agent",
-        "description": "Pro-* plan/act/reflect agent loop \u00b7 AKOS P0",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/Pro-comet-agent",
-        "github_url": "https://github.com/GlacierEQ/Pro-comet-agent",
-        "is_fork": false
-      },
-      {
-        "name": "glaciereq-mcp-stack",
-        "description": "MCP tool router with allow-list (portfolio) \u00b7 AKOS P0",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/glaciereq-mcp-stack",
-        "github_url": "https://github.com/GlacierEQ/glaciereq-mcp-stack",
-        "is_fork": false
-      },
-      {
         "name": "firecrawl-mcp-server",
         "description": "\ud83d\udd25 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
         "category": "SWARM",
@@ -1950,17 +1994,6 @@
         "is_fork": false
       },
       {
-        "name": "vercel-edge-agent-cap-token",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/vercel-edge-agent-cap-token",
-        "is_fork": false
-      },
-      {
         "name": "comet-browser-agent-bridge",
         "description": "",
         "category": "SWARM",
@@ -1980,17 +2013,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/manus-autonomous-web-agent",
         "github_url": "https://github.com/GlacierEQ/manus-autonomous-web-agent",
-        "is_fork": false
-      },
-      {
-        "name": "openclaw",
-        "description": "",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openclaw",
-        "github_url": "https://github.com/GlacierEQ/openclaw",
         "is_fork": false
       },
       {
@@ -2054,8 +2076,8 @@
         "category": "SWARM",
         "subcategory": "SWARM_TECH",
         "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apple-mcp",
         "github_url": "https://github.com/GlacierEQ/apple-mcp",
         "is_fork": false
       },
@@ -2090,17 +2112,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/mcp-master-server",
-        "is_fork": false
-      },
-      {
-        "name": "cloudflare-workers-agent-cap",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cloudflare-workers-agent-cap",
         "is_fork": false
       },
       {
@@ -3061,17 +3072,6 @@
         "is_fork": true
       },
       {
-        "name": "jupyter-mcp-server__public_fork_archive",
-        "description": "[ARCHIVED public fork] superseded by private jupyter-mcp-server",
-        "category": "SWARM",
-        "subcategory": "SWARM_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/jupyter-mcp-server__public_fork_archive",
-        "is_fork": true
-      },
-      {
         "name": "langchain-mcp-adapters",
         "description": "LangChain \ud83d\udd0c MCP",
         "category": "SWARM",
@@ -3396,14 +3396,47 @@
   "AI_ML": {
     "AI_ML_TECH": [
       {
-        "name": "colossus-trinity",
-        "description": "",
+        "name": "anything-llm",
+        "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
         "category": "AI_ML",
         "subcategory": "AI_ML_TECH",
         "is_private": true,
         "is_local_cloned": false,
         "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/colossus-trinity",
+        "github_url": "https://github.com/GlacierEQ/anything-llm",
+        "is_fork": false
+      },
+      {
+        "name": "together-ai-open-model-fidelity-passport",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/together-ai-open-model-fidelity-passport",
+        "is_fork": false
+      },
+      {
+        "name": "replicate-model-version-pin-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/replicate-model-version-pin-gate",
+        "is_fork": false
+      },
+      {
+        "name": "hugging-face-model-card-provenance-seal",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/hugging-face-model-card-provenance-seal",
         "is_fork": false
       },
       {
@@ -3415,6 +3448,116 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/the-tower-of-babel",
         "github_url": "https://github.com/GlacierEQ/the-tower-of-babel",
+        "is_fork": false
+      },
+      {
+        "name": "apple-ane-kv-quantizer",
+        "description": "",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apple-ane-kv-quantizer",
+        "github_url": "https://github.com/GlacierEQ/apple-ane-kv-quantizer",
+        "is_fork": false
+      },
+      {
+        "name": "nvidia-deep-reasoning",
+        "description": "Reasoning budget scheduler (portfolio) under GPU caps \u00b7 AKOS portfolio",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-deep-reasoning",
+        "github_url": "https://github.com/GlacierEQ/nvidia-deep-reasoning",
+        "is_fork": false
+      },
+      {
+        "name": "openai-reasoning-kv-sentinel",
+        "description": "",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openai-reasoning-kv-sentinel",
+        "github_url": "https://github.com/GlacierEQ/openai-reasoning-kv-sentinel",
+        "is_fork": false
+      },
+      {
+        "name": "llm-runner-teams",
+        "description": "Multi-agent runner team framework: Case & Evidence, Document Processing, Coding, Evolution/Optimization \u2014 forensic-grade, nothing deleted without analysis",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/llm-runner-teams",
+        "is_fork": false
+      },
+      {
+        "name": "openai-reasoning-budget-futures",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/openai-reasoning-budget-futures",
+        "is_fork": false
+      },
+      {
+        "name": "meta-llama-collective-sentinel",
+        "description": "",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/meta-llama-collective-sentinel",
+        "github_url": "https://github.com/GlacierEQ/meta-llama-collective-sentinel",
+        "is_fork": false
+      },
+      {
+        "name": "deepseek-mla-moe-sentinel",
+        "description": "",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepseek-mla-moe-sentinel",
+        "github_url": "https://github.com/GlacierEQ/deepseek-mla-moe-sentinel",
+        "is_fork": false
+      },
+      {
+        "name": "colossus-training-flux",
+        "description": "Training job flux under MW/thermal caps (Colossus angle) \u00b7 AKOS",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-training-flux",
+        "github_url": "https://github.com/GlacierEQ/colossus-training-flux",
+        "is_fork": false
+      },
+      {
+        "name": "colossus-gateway",
+        "description": "Universal MCP bridge for Colossus-class orchestration. AKOS portfolio.",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-gateway",
+        "github_url": "https://github.com/GlacierEQ/colossus-gateway",
+        "is_fork": false
+      },
+      {
+        "name": "colossus-trinity",
+        "description": "",
+        "category": "AI_ML",
+        "subcategory": "AI_ML_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/colossus-trinity",
         "is_fork": false
       },
       {
@@ -3528,17 +3671,6 @@
         "is_fork": true
       },
       {
-        "name": "llm-runner-teams",
-        "description": "Multi-agent runner team framework: Case & Evidence, Document Processing, Coding, Evolution/Optimization \u2014 forensic-grade, nothing deleted without analysis",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/llm-runner-teams",
-        "is_fork": false
-      },
-      {
         "name": "xai-colossus-energy-alpha",
         "description": "Colossus energy Alpha \u2014 power budget model \u00b7 AKOS P0",
         "category": "AI_ML",
@@ -3558,17 +3690,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-cooling-omega",
         "github_url": "https://github.com/GlacierEQ/xai-colossus-cooling-omega",
-        "is_fork": false
-      },
-      {
-        "name": "colossus-training-flux",
-        "description": "Training job flux under MW/thermal caps (Colossus angle) \u00b7 AKOS",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-training-flux",
-        "github_url": "https://github.com/GlacierEQ/colossus-training-flux",
         "is_fork": false
       },
       {
@@ -3605,17 +3726,6 @@
         "is_fork": false
       },
       {
-        "name": "nvidia-deep-reasoning",
-        "description": "Reasoning budget scheduler (portfolio) under GPU caps \u00b7 AKOS portfolio",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-deep-reasoning",
-        "github_url": "https://github.com/GlacierEQ/nvidia-deep-reasoning",
-        "is_fork": false
-      },
-      {
         "name": "xai-colossus-energy",
         "description": "Colossus energy pillar. AKOS portfolio.",
         "category": "AI_ML",
@@ -3624,17 +3734,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/xai-colossus-energy",
         "github_url": "https://github.com/GlacierEQ/xai-colossus-energy",
-        "is_fork": false
-      },
-      {
-        "name": "colossus-gateway",
-        "description": "Universal MCP bridge for Colossus-class orchestration. AKOS portfolio.",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/colossus-gateway",
-        "github_url": "https://github.com/GlacierEQ/colossus-gateway",
         "is_fork": false
       },
       {
@@ -3682,28 +3781,6 @@
         "is_fork": false
       },
       {
-        "name": "openai-reasoning-budget-futures",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/openai-reasoning-budget-futures",
-        "is_fork": false
-      },
-      {
-        "name": "apple-ane-kv-quantizer",
-        "description": "",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apple-ane-kv-quantizer",
-        "github_url": "https://github.com/GlacierEQ/apple-ane-kv-quantizer",
-        "is_fork": false
-      },
-      {
         "name": "qwen-vl-flash-router",
         "description": "",
         "category": "AI_ML",
@@ -3715,17 +3792,6 @@
         "is_fork": false
       },
       {
-        "name": "meta-llama-collective-sentinel",
-        "description": "",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/meta-llama-collective-sentinel",
-        "github_url": "https://github.com/GlacierEQ/meta-llama-collective-sentinel",
-        "is_fork": false
-      },
-      {
         "name": "awesome-llm-apps",
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "category": "AI_ML",
@@ -3734,17 +3800,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/awesome-llm-apps",
-        "is_fork": false
-      },
-      {
-        "name": "openai-reasoning-kv-sentinel",
-        "description": "",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/openai-reasoning-kv-sentinel",
-        "github_url": "https://github.com/GlacierEQ/openai-reasoning-kv-sentinel",
         "is_fork": false
       },
       {
@@ -3778,50 +3833,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/computer-user-storage",
-        "is_fork": false
-      },
-      {
-        "name": "together-ai-open-model-fidelity-passport",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/together-ai-open-model-fidelity-passport",
-        "is_fork": false
-      },
-      {
-        "name": "hugging-face-model-card-provenance-seal",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/hugging-face-model-card-provenance-seal",
-        "is_fork": false
-      },
-      {
-        "name": "replicate-model-version-pin-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/replicate-model-version-pin-gate",
-        "is_fork": false
-      },
-      {
-        "name": "deepseek-mla-moe-sentinel",
-        "description": "",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepseek-mla-moe-sentinel",
-        "github_url": "https://github.com/GlacierEQ/deepseek-mla-moe-sentinel",
         "is_fork": false
       },
       {
@@ -4309,17 +4320,6 @@
         "is_fork": true
       },
       {
-        "name": "anything-llm",
-        "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "category": "AI_ML",
-        "subcategory": "AI_ML_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/anything-llm",
-        "is_fork": false
-      },
-      {
         "name": "ai_embedder_engine",
         "description": "AI Embedder Engine: An open-source Python engine for generating embeddings from PDFs, storing them in Parquet, and indexing with FAISS for semantic search.",
         "category": "AI_ML",
@@ -4645,6 +4645,50 @@
   "AEROSPACE": {
     "AEROSPACE_TECH": [
       {
+        "name": "rocket-lab-launch-hold-receipt",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AEROSPACE",
+        "subcategory": "AEROSPACE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/rocket-lab-launch-hold-receipt",
+        "is_fork": false
+      },
+      {
+        "name": "spacex-autonomy",
+        "description": "Hybrid autonomy mode under sensor confidence (portfolio) \u00b7 AKOS",
+        "category": "AEROSPACE",
+        "subcategory": "AEROSPACE_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-autonomy",
+        "github_url": "https://github.com/GlacierEQ/spacex-autonomy",
+        "is_fork": false
+      },
+      {
+        "name": "spacex-hold-reason-compiler",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AEROSPACE",
+        "subcategory": "AEROSPACE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/spacex-hold-reason-compiler",
+        "is_fork": false
+      },
+      {
+        "name": "spacex-mission-thread-quorum",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "AEROSPACE",
+        "subcategory": "AEROSPACE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/spacex-mission-thread-quorum",
+        "is_fork": false
+      },
+      {
         "name": "spacex-mission-control",
         "description": "Mission event bus severity filter (portfolio) \u00b7 AKOS P1",
         "category": "AEROSPACE",
@@ -4675,17 +4719,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-cryogenics",
         "github_url": "https://github.com/GlacierEQ/spacex-cryogenics",
-        "is_fork": false
-      },
-      {
-        "name": "spacex-autonomy",
-        "description": "Hybrid autonomy mode under sensor confidence (portfolio) \u00b7 AKOS",
-        "category": "AEROSPACE",
-        "subcategory": "AEROSPACE_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-autonomy",
-        "github_url": "https://github.com/GlacierEQ/spacex-autonomy",
         "is_fork": false
       },
       {
@@ -4744,28 +4777,6 @@
         "is_fork": false
       },
       {
-        "name": "spacex-mission-thread-quorum",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AEROSPACE",
-        "subcategory": "AEROSPACE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/spacex-mission-thread-quorum",
-        "is_fork": false
-      },
-      {
-        "name": "spacex-hold-reason-compiler",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AEROSPACE",
-        "subcategory": "AEROSPACE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/spacex-hold-reason-compiler",
-        "is_fork": false
-      },
-      {
         "name": "spacex-propulsion-monitor",
         "description": "Propulsion health index (portfolio) \u00b7 AKOS P1",
         "category": "AEROSPACE",
@@ -4785,17 +4796,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-orbital-mechanics",
         "github_url": "https://github.com/GlacierEQ/spacex-orbital-mechanics",
-        "is_fork": false
-      },
-      {
-        "name": "rocket-lab-launch-hold-receipt",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "AEROSPACE",
-        "subcategory": "AEROSPACE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/rocket-lab-launch-hold-receipt",
         "is_fork": false
       },
       {
@@ -4845,17 +4845,6 @@
     ],
     "AEROSPACE_DATA": [
       {
-        "name": "spacex-telemetry",
-        "description": "Telemetry module. AKOS / Double Helix portfolio.",
-        "category": "AEROSPACE",
-        "subcategory": "AEROSPACE_DATA",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-telemetry",
-        "github_url": "https://github.com/GlacierEQ/spacex-telemetry",
-        "is_fork": false
-      },
-      {
         "name": "blue-origin-cryo-telemetry-half-life",
         "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
         "category": "AEROSPACE",
@@ -4865,11 +4854,33 @@
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/blue-origin-cryo-telemetry-half-life",
         "is_fork": false
+      },
+      {
+        "name": "spacex-telemetry",
+        "description": "Telemetry module. AKOS / Double Helix portfolio.",
+        "category": "AEROSPACE",
+        "subcategory": "AEROSPACE_DATA",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/spacex-telemetry",
+        "github_url": "https://github.com/GlacierEQ/spacex-telemetry",
+        "is_fork": false
       }
     ]
   },
   "INFRASTRUCTURE": {
     "INFRASTRUCTURE_TECH": [
+      {
+        "name": "monolith",
+        "description": "Library roadmap \u2014 domains, wholes/parts, foundations, skills, workflows",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/monolith",
+        "github_url": "https://github.com/GlacierEQ/monolith",
+        "is_fork": false
+      },
       {
         "name": "apex-control-plane",
         "description": "APEX worker registry + capacity dispatch \u00b7 AKOS P0",
@@ -4879,28 +4890,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apex-control-plane",
         "github_url": "https://github.com/GlacierEQ/apex-control-plane",
-        "is_fork": false
-      },
-      {
-        "name": "monolith",
-        "description": "Library roadmap \u2014 domains, wholes/parts, foundations, skills, workflows",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/monolith",
-        "is_fork": false
-      },
-      {
-        "name": "apex-singularity-head",
-        "description": "",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-singularity-head",
-        "github_url": "https://github.com/GlacierEQ/apex-singularity-head",
         "is_fork": false
       },
       {
@@ -4915,14 +4904,102 @@
         "is_fork": false
       },
       {
-        "name": "apex-integrations",
-        "description": "",
+        "name": "Pro-Gateway",
+        "description": "\ud83d\udd31 Pro-tier sovereign MCP gateway \u2014 unified proxy routing Vercel, Supabase, Sentry, ClickUp, Linear, Notion, Dropbox through one APEX endpoint. Control plane + audit loop | GlacierEQ APEX",
         "category": "INFRASTRUCTURE",
         "subcategory": "INFRASTRUCTURE_TECH",
         "is_private": true,
         "is_local_cloned": false,
         "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-integrations",
+        "github_url": "https://github.com/GlacierEQ/Pro-Gateway",
+        "is_fork": false
+      },
+      {
+        "name": "public-actions-runner-host",
+        "description": "Self-hosted GitHub Actions runner",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/public-actions-runner-host",
+        "is_fork": false
+      },
+      {
+        "name": "palantir-object-authority-matrix",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/palantir-object-authority-matrix",
+        "is_fork": false
+      },
+      {
+        "name": "nasa-command-authority-half-life",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/nasa-command-authority-half-life",
+        "is_fork": false
+      },
+      {
+        "name": "vercel-deploy-preview-authority",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/vercel-deploy-preview-authority",
+        "is_fork": false
+      },
+      {
+        "name": "salesforce-crm-action-authority",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/salesforce-crm-action-authority",
+        "is_fork": false
+      },
+      {
+        "name": "lockheed-martin-mission-assurance-gateway",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/lockheed-martin-mission-assurance-gateway",
+        "is_fork": false
+      },
+      {
+        "name": "github-pr-authority-matrix",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/github-pr-authority-matrix",
+        "is_fork": false
+      },
+      {
+        "name": "apex-cli",
+        "description": "APEX CLI. AKOS portfolio.",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apex-cli",
+        "github_url": "https://github.com/GlacierEQ/apex-cli",
         "is_fork": false
       },
       {
@@ -4937,14 +5014,69 @@
         "is_fork": true
       },
       {
-        "name": "public-actions-runner-host",
-        "description": "Self-hosted GitHub Actions runner",
+        "name": "apex-fs-commander-unified",
+        "description": "",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-fs-commander-unified",
+        "is_fork": false
+      },
+      {
+        "name": "apex-omega",
+        "description": "Omega Strand: Controller/Executor - pro-code UI, nexus-api gateway, apex-workers, MCP orchestration",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-omega",
+        "is_fork": false
+      },
+      {
+        "name": "apex-alpha",
+        "description": "Alpha Strand: Foundation/Model - mastermind engines, holographic memory, singularity matrix, token optimization",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-alpha",
+        "is_fork": false
+      },
+      {
+        "name": "openai-tool-authority-matrix",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
         "category": "INFRASTRUCTURE",
         "subcategory": "INFRASTRUCTURE_TECH",
         "is_private": false,
         "is_local_cloned": false,
         "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/public-actions-runner-host",
+        "github_url": "https://github.com/GlacierEQ/openai-tool-authority-matrix",
+        "is_fork": false
+      },
+      {
+        "name": "apex-singularity-head",
+        "description": "",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/apex-singularity-head",
+        "github_url": "https://github.com/GlacierEQ/apex-singularity-head",
+        "is_fork": false
+      },
+      {
+        "name": "apex-integrations",
+        "description": "",
+        "category": "INFRASTRUCTURE",
+        "subcategory": "INFRASTRUCTURE_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/apex-integrations",
         "is_fork": false
       },
       {
@@ -4992,39 +5124,6 @@
         "is_fork": false
       },
       {
-        "name": "apex-fs-commander-unified",
-        "description": "",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-fs-commander-unified",
-        "is_fork": false
-      },
-      {
-        "name": "apex-cli",
-        "description": "APEX CLI. AKOS portfolio.",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/apex-cli",
-        "github_url": "https://github.com/GlacierEQ/apex-cli",
-        "is_fork": false
-      },
-      {
-        "name": "openai-tool-authority-matrix",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/openai-tool-authority-matrix",
-        "is_fork": false
-      },
-      {
         "name": "apex-law-library",
         "description": "",
         "category": "INFRASTRUCTURE",
@@ -5033,50 +5132,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/apex-law-library",
-        "is_fork": false
-      },
-      {
-        "name": "apex-omega",
-        "description": "Omega Strand: Controller/Executor - pro-code UI, nexus-api gateway, apex-workers, MCP orchestration",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-omega",
-        "is_fork": false
-      },
-      {
-        "name": "apex-alpha",
-        "description": "Alpha Strand: Foundation/Model - mastermind engines, holographic memory, singularity matrix, token optimization",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/apex-alpha",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-Gateway",
-        "description": "\ud83d\udd31 Pro-tier sovereign MCP gateway \u2014 unified proxy routing Vercel, Supabase, Sentry, ClickUp, Linear, Notion, Dropbox through one APEX endpoint. Control plane + audit loop | GlacierEQ APEX",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-Gateway",
-        "is_fork": false
-      },
-      {
-        "name": "palantir-object-authority-matrix",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/palantir-object-authority-matrix",
         "is_fork": false
       },
       {
@@ -5146,39 +5201,6 @@
         "is_fork": false
       },
       {
-        "name": "lockheed-martin-mission-assurance-gateway",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/lockheed-martin-mission-assurance-gateway",
-        "is_fork": false
-      },
-      {
-        "name": "salesforce-crm-action-authority",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/salesforce-crm-action-authority",
-        "is_fork": false
-      },
-      {
-        "name": "github-pr-authority-matrix",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/github-pr-authority-matrix",
-        "is_fork": false
-      },
-      {
         "name": "APEX_BOOTUP",
         "description": "",
         "category": "INFRASTRUCTURE",
@@ -5187,28 +5209,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/APEX_BOOTUP",
-        "is_fork": false
-      },
-      {
-        "name": "vercel-deploy-preview-authority",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/vercel-deploy-preview-authority",
-        "is_fork": false
-      },
-      {
-        "name": "nasa-command-authority-half-life",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "INFRASTRUCTURE",
-        "subcategory": "INFRASTRUCTURE_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/nasa-command-authority-half-life",
         "is_fork": false
       },
       {
@@ -5482,6 +5482,83 @@
         "is_fork": true
       },
       {
+        "name": "job-app-helix",
+        "description": "Job-App Helix control plane: evidence ledger, hire package, excellence FSM. Public site: casey-barton-glaciereq.vercel.app",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/job-app-helix",
+        "github_url": "https://github.com/GlacierEQ/job-app-helix",
+        "is_fork": false
+      },
+      {
+        "name": "FILEBOSS",
+        "description": "Your files will neverbe the same.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/FILEBOSS",
+        "is_fork": false
+      },
+      {
+        "name": "SUPERLUMINAL_CASE_MATRIX",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/SUPERLUMINAL_CASE_MATRIX",
+        "is_fork": false
+      },
+      {
+        "name": "Casebuilder4000",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Casebuilder4000",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-Kekoa-Justice",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Pro-Kekoa-Justice",
+        "is_fork": false
+      },
+      {
+        "name": "AEON-BRAIN-777",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/AEON-BRAIN-777",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-AEON-BRAIN",
+        "description": "\ud83c\udf00 Pro-tier AEON Brain sovereign intelligence \u2014 AEON-777 + AEON-BRAIN-777 unified. Cataclysm Engine, Level 5 Apex Swarm, Colossus backend, and Mastermind orchestration for 860-repo ecosystem | GlacierEQ APEX",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Pro-AEON-BRAIN",
+        "is_fork": false
+      },
+      {
         "name": "statue_of_liberty",
         "description": "",
         "category": "PORTFOLIO",
@@ -5493,6 +5570,985 @@
         "is_fork": false
       },
       {
+        "name": "job-application",
+        "description": "Hire surface: evidence-bound portfolio for Casey Barton \u2014 Applied AI / agent infrastructure. Canonical: casey-barton-glaciereq.vercel.app",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/job-application",
+        "github_url": "https://github.com/GlacierEQ/job-application",
+        "is_fork": false
+      },
+      {
+        "name": "Genius-Mastery",
+        "description": "Family control kernel for the Genius repository ecosystem. Owns schemas, generator, validator, doctor, migration engine, composition protocol, evidence standards, and family index. Doctrine: mastery-not-skills.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/Genius-Mastery",
+        "github_url": "https://github.com/GlacierEQ/Genius-Mastery",
+        "is_fork": false
+      },
+      {
+        "name": "ai-auto-driller-unified",
+        "description": "Unified auto-driller suite v4.0 \u2014 11 AI platforms, 8 weighted drill categories, typing sim, draggable UI, session export",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/ai-auto-driller-unified",
+        "is_fork": false
+      },
+      {
+        "name": "sigma-file-manager",
+        "description": "File Manager Mega ",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/sigma-file-manager",
+        "is_fork": false
+      },
+      {
+        "name": "windsurf-cascade-intent-twin",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/windsurf-cascade-intent-twin",
+        "is_fork": false
+      },
+      {
+        "name": "waymo-uncertainty-lane-graph",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/waymo-uncertainty-lane-graph",
+        "is_fork": false
+      },
+      {
+        "name": "groq-jitter-envelope-contract",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/groq-jitter-envelope-contract",
+        "is_fork": false
+      },
+      {
+        "name": "databricks-notebook-claim-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/databricks-notebook-claim-fence",
+        "is_fork": false
+      },
+      {
+        "name": "anduril-sensor-health-quorum",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/anduril-sensor-health-quorum",
+        "is_fork": false
+      },
+      {
+        "name": "zoox-fleet-skill-promotion-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/zoox-fleet-skill-promotion-gate",
+        "is_fork": false
+      },
+      {
+        "name": "weaviate-hybrid-search-claim-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/weaviate-hybrid-search-claim-fence",
+        "is_fork": false
+      },
+      {
+        "name": "supabase-policy-carrying-ai-data-plane",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/supabase-policy-carrying-ai-data-plane",
+        "is_fork": false
+      },
+      {
+        "name": "sourcegraph-code-nav-intent-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/sourcegraph-code-nav-intent-gate",
+        "is_fork": false
+      },
+      {
+        "name": "snowflake-warehouse-spend-circuit",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/snowflake-warehouse-spend-circuit",
+        "is_fork": false
+      },
+      {
+        "name": "scale-ai-label-consensus-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/scale-ai-label-consensus-fence",
+        "is_fork": false
+      },
+      {
+        "name": "runpod-pod-preempt-receipt",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/runpod-pod-preempt-receipt",
+        "is_fork": false
+      },
+      {
+        "name": "replit-workspace-cap-matrix",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/replit-workspace-cap-matrix",
+        "is_fork": false
+      },
+      {
+        "name": "redis-stream-claim-cursor-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/redis-stream-claim-cursor-fence",
+        "is_fork": false
+      },
+      {
+        "name": "qualcomm-on-device-budget-futures",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/qualcomm-on-device-budget-futures",
+        "is_fork": false
+      },
+      {
+        "name": "qdrant-collection-quorum-guard",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/qdrant-collection-quorum-guard",
+        "is_fork": false
+      },
+      {
+        "name": "pinecone-retrieval-outcome-optimizer",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/pinecone-retrieval-outcome-optimizer",
+        "is_fork": false
+      },
+      {
+        "name": "oracle-sovereign-data-boundary-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/oracle-sovereign-data-boundary-gate",
+        "is_fork": false
+      },
+      {
+        "name": "nebius-cluster-energy-admission",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/nebius-cluster-energy-admission",
+        "is_fork": false
+      },
+      {
+        "name": "motherduck-local-cloud-query-passport",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/motherduck-local-cloud-query-passport",
+        "is_fork": false
+      },
+      {
+        "name": "mongodb-operational-semantic-twin-index",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/mongodb-operational-semantic-twin-index",
+        "is_fork": false
+      },
+      {
+        "name": "modal-ephemeral-sandbox-receipt",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/modal-ephemeral-sandbox-receipt",
+        "is_fork": false
+      },
+      {
+        "name": "mistral-open-weight-eval-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/mistral-open-weight-eval-fence",
+        "is_fork": false
+      },
+      {
+        "name": "linear-issue-intent-twin",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/linear-issue-intent-twin",
+        "is_fork": false
+      },
+      {
+        "name": "lambda-useful-gpu-minute-contract",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/lambda-useful-gpu-minute-contract",
+        "is_fork": false
+      },
+      {
+        "name": "intel-npu-placement-passport",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/intel-npu-placement-passport",
+        "is_fork": false
+      },
+      {
+        "name": "ibm-governed-tool-catalog",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/ibm-governed-tool-catalog",
+        "is_fork": false
+      },
+      {
+        "name": "glean-enterprise-search-claim-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/glean-enterprise-search-claim-fence",
+        "is_fork": false
+      },
+      {
+        "name": "gitlab-pipeline-intent-contract",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/gitlab-pipeline-intent-contract",
+        "is_fork": false
+      },
+      {
+        "name": "fireworks-ai-optimization-safety-envelope",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/fireworks-ai-optimization-safety-envelope",
+        "is_fork": false
+      },
+      {
+        "name": "elastic-trajectory-index-layout",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/elastic-trajectory-index-layout",
+        "is_fork": false
+      },
+      {
+        "name": "cursor-patch-intent-twin",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cursor-patch-intent-twin",
+        "is_fork": false
+      },
+      {
+        "name": "crusoe-rack-to-token-autopilot",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/crusoe-rack-to-token-autopilot",
+        "is_fork": false
+      },
+      {
+        "name": "coreweave-rack-power-autopilot",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/coreweave-rack-power-autopilot",
+        "is_fork": false
+      },
+      {
+        "name": "cohere-retrieval-claim-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cohere-retrieval-claim-fence",
+        "is_fork": false
+      },
+      {
+        "name": "cognition-execution-checkpoint-lattice",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cognition-execution-checkpoint-lattice",
+        "is_fork": false
+      },
+      {
+        "name": "cloudflare-edge-cap-mint",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cloudflare-edge-cap-mint",
+        "is_fork": false
+      },
+      {
+        "name": "cerebras-wafer-batch-admission-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cerebras-wafer-batch-admission-gate",
+        "is_fork": false
+      },
+      {
+        "name": "baseten-serving-slo-circuit",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/baseten-serving-slo-circuit",
+        "is_fork": false
+      },
+      {
+        "name": "atlassian-workgraph-intent-twin",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/atlassian-workgraph-intent-twin",
+        "is_fork": false
+      },
+      {
+        "name": "amd-hetero-placement-contract",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/amd-hetero-placement-contract",
+        "is_fork": false
+      },
+      {
+        "name": "adobe-creative-provenance-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/adobe-creative-provenance-gate",
+        "is_fork": false
+      },
+      {
+        "name": "tesla-fsd-occupancy-stream",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/tesla-fsd-occupancy-stream",
+        "github_url": "https://github.com/GlacierEQ/tesla-fsd-occupancy-stream",
+        "is_fork": false
+      },
+      {
+        "name": "microsoft-identity-zero-trust",
+        "description": "Zero-trust access decisions (Microsoft-class identity) \u00b7 AKOS",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/microsoft-identity-zero-trust",
+        "github_url": "https://github.com/GlacierEQ/microsoft-identity-zero-trust",
+        "is_fork": false
+      },
+      {
+        "name": "deepmind-tpu-mesh-optimizer",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepmind-tpu-mesh-optimizer",
+        "github_url": "https://github.com/GlacierEQ/deepmind-tpu-mesh-optimizer",
+        "is_fork": false
+      },
+      {
+        "name": "aws-trainium-neuron-sentinel",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/aws-trainium-neuron-sentinel",
+        "github_url": "https://github.com/GlacierEQ/aws-trainium-neuron-sentinel",
+        "is_fork": false
+      },
+      {
+        "name": "nvidia-gpu-health",
+        "description": "GPU health index (portfolio) \u2014 thermal/power/occupancy \u00b7 AKOS portfolio",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-gpu-health",
+        "github_url": "https://github.com/GlacierEQ/nvidia-gpu-health",
+        "is_fork": false
+      },
+      {
+        "name": "anthropic-safety-monitor",
+        "description": "Tool-use safety policy (portfolio) Anthropic-class problem space \u00b7 AKOS portfolio",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-safety-monitor",
+        "github_url": "https://github.com/GlacierEQ/anthropic-safety-monitor",
+        "is_fork": false
+      },
+      {
+        "name": "Pro-iOS",
+        "description": "\ud83d\udcf1 Pro-tier Apple-native sovereign layer \u2014 apple-mcp native tools, Comet browser automation agent + extension, iOS/macOS bridge, MCP connector for iPhone 16 Pro Max | GlacierEQ APEX",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/Pro-iOS",
+        "github_url": "https://github.com/GlacierEQ/Pro-iOS",
+        "is_fork": false
+      },
+      {
+        "name": "mega-skills",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/mega-skills",
+        "github_url": "https://github.com/GlacierEQ/mega-skills",
+        "is_fork": false
+      },
+      {
+        "name": "ECHO",
+        "description": "The Piston to AKOS's Pillar. ECHO ensures the right work happens in the right place, at the right time, with the right context. Engine for Continuity, History, and Orchestration.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/ECHO",
+        "github_url": "https://github.com/GlacierEQ/ECHO",
+        "is_fork": false
+      },
+      {
+        "name": "CodexDB__public_fork_archive",
+        "description": "[ARCHIVED public fork snapshot of itrummer/CodexDB] superseded by private CodexDB",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/CodexDB__public_fork_archive",
+        "is_fork": true
+      },
+      {
+        "name": "Genius-Code",
+        "description": "Flagship domain repository for code mastery: language semantics, algorithms, compilers, systems programming, verification, performance, reliability, and production engineering. Executable claim-evidence graph + challenge ladder.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Genius-Code",
+        "is_fork": false
+      },
+      {
+        "name": "job-app",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/job-app",
+        "is_fork": false
+      },
+      {
+        "name": "JOB-RESUME-BUILDER-",
+        "description": "POWERED BY GROK ",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/JOB-RESUME-BUILDER-",
+        "github_url": "https://github.com/GlacierEQ/JOB-RESUME-BUILDER-",
+        "is_fork": true
+      },
+      {
+        "name": "job_app_helix",
+        "description": "",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/job_app_helix",
+        "is_fork": false
+      },
+      {
+        "name": "Genius-Verification",
+        "description": "Domain repository for verification mastery: property testing, fuzzing, sanitizers, model checking, formal methods, differential testing, and evidence discipline. Composes with Genius-Code and Genius-Mastery.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/Genius-Verification",
+        "is_fork": false
+      },
+      {
+        "name": "AEON-777",
+        "description": "MOC tag knowledge index (portfolio) \u00b7 AKOS P1",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AEON-777",
+        "github_url": "https://github.com/GlacierEQ/AEON-777",
+        "is_fork": false
+      },
+      {
+        "name": "nvidia-gradient-integrity-quorum",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/nvidia-gradient-integrity-quorum",
+        "is_fork": false
+      },
+      {
+        "name": "nasa-telemetry-anomaly-receipt",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/nasa-telemetry-anomaly-receipt",
+        "is_fork": false
+      },
+      {
+        "name": "snowflake-query-intent-ledger",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/snowflake-query-intent-ledger",
+        "is_fork": false
+      },
+      {
+        "name": "snowflake-cortex-claim-bound",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/snowflake-cortex-claim-bound",
+        "is_fork": false
+      },
+      {
+        "name": "scale-label-collusion-bound",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/scale-label-collusion-bound",
+        "is_fork": false
+      },
+      {
+        "name": "scale-eval-poison-sentinel",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/scale-eval-poison-sentinel",
+        "is_fork": false
+      },
+      {
+        "name": "scale-agreement-budget-allocator",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/scale-agreement-budget-allocator",
+        "is_fork": false
+      },
+      {
+        "name": "vercel-deploy-claim-compiler",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/vercel-deploy-claim-compiler",
+        "is_fork": false
+      },
+      {
+        "name": "waymo-phantom-freespace-certificate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/waymo-phantom-freespace-certificate",
+        "is_fork": false
+      },
+      {
+        "name": "xai-actuation-receipt-bus",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/xai-actuation-receipt-bus",
+        "is_fork": false
+      },
+      {
+        "name": "nvidia-nan-circuit-breaker",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/nvidia-nan-circuit-breaker",
+        "is_fork": false
+      },
+      {
+        "name": "groq-batch-admission-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/groq-batch-admission-gate",
+        "is_fork": false
+      },
+      {
+        "name": "databricks-feature-lineage-passport",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/databricks-feature-lineage-passport",
+        "is_fork": false
+      },
+      {
+        "name": "glaciereq-excellence-core",
+        "description": "GlacierEQ Excellence Core \u2014 shared primitives, base classes, and protocols for all 37 excellence pack modules (Tower of Babel Layer 1)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/glaciereq-excellence-core",
+        "is_fork": false
+      },
+      {
+        "name": "xai-claim-promotion-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/xai-claim-promotion-fence",
+        "is_fork": false
+      },
+      {
+        "name": "palantir-ontology-writeback-ledger",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/palantir-ontology-writeback-ledger",
+        "is_fork": false
+      },
+      {
+        "name": "palantir-action-lineage-graph",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/palantir-action-lineage-graph",
+        "is_fork": false
+      },
+      {
+        "name": "lockheed-mission-thread-isolator",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/lockheed-mission-thread-isolator",
+        "is_fork": false
+      },
+      {
+        "name": "lockheed-dual-key-actuator-fence",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/lockheed-dual-key-actuator-fence",
+        "is_fork": false
+      },
+      {
+        "name": "vercel-preview-truth-gate",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/vercel-preview-truth-gate",
+        "is_fork": false
+      },
+      {
+        "name": "cloudflare-bot-intent-receipt",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/cloudflare-bot-intent-receipt",
+        "is_fork": false
+      },
+      {
+        "name": "anthropic-refusal-replay-harness",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/anthropic-refusal-replay-harness",
+        "is_fork": false
+      },
+      {
+        "name": "anduril-track-envelope-compiler",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/anduril-track-envelope-compiler",
+        "is_fork": false
+      },
+      {
+        "name": "anduril-lattice-dissent-freeze",
+        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/anduril-lattice-dissent-freeze",
+        "is_fork": false
+      },
+      {
+        "name": "far-away-party-site",
+        "description": "A compelling, high-end website presenting Far Away Party as a long-horizon execution framework for durable context, rigorous phase gates, and focused multi-skill coordination. \u00b7 Built with Manus",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/far-away-party-site",
+        "is_fork": false
+      },
+      {
+        "name": "casey-ai-engineering-signal",
+        "description": "An interactive positioning site and 30-day technical content calendar grounded in the distinct Monolith and Tower of Babel engineering systems. \u00b7 Built with Manus",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": true,
+        "is_local_cloned": false,
+        "local_path": null,
+        "github_url": "https://github.com/GlacierEQ/casey-ai-engineering-signal",
+        "is_fork": false
+      },
+      {
+        "name": "grokodile",
+        "description": "Grok-native operator bridge + truth_gate (portfolio). ECHO/AKOS-aligned. Not xAI employment.",
+        "category": "PORTFOLIO",
+        "subcategory": "PORTFOLIO_TECH",
+        "is_private": false,
+        "is_local_cloned": true,
+        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/grokodile",
+        "github_url": "https://github.com/GlacierEQ/grokodile",
+        "is_fork": false
+      },
+      {
         "name": "Omni_Engine",
         "description": "Big Brain",
         "category": "PORTFOLIO",
@@ -5501,17 +6557,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/Omni_Engine",
-        "is_fork": false
-      },
-      {
-        "name": "job-app-helix",
-        "description": "Job-App Helix control plane: evidence ledger, hire package, excellence FSM. Public site: casey-barton-glaciereq.vercel.app",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/job-app-helix",
         "is_fork": false
       },
       {
@@ -5548,28 +6593,6 @@
         "is_fork": false
       },
       {
-        "name": "job-application",
-        "description": "Hire surface: evidence-bound portfolio for Casey Barton \u2014 Applied AI / agent infrastructure. Canonical: casey-barton-glaciereq.vercel.app",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/job-application",
-        "github_url": "https://github.com/GlacierEQ/job-application",
-        "is_fork": false
-      },
-      {
-        "name": "job-app",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/job-app",
-        "is_fork": false
-      },
-      {
         "name": "OPRYXX_LOGS2",
         "description": "pc repair",
         "category": "PORTFOLIO",
@@ -5600,28 +6623,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/quantum_nexus",
-        "is_fork": false
-      },
-      {
-        "name": "SUPERLUMINAL_CASE_MATRIX",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/SUPERLUMINAL_CASE_MATRIX",
-        "is_fork": false
-      },
-      {
-        "name": "AEON-777",
-        "description": "MOC tag knowledge index (portfolio) \u00b7 AKOS P1",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/AEON-777",
-        "github_url": "https://github.com/GlacierEQ/AEON-777",
         "is_fork": false
       },
       {
@@ -6010,17 +7011,6 @@
         "is_fork": false
       },
       {
-        "name": "FILEBOSS",
-        "description": "Your files will neverbe the same.",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/FILEBOSS",
-        "is_fork": false
-      },
-      {
         "name": "Daemon-Deployer",
         "description": "A collection of Daemons",
         "category": "PORTFOLIO",
@@ -6051,17 +7041,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/Mindframe-Core",
-        "is_fork": false
-      },
-      {
-        "name": "sigma-file-manager",
-        "description": "File Manager Mega ",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/sigma-file-manager",
         "is_fork": false
       },
       {
@@ -6197,28 +7176,6 @@
         "is_fork": false
       },
       {
-        "name": "nvidia-gpu-health",
-        "description": "GPU health index (portfolio) \u2014 thermal/power/occupancy \u00b7 AKOS portfolio",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/nvidia-gpu-health",
-        "github_url": "https://github.com/GlacierEQ/nvidia-gpu-health",
-        "is_fork": false
-      },
-      {
-        "name": "anthropic-safety-monitor",
-        "description": "Tool-use safety policy (portfolio) Anthropic-class problem space \u00b7 AKOS portfolio",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/anthropic-safety-monitor",
-        "github_url": "https://github.com/GlacierEQ/anthropic-safety-monitor",
-        "is_fork": false
-      },
-      {
         "name": "notion-workspace-optimizer",
         "description": "Workspace page optimizer (portfolio) archive/collapse/split \u00b7 AKOS P0",
         "category": "PORTFOLIO",
@@ -6238,17 +7195,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/microsoft-azure-ops",
         "github_url": "https://github.com/GlacierEQ/microsoft-azure-ops",
-        "is_fork": false
-      },
-      {
-        "name": "microsoft-identity-zero-trust",
-        "description": "Zero-trust access decisions (Microsoft-class identity) \u00b7 AKOS",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/microsoft-identity-zero-trust",
-        "github_url": "https://github.com/GlacierEQ/microsoft-identity-zero-trust",
         "is_fork": false
       },
       {
@@ -6274,17 +7220,6 @@
         "is_fork": false
       },
       {
-        "name": "grokodile",
-        "description": "Grok-native operator bridge + truth_gate (portfolio). ECHO/AKOS-aligned. Not xAI employment.",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/grokodile",
-        "github_url": "https://github.com/GlacierEQ/grokodile",
-        "is_fork": false
-      },
-      {
         "name": "token_saver",
         "description": "pure_pointer token externalization (measured) \u00b7 AKOS",
         "category": "PORTFOLIO",
@@ -6304,17 +7239,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/document_generation",
-        "is_fork": false
-      },
-      {
-        "name": "job_app_helix",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/job_app_helix",
         "is_fork": false
       },
       {
@@ -6362,94 +7286,6 @@
         "is_fork": true
       },
       {
-        "name": "supabase-policy-carrying-ai-data-plane",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/supabase-policy-carrying-ai-data-plane",
-        "is_fork": false
-      },
-      {
-        "name": "ECHO",
-        "description": "The Piston to AKOS's Pillar. ECHO ensures the right work happens in the right place, at the right time, with the right context. Engine for Continuity, History, and Orchestration.",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/ECHO",
-        "github_url": "https://github.com/GlacierEQ/ECHO",
-        "is_fork": false
-      },
-      {
-        "name": "deepmind-tpu-mesh-optimizer",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/deepmind-tpu-mesh-optimizer",
-        "github_url": "https://github.com/GlacierEQ/deepmind-tpu-mesh-optimizer",
-        "is_fork": false
-      },
-      {
-        "name": "nvidia-gradient-integrity-quorum",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/nvidia-gradient-integrity-quorum",
-        "is_fork": false
-      },
-      {
-        "name": "nvidia-nan-circuit-breaker",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/nvidia-nan-circuit-breaker",
-        "is_fork": false
-      },
-      {
-        "name": "coreweave-rack-power-autopilot",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/coreweave-rack-power-autopilot",
-        "is_fork": false
-      },
-      {
-        "name": "aws-trainium-neuron-sentinel",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/aws-trainium-neuron-sentinel",
-        "github_url": "https://github.com/GlacierEQ/aws-trainium-neuron-sentinel",
-        "is_fork": false
-      },
-      {
-        "name": "groq-batch-admission-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/groq-batch-admission-gate",
-        "is_fork": false
-      },
-      {
         "name": "opera-neon-spatial-workspace",
         "description": "",
         "category": "PORTFOLIO",
@@ -6472,17 +7308,6 @@
         "is_fork": false
       },
       {
-        "name": "xai-claim-promotion-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/xai-claim-promotion-fence",
-        "is_fork": false
-      },
-      {
         "name": "omni-engine",
         "description": "",
         "category": "PORTFOLIO",
@@ -6491,17 +7316,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/omni-engine",
-        "is_fork": false
-      },
-      {
-        "name": "xai-actuation-receipt-bus",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/xai-actuation-receipt-bus",
         "is_fork": false
       },
       {
@@ -6524,39 +7338,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/archEYEvist",
-        "is_fork": false
-      },
-      {
-        "name": "tesla-fsd-occupancy-stream",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/tesla-fsd-occupancy-stream",
-        "github_url": "https://github.com/GlacierEQ/tesla-fsd-occupancy-stream",
-        "is_fork": false
-      },
-      {
-        "name": "lockheed-dual-key-actuator-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/lockheed-dual-key-actuator-fence",
-        "is_fork": false
-      },
-      {
-        "name": "AEON-BRAIN-777",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/AEON-BRAIN-777",
         "is_fork": false
       },
       {
@@ -6637,171 +7418,6 @@
         "is_fork": false
       },
       {
-        "name": "cursor-patch-intent-twin",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cursor-patch-intent-twin",
-        "is_fork": false
-      },
-      {
-        "name": "JOB-RESUME-BUILDER-",
-        "description": "POWERED BY GROK ",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": true,
-        "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/JOB-RESUME-BUILDER-",
-        "github_url": "https://github.com/GlacierEQ/JOB-RESUME-BUILDER-",
-        "is_fork": true
-      },
-      {
-        "name": "waymo-uncertainty-lane-graph",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/waymo-uncertainty-lane-graph",
-        "is_fork": false
-      },
-      {
-        "name": "databricks-notebook-claim-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/databricks-notebook-claim-fence",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-AEON-BRAIN",
-        "description": "\ud83c\udf00 Pro-tier AEON Brain sovereign intelligence \u2014 AEON-777 + AEON-BRAIN-777 unified. Cataclysm Engine, Level 5 Apex Swarm, Colossus backend, and Mastermind orchestration for 860-repo ecosystem | GlacierEQ APEX",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-AEON-BRAIN",
-        "is_fork": false
-      },
-      {
-        "name": "palantir-action-lineage-graph",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/palantir-action-lineage-graph",
-        "is_fork": false
-      },
-      {
-        "name": "scale-label-collusion-bound",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/scale-label-collusion-bound",
-        "is_fork": false
-      },
-      {
-        "name": "snowflake-cortex-claim-bound",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/snowflake-cortex-claim-bound",
-        "is_fork": false
-      },
-      {
-        "name": "snowflake-query-intent-ledger",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/snowflake-query-intent-ledger",
-        "is_fork": false
-      },
-      {
-        "name": "scale-agreement-budget-allocator",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/scale-agreement-budget-allocator",
-        "is_fork": false
-      },
-      {
-        "name": "scale-eval-poison-sentinel",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/scale-eval-poison-sentinel",
-        "is_fork": false
-      },
-      {
-        "name": "databricks-feature-lineage-passport",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/databricks-feature-lineage-passport",
-        "is_fork": false
-      },
-      {
-        "name": "vercel-deploy-claim-compiler",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/vercel-deploy-claim-compiler",
-        "is_fork": false
-      },
-      {
-        "name": "vercel-preview-truth-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/vercel-preview-truth-gate",
-        "is_fork": false
-      },
-      {
-        "name": "waymo-phantom-freespace-certificate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/waymo-phantom-freespace-certificate",
-        "is_fork": false
-      },
-      {
         "name": "AthenaOS",
         "description": "AthenaOS is a next generation AI-native operating system managed by Swarms of AI Agents",
         "category": "PORTFOLIO",
@@ -6879,17 +7495,6 @@
         "is_fork": false
       },
       {
-        "name": "Casebuilder4000",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Casebuilder4000",
-        "is_fork": false
-      },
-      {
         "name": "xai-colossal-cooling",
         "description": "Evolutionary cooling methodologies for XAI Colossal supercomputer - First-principles thermal architecture, cost optimization, scalable design",
         "category": "PORTFOLIO",
@@ -6912,17 +7517,6 @@
         "is_fork": false
       },
       {
-        "name": "Pro-Kekoa-Justice",
-        "description": "",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-Kekoa-Justice",
-        "is_fork": false
-      },
-      {
         "name": "polyglot-systems-architecture",
         "description": "Polyglot systems architecture \u2014 GlacierEQ elite leaf",
         "category": "PORTFOLIO",
@@ -6931,39 +7525,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/polyglot-systems-architecture",
-        "is_fork": false
-      },
-      {
-        "name": "glaciereq-excellence-core",
-        "description": "GlacierEQ Excellence Core \u2014 shared primitives, base classes, and protocols for all 37 excellence pack modules (Tower of Babel Layer 1)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/glaciereq-excellence-core",
-        "is_fork": false
-      },
-      {
-        "name": "weaviate-hybrid-search-claim-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/weaviate-hybrid-search-claim-fence",
-        "is_fork": false
-      },
-      {
-        "name": "glean-enterprise-search-claim-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/glean-enterprise-search-claim-fence",
         "is_fork": false
       },
       {
@@ -7132,39 +7693,6 @@
         "is_fork": false
       },
       {
-        "name": "mongodb-operational-semantic-twin-index",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/mongodb-operational-semantic-twin-index",
-        "is_fork": false
-      },
-      {
-        "name": "lambda-useful-gpu-minute-contract",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/lambda-useful-gpu-minute-contract",
-        "is_fork": false
-      },
-      {
-        "name": "fireworks-ai-optimization-safety-envelope",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/fireworks-ai-optimization-safety-envelope",
-        "is_fork": false
-      },
-      {
         "name": "comet-extension",
         "description": "",
         "category": "PORTFOLIO",
@@ -7198,17 +7726,6 @@
         "is_fork": false
       },
       {
-        "name": "gitlab-pipeline-intent-contract",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/gitlab-pipeline-intent-contract",
-        "is_fork": false
-      },
-      {
         "name": "JUGGERNAUT-OFFICE",
         "description": "Sovereign AI-Powered Document Command Center",
         "category": "PORTFOLIO",
@@ -7239,61 +7756,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/sigma-flow-suite",
-        "is_fork": false
-      },
-      {
-        "name": "Pro-iOS",
-        "description": "\ud83d\udcf1 Pro-tier Apple-native sovereign layer \u2014 apple-mcp native tools, Comet browser automation agent + extension, iOS/macOS bridge, MCP connector for iPhone 16 Pro Max | GlacierEQ APEX",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": true,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/Pro-iOS",
-        "is_fork": false
-      },
-      {
-        "name": "modal-ephemeral-sandbox-receipt",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/modal-ephemeral-sandbox-receipt",
-        "is_fork": false
-      },
-      {
-        "name": "replit-workspace-cap-matrix",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/replit-workspace-cap-matrix",
-        "is_fork": false
-      },
-      {
-        "name": "crusoe-rack-to-token-autopilot",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/crusoe-rack-to-token-autopilot",
-        "is_fork": false
-      },
-      {
-        "name": "atlassian-workgraph-intent-twin",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/atlassian-workgraph-intent-twin",
         "is_fork": false
       },
       {
@@ -7341,39 +7803,6 @@
         "is_fork": false
       },
       {
-        "name": "redis-stream-claim-cursor-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/redis-stream-claim-cursor-fence",
-        "is_fork": false
-      },
-      {
-        "name": "runpod-pod-preempt-receipt",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/runpod-pod-preempt-receipt",
-        "is_fork": false
-      },
-      {
-        "name": "scale-ai-label-consensus-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/scale-ai-label-consensus-fence",
-        "is_fork": false
-      },
-      {
         "name": "coreweave-entropy-engine",
         "description": "",
         "category": "PORTFOLIO",
@@ -7396,138 +7825,6 @@
         "is_fork": false
       },
       {
-        "name": "mistral-open-weight-eval-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/mistral-open-weight-eval-fence",
-        "is_fork": false
-      },
-      {
-        "name": "baseten-serving-slo-circuit",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/baseten-serving-slo-circuit",
-        "is_fork": false
-      },
-      {
-        "name": "cerebras-wafer-batch-admission-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cerebras-wafer-batch-admission-gate",
-        "is_fork": false
-      },
-      {
-        "name": "cloudflare-edge-cap-mint",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cloudflare-edge-cap-mint",
-        "is_fork": false
-      },
-      {
-        "name": "oracle-sovereign-data-boundary-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/oracle-sovereign-data-boundary-gate",
-        "is_fork": false
-      },
-      {
-        "name": "sourcegraph-code-nav-intent-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/sourcegraph-code-nav-intent-gate",
-        "is_fork": false
-      },
-      {
-        "name": "palantir-ontology-writeback-ledger",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/palantir-ontology-writeback-ledger",
-        "is_fork": false
-      },
-      {
-        "name": "cognition-execution-checkpoint-lattice",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cognition-execution-checkpoint-lattice",
-        "is_fork": false
-      },
-      {
-        "name": "pinecone-retrieval-outcome-optimizer",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/pinecone-retrieval-outcome-optimizer",
-        "is_fork": false
-      },
-      {
-        "name": "linear-issue-intent-twin",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/linear-issue-intent-twin",
-        "is_fork": false
-      },
-      {
-        "name": "amd-hetero-placement-contract",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/amd-hetero-placement-contract",
-        "is_fork": false
-      },
-      {
-        "name": "adobe-creative-provenance-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/adobe-creative-provenance-gate",
-        "is_fork": false
-      },
-      {
         "name": "Codex",
         "description": "",
         "category": "PORTFOLIO",
@@ -7536,17 +7833,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/Codex",
-        "is_fork": false
-      },
-      {
-        "name": "lockheed-mission-thread-isolator",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/lockheed-mission-thread-isolator",
         "is_fork": false
       },
       {
@@ -7561,28 +7847,6 @@
         "is_fork": true
       },
       {
-        "name": "groq-jitter-envelope-contract",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/groq-jitter-envelope-contract",
-        "is_fork": false
-      },
-      {
-        "name": "anduril-track-envelope-compiler",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/anduril-track-envelope-compiler",
-        "is_fork": false
-      },
-      {
         "name": "cline",
         "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
         "category": "PORTFOLIO",
@@ -7592,28 +7856,6 @@
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/cline",
         "is_fork": true
-      },
-      {
-        "name": "cloudflare-bot-intent-receipt",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cloudflare-bot-intent-receipt",
-        "is_fork": false
-      },
-      {
-        "name": "anthropic-refusal-replay-harness",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/anthropic-refusal-replay-harness",
-        "is_fork": false
       },
       {
         "name": "anthropic-constitutional-tool-transcript",
@@ -7627,39 +7869,6 @@
         "is_fork": false
       },
       {
-        "name": "anduril-sensor-health-quorum",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/anduril-sensor-health-quorum",
-        "is_fork": false
-      },
-      {
-        "name": "anduril-lattice-dissent-freeze",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/anduril-lattice-dissent-freeze",
-        "is_fork": false
-      },
-      {
-        "name": "snowflake-warehouse-spend-circuit",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/snowflake-warehouse-spend-circuit",
-        "is_fork": false
-      },
-      {
         "name": "ai-deal-finder",
         "description": "",
         "category": "PORTFOLIO",
@@ -7668,127 +7877,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/ai-deal-finder",
-        "is_fork": false
-      },
-      {
-        "name": "zoox-fleet-skill-promotion-gate",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/zoox-fleet-skill-promotion-gate",
-        "is_fork": false
-      },
-      {
-        "name": "qdrant-collection-quorum-guard",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/qdrant-collection-quorum-guard",
-        "is_fork": false
-      },
-      {
-        "name": "nasa-telemetry-anomaly-receipt",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/nasa-telemetry-anomaly-receipt",
-        "is_fork": false
-      },
-      {
-        "name": "windsurf-cascade-intent-twin",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/windsurf-cascade-intent-twin",
-        "is_fork": false
-      },
-      {
-        "name": "qualcomm-on-device-budget-futures",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/qualcomm-on-device-budget-futures",
-        "is_fork": false
-      },
-      {
-        "name": "nebius-cluster-energy-admission",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/nebius-cluster-energy-admission",
-        "is_fork": false
-      },
-      {
-        "name": "motherduck-local-cloud-query-passport",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/motherduck-local-cloud-query-passport",
-        "is_fork": false
-      },
-      {
-        "name": "ibm-governed-tool-catalog",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/ibm-governed-tool-catalog",
-        "is_fork": false
-      },
-      {
-        "name": "intel-npu-placement-passport",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/intel-npu-placement-passport",
-        "is_fork": false
-      },
-      {
-        "name": "elastic-trajectory-index-layout",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/elastic-trajectory-index-layout",
-        "is_fork": false
-      },
-      {
-        "name": "cohere-retrieval-claim-fence",
-        "description": "GlacierEQ excellence pack \u2014 independent reference (no company affiliation claimed)",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/cohere-retrieval-claim-fence",
         "is_fork": false
       },
       {
@@ -7822,17 +7910,6 @@
         "is_local_cloned": true,
         "local_path": "/Users/kcbflux/APEX_SYSTEM/DOMAINS/PORTFOLIO_ESTATE/robotics-vla-torque-sentinel",
         "github_url": "https://github.com/GlacierEQ/robotics-vla-torque-sentinel",
-        "is_fork": false
-      },
-      {
-        "name": "ai-auto-driller-unified",
-        "description": "Unified auto-driller suite v4.0 \u2014 11 AI platforms, 8 weighted drill categories, typing sim, draggable UI, session export",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/ai-auto-driller-unified",
         "is_fork": false
       },
       {
@@ -11958,17 +12035,6 @@
         "is_local_cloned": false,
         "local_path": null,
         "github_url": "https://github.com/GlacierEQ/casibase",
-        "is_fork": true
-      },
-      {
-        "name": "CodexDB__public_fork_archive",
-        "description": "[ARCHIVED public fork snapshot of itrummer/CodexDB] superseded by private CodexDB",
-        "category": "PORTFOLIO",
-        "subcategory": "PORTFOLIO_TECH",
-        "is_private": false,
-        "is_local_cloned": false,
-        "local_path": null,
-        "github_url": "https://github.com/GlacierEQ/CodexDB__public_fork_archive",
         "is_fork": true
       },
       {

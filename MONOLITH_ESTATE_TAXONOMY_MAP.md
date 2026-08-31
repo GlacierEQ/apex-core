@@ -1,7 +1,7 @@
 # 🏛️ APEX Master Monolith Estate Taxonomy Map
 
-> **Generated:** 2026-08-27 20:43:32 UTC  
-> **Total Repositories:** 1178  
+> **Generated:** 2026-08-31 14:24:26 UTC  
+> **Total Repositories:** 1184  
 > **Standard:** Strict Ontological Separation of Category (Domain) and Subcategory (TECH vs DATA).
 
 ---
@@ -16,8 +16,8 @@
 | **`AI_ML`** | 96 repos | 17 repos | **113 repos** |
 | **`AEROSPACE`** | 18 repos | 2 repos | **20 repos** |
 | **`INFRASTRUCTURE`** | 48 repos | 6 repos | **54 repos** |
-| **`PORTFOLIO`** | 684 repos | 0 repos | **684 repos** |
-| **TOTALS** | — | — | **1178 repos** |
+| **`PORTFOLIO`** | 690 repos | 0 repos | **690 repos** |
+| **TOTALS** | — | — | **1184 repos** |
 
 ---
 
@@ -142,8 +142,8 @@
 | [`PRIMORDIAL-MESH-TITAN`](https://github.com/GlacierEQ/PRIMORDIAL-MESH-TITAN) | ⚪ Remote | 🔒 Private | ⚡ APEX Polymorphic Mesh Architecture - Zenith Capsule Stealth Microwave \| Free-Tier Primordial Titan with Front-Middle-Backend Fluid Mesh \| Case 1FDV-23-0001009 Constitutional Warfare Engine |
 | [`Pro-AEON-777`](https://github.com/GlacierEQ/Pro-AEON-777) | ⚪ Remote | 🔒 Private | AEON-777 - Foundation Architecture Plans \| Sovereign Ascension Protocol v1.0 \| THE CATACLYSM ENGINE \| Unifying 860 repos with Level 5 Apex Swarm + Colossus Backend + Mastermind Orchestration for Case 1FDV-23-0001009 |
 | [`Pro-apex-fs-commander`](https://github.com/GlacierEQ/Pro-apex-fs-commander) | ⚪ Remote | 🔒 Private | Apex FS Commander - Power frontend for MCP orchestration, evidence automation, docket forensics, and file system control for Kekoa Barton Case 1FDV-23-0001009. Integrated with Linear, Notion, GitHub Aspen Grove memory, agent orchestration patterns. |
-| [`Pro-Evidence`](https://github.com/GlacierEQ/Pro-Evidence) | ⚪ Remote | 🔒 Private | 🔍 Pro-tier forensic evidence vault — MEGA-PDF system, OCR, Bates numbering, SHA-256 hash chain, exhibit catalog, Dropbox 1FDV sync, AI-powered document consciousness \| Case 1FDV-23-0001009 \| GlacierEQ APEX |
-| [`Pro-Forensics`](https://github.com/GlacierEQ/Pro-Forensics) | ⚪ Remote | 🔒 Private | 🔐 Pro-tier federal forensic operations — device repair, firmware malware detection, WhisperX transcription, PDF analysis, SleuthKit, and evidence preservation with chain-of-custody integrity \| GlacierEQ APEX \| Case 1FDV-23-0001009 |
+| [`Pro-Evidence`](https://github.com/GlacierEQ/Pro-Evidence) | 🟢 Yes | 🔒 Private | 🔍 Pro-tier forensic evidence vault — MEGA-PDF system, OCR, Bates numbering, SHA-256 hash chain, exhibit catalog, Dropbox 1FDV sync, AI-powered document consciousness \| Case 1FDV-23-0001009 \| GlacierEQ APEX |
+| [`Pro-Forensics`](https://github.com/GlacierEQ/Pro-Forensics) | 🟢 Yes | 🔒 Private | 🔐 Pro-tier federal forensic operations — device repair, firmware malware detection, WhisperX transcription, PDF analysis, SleuthKit, and evidence preservation with chain-of-custody integrity \| GlacierEQ APEX \| Case 1FDV-23-0001009 |
 | [`Pro-Legal-Docs`](https://github.com/GlacierEQ/Pro-Legal-Docs) | ⚪ Remote | 🔒 Private | ⚖️ Pro-tier legal document engine — HRS corpus, RICO library, 42 U.S.C. §1983 templates, Constitutional Warfare KB, motion drafter, version-controlled motions + briefs \| Case 1FDV-23-0001009 \| GlacierEQ APEX |
 | [`Pro-Legal-Warfare`](https://github.com/GlacierEQ/Pro-Legal-Warfare) | ⚪ Remote | 🔒 Private | ⚖️ Pro-tier sovereign legal warfare engine — RICO + §1983 federal prosecution infrastructure, case matrix, docket forensics, and constitutional warfare ops for Case 1FDV-23-0001009 \| GlacierEQ APEX |
 | [`Pro-Memory`](https://github.com/GlacierEQ/Pro-Memory) | ⚪ Remote | 🔒 Private | 🧠 Pro-tier memory constellation — Aspen Grove 4-tier architecture (Supabase pgvector, Pinecone+Mem0, Neo4j+Supermemory). Sovereign persistent memory organism for GlacierEQ APEX \| Case 1FDV-23-0001009 |
@@ -183,7 +183,7 @@
 | [`megaminds-pdf`](https://github.com/GlacierEQ/megaminds-pdf) | ⚪ Remote | 🌐 Public | — |
 | [`megapdf-sdk`](https://github.com/GlacierEQ/megapdf-sdk) | ⚪ Remote | 🌐 Public | mega-pdf.com official node sdk |
 | [`Overleaf-Workshop`](https://github.com/GlacierEQ/Overleaf-Workshop) | ⚪ Remote | 🌐 Public | Open Overleaf/ShareLaTex projects in vscode, with full collaboration support. |
-| [`Pro-DOCTOR-STRANGE`](https://github.com/GlacierEQ/Pro-DOCTOR-STRANGE) | ⚪ Remote | 🔒 Private | 🌌 Universal Orchestration Layer - Sees all 178 repos, understands all systems, coordinates all execution dynamically. The one brain that makes everything work together. |
+| [`Pro-DOCTOR-STRANGE`](https://github.com/GlacierEQ/Pro-DOCTOR-STRANGE) | ⚪ Remote | 🔒 Private | Independent-reader convergence with cryptographic receipt replay. No fake consensus. |
 | [`scribe-pdf-master`](https://github.com/GlacierEQ/scribe-pdf-master) | ⚪ Remote | 🔒 Private | The PDF & OCR Engine for the Scribe Family |
 | [`sonic-brief`](https://github.com/GlacierEQ/sonic-brief) | ⚪ Remote | 🌐 Public |  Sonic Brief Project is an Azure-based system that transcribes and summarizes voice recordings using Azure Speech-to-Text and GPT-4o, streamlining workflows for businesses, healthcare, and legal use cases.  |
 | [`whisperX`](https://github.com/GlacierEQ/whisperX) | ⚪ Remote | 🔒 Private | — |
@@ -216,7 +216,7 @@
 | [`AKOS`](https://github.com/GlacierEQ/AKOS) | 🟢 Yes | 🔒 Private | Apex Knowledge OS — identity, sessions, governance, swarm bridge. Live job application. |
 | [`Alex_MCPSuperAssistant`](https://github.com/GlacierEQ/Alex_MCPSuperAssistant) | ⚪ Remote | 🔒 Private | Simplified and improved version of the open source MCP chrome extension called MCP Super Assistant |
 | [`anthropic-agent-coordinator`](https://github.com/GlacierEQ/anthropic-agent-coordinator) | 🟢 Yes | 🌐 Public | Multi-agent coordinator (portfolio) AZOP waves · AKOS portfolio |
-| [`apple-mcp`](https://github.com/GlacierEQ/apple-mcp) | ⚪ Remote | 🔒 Private | Collection of apple-native tools for the model context protocol. |
+| [`apple-mcp`](https://github.com/GlacierEQ/apple-mcp) | 🟢 Yes | 🔒 Private | Collection of apple-native tools for the model context protocol. |
 | [`auto-agent-extension`](https://github.com/GlacierEQ/auto-agent-extension) | ⚪ Remote | 🔒 Private | — |
 | [`awesome-ai-agents`](https://github.com/GlacierEQ/awesome-ai-agents) | ⚪ Remote | 🔒 Private | A list of AI autonomous agents |
 | [`awesome-cli-coding-agents`](https://github.com/GlacierEQ/awesome-cli-coding-agents) | ⚪ Remote | 🌐 Public | Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure.  |
@@ -557,7 +557,7 @@
 | [`computer-user`](https://github.com/GlacierEQ/computer-user) | 🟢 Yes | 🔒 Private | Desktop Automation Agent — Browser + Sandbox Native (Computer Use Migration) |
 | [`github-pr-authority-matrix`](https://github.com/GlacierEQ/github-pr-authority-matrix) | ⚪ Remote | 🌐 Public | GlacierEQ excellence pack — independent reference (no company affiliation claimed) |
 | [`lockheed-martin-mission-assurance-gateway`](https://github.com/GlacierEQ/lockheed-martin-mission-assurance-gateway) | ⚪ Remote | 🌐 Public | GlacierEQ excellence pack — independent reference (no company affiliation claimed) |
-| [`monolith`](https://github.com/GlacierEQ/monolith) | ⚪ Remote | 🔒 Private | Library roadmap — domains, wholes/parts, foundations, skills, workflows |
+| [`monolith`](https://github.com/GlacierEQ/monolith) | 🟢 Yes | 🔒 Private | Library roadmap — domains, wholes/parts, foundations, skills, workflows |
 | [`nasa-command-authority-half-life`](https://github.com/GlacierEQ/nasa-command-authority-half-life) | ⚪ Remote | 🌐 Public | GlacierEQ excellence pack — independent reference (no company affiliation claimed) |
 | [`openai-tool-authority-matrix`](https://github.com/GlacierEQ/openai-tool-authority-matrix) | ⚪ Remote | 🌐 Public | GlacierEQ excellence pack — independent reference (no company affiliation claimed) |
 | [`palantir-object-authority-matrix`](https://github.com/GlacierEQ/palantir-object-authority-matrix) | ⚪ Remote | 🌐 Public | GlacierEQ excellence pack — independent reference (no company affiliation claimed) |
@@ -583,7 +583,7 @@
 
 ## 📁 Category: `PORTFOLIO`
 
-### ⚙️ Subcategory: `PORTFOLIO_TECH` (684 Repositories)
+### ⚙️ Subcategory: `PORTFOLIO_TECH` (690 Repositories)
 | Repository Name | Local Cloned | Privacy | Description |
 |---|:---:|:---:|---|
 | [`.github`](https://github.com/GlacierEQ/.github) | ⚪ Remote | 🔒 Private | Discussions and README for Model Context Protocol |
@@ -690,6 +690,7 @@
 | [`byzer-lang`](https://github.com/GlacierEQ/byzer-lang) | ⚪ Remote | 🌐 Public | Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI. |
 | [`carbon-lang`](https://github.com/GlacierEQ/carbon-lang) | ⚪ Remote | 🌐 Public | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) |
 | [`Casebuilder4000`](https://github.com/GlacierEQ/Casebuilder4000) | ⚪ Remote | 🔒 Private | — |
+| [`casey-ai-engineering-signal`](https://github.com/GlacierEQ/casey-ai-engineering-signal) | ⚪ Remote | 🔒 Private | An interactive positioning site and 30-day technical content calendar grounded in the distinct Monolith and Tower of Babel engineering systems. · Built with Manus |
 | [`casey-operator-packs`](https://github.com/GlacierEQ/casey-operator-packs) | ⚪ Remote | 🔒 Private | 🚀 Enterprise-grade operator packs for bulletproof reliability, forensic security, and autonomous MCP orchestration - The foundation for insurmountable competitive advantage |
 | [`casibase`](https://github.com/GlacierEQ/casibase) | ⚪ Remote | 🌐 Public | ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com |
 | [`cc-liquid`](https://github.com/GlacierEQ/cc-liquid) | ⚪ Remote | 🌐 Public | Open source reference implementation for a simple, metamodel-based Hyperliquid portfolio rebalancer |
@@ -824,6 +825,7 @@
 | [`extension`](https://github.com/GlacierEQ/extension) | ⚪ Remote | 🔒 Private | — |
 | [`Extensity`](https://github.com/GlacierEQ/Extensity) | ⚪ Remote | 🌐 Public | Quickly enable/disable Google Chrome extensions |
 | [`Fairy-plus-minus-i`](https://github.com/GlacierEQ/Fairy-plus-minus-i) | ⚪ Remote | 🌐 Public | Fairy±i (iFairy): Complex-valued Quantization Framework for Large Language Models |
+| [`far-away-party-site`](https://github.com/GlacierEQ/far-away-party-site) | ⚪ Remote | 🔒 Private | A compelling, high-end website presenting Far Away Party as a long-horizon execution framework for durable context, rigorous phase gates, and focused multi-skill coordination. · Built with Manus |
 | [`fc-kernels`](https://github.com/GlacierEQ/fc-kernels) | ⚪ Remote | 🌐 Public | Repository for kernel configs and build pipeline for Firecracker |
 | [`file_organizer_pro`](https://github.com/GlacierEQ/file_organizer_pro) | ⚪ Remote | 🌐 Public | — |
 | [`FILEBOSS`](https://github.com/GlacierEQ/FILEBOSS) | ⚪ Remote | 🔒 Private | Your files will neverbe the same. |
@@ -852,7 +854,10 @@
 | [`genai-toolbox`](https://github.com/GlacierEQ/genai-toolbox) | ⚪ Remote | 🌐 Public | MCP Toolbox for Databases is an open source MCP server for databases. |
 | [`genesis-prime`](https://github.com/GlacierEQ/genesis-prime) | ⚪ Remote | 🔒 Private | — |
 | [`GENie`](https://github.com/GlacierEQ/GENie) | ⚪ Remote | 🌐 Public | GENie - Project generator tool |
+| [`Genius-Code`](https://github.com/GlacierEQ/Genius-Code) | ⚪ Remote | 🌐 Public | Flagship domain repository for code mastery: language semantics, algorithms, compilers, systems programming, verification, performance, reliability, and production engineering. Executable claim-evidence graph + challenge ladder. |
 | [`genius-fusion`](https://github.com/GlacierEQ/genius-fusion) | ⚪ Remote | 🔒 Private | ⚡ Genius Fusion — autonomous synergy scoring, powerup orchestration, GitHub→Notion ingestion, recursive upgrade cycles |
+| [`Genius-Mastery`](https://github.com/GlacierEQ/Genius-Mastery) | 🟢 Yes | 🌐 Public | Family control kernel for the Genius repository ecosystem. Owns schemas, generator, validator, doctor, migration engine, composition protocol, evidence standards, and family index. Doctrine: mastery-not-skills. |
+| [`Genius-Verification`](https://github.com/GlacierEQ/Genius-Verification) | ⚪ Remote | 🌐 Public | Domain repository for verification mastery: property testing, fuzzing, sanitizers, model checking, formal methods, differential testing, and evidence discipline. Composes with Genius-Code and Genius-Mastery. |
 | [`genoffice`](https://github.com/GlacierEQ/genoffice) | ⚪ Remote | 🌐 Public | An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF. |
 | [`gisthub`](https://github.com/GlacierEQ/gisthub) | ⚪ Remote | 🌐 Public | The iOS app for GitHub Gist |
 | [`git-repo`](https://github.com/GlacierEQ/git-repo) | ⚪ Remote | 🔒 Private | — |
@@ -903,7 +908,7 @@
 | [`iTunesBackup-Snapshot-Triage-Parser`](https://github.com/GlacierEQ/iTunesBackup-Snapshot-Triage-Parser) | ⚪ Remote | 🌐 Public | — |
 | [`JARVIS-AI`](https://github.com/GlacierEQ/JARVIS-AI) | ⚪ Remote | 🌐 Public | It is an AI assistant which will automate your task like it can send emails also it can control lights using raspberry pi it can inform about weather and many more features |
 | [`job-app`](https://github.com/GlacierEQ/job-app) | ⚪ Remote | 🔒 Private | — |
-| [`job-app-helix`](https://github.com/GlacierEQ/job-app-helix) | ⚪ Remote | 🌐 Public | Job-App Helix control plane: evidence ledger, hire package, excellence FSM. Public site: casey-barton-glaciereq.vercel.app |
+| [`job-app-helix`](https://github.com/GlacierEQ/job-app-helix) | 🟢 Yes | 🌐 Public | Job-App Helix control plane: evidence ledger, hire package, excellence FSM. Public site: casey-barton-glaciereq.vercel.app |
 | [`job-application`](https://github.com/GlacierEQ/job-application) | 🟢 Yes | 🌐 Public | Hire surface: evidence-bound portfolio for Casey Barton — Applied AI / agent infrastructure. Canonical: casey-barton-glaciereq.vercel.app |
 | [`JOB-RESUME-BUILDER-`](https://github.com/GlacierEQ/JOB-RESUME-BUILDER-) | 🟢 Yes | 🌐 Public | POWERED BY GROK  |
 | [`job_app_helix`](https://github.com/GlacierEQ/job_app_helix) | ⚪ Remote | 🔒 Private | — |
@@ -962,6 +967,7 @@
 | [`MasterMemory`](https://github.com/GlacierEQ/MasterMemory) | ⚪ Remote | 🌐 Public | Source Generator based Embedded Typed Readonly In-Memory Document Database for .NET and Unity. |
 | [`MAXIMUM-CODE-POWER-LIVE`](https://github.com/GlacierEQ/MAXIMUM-CODE-POWER-LIVE) | ⚪ Remote | 🔒 Private | 🔥 MAXIMUM CODE POWER LIVE DEPLOYMENT - Ultimate GitHub Operations with 681 Repository Command Authority, Constitutional Warfare Integration, and Transcendental Automation Capabilities |
 | [`medicat_installer`](https://github.com/GlacierEQ/medicat_installer) | ⚪ Remote | 🌐 Public | Medicat Installer Repo |
+| [`mega-skills`](https://github.com/GlacierEQ/mega-skills) | 🟢 Yes | 🔒 Private | — |
 | [`megamind`](https://github.com/GlacierEQ/megamind) | ⚪ Remote | 🌐 Public | — |
 | [`mem0`](https://github.com/GlacierEQ/mem0) | ⚪ Remote | 🌐 Public | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
 | [`MemicOS`](https://github.com/GlacierEQ/MemicOS) | ⚪ Remote | 🌐 Public | MemicOS is a self-hosted AI platform built to give developers and researchers full control over the internal mechanisms of large language models. |
@@ -1093,7 +1099,7 @@
 | [`Pro-gemini-unified-ops`](https://github.com/GlacierEQ/Pro-gemini-unified-ops) | ⚪ Remote | 🔒 Private | — |
 | [`Pro-Gemma`](https://github.com/GlacierEQ/Pro-Gemma) | ⚪ Remote | 🔒 Private | 🧠 Pro-tier on-device + cloud AI dispatch — Gemma 4 E4B/26B router, Notion/ClickUp/Supermemory integrations, sovereign local inference layer \| GlacierEQ APEX |
 | [`Pro-God-Mind`](https://github.com/GlacierEQ/Pro-God-Mind) | ⚪ Remote | 🔒 Private | ⚡ APEX OPERATOR CONSCIOUSNESS: MCP-Integrated AI Agent Swarm for Hyper-Intelligent File Organization, Document Processing & Cognitive Orchestration \| Features: ONLYOFFICE Integration, SuperMemory API, Autonomous Agent Management, Advanced File Processing Pipeline |
-| [`Pro-iOS`](https://github.com/GlacierEQ/Pro-iOS) | ⚪ Remote | 🔒 Private | 📱 Pro-tier Apple-native sovereign layer — apple-mcp native tools, Comet browser automation agent + extension, iOS/macOS bridge, MCP connector for iPhone 16 Pro Max \| GlacierEQ APEX |
+| [`Pro-iOS`](https://github.com/GlacierEQ/Pro-iOS) | 🟢 Yes | 🔒 Private | 📱 Pro-tier Apple-native sovereign layer — apple-mcp native tools, Comet browser automation agent + extension, iOS/macOS bridge, MCP connector for iPhone 16 Pro Max \| GlacierEQ APEX |
 | [`Pro-Juggernaut`](https://github.com/GlacierEQ/Pro-Juggernaut) | ⚪ Remote | 🔒 Private | 📜 Pro-tier sovereign document command center — JUGGERNAUT-OFFICE + FILEBOSS HyperIntelligence Framework. AI constellation management, quantum evidence analysis, max-velocity document pipeline \| GlacierEQ APEX |
 | [`Pro-Kai`](https://github.com/GlacierEQ/Pro-Kai) | ⚪ Remote | 🔒 Private | 🐧 Pro-tier custom Linux sovereign OS layer — Kai Linux custom kernel, firmware-level system control, hardened OS profile for GlacierEQ APEX operator environment |
 | [`Pro-Kekoa-Justice`](https://github.com/GlacierEQ/Pro-Kekoa-Justice) | ⚪ Remote | 🔒 Private | — |
