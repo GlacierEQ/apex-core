@@ -127,7 +127,7 @@ class Firewall:
         self.audit_log = []
 
     def get_stats(self) -> Dict[str, Any]:
-        """Get firewall statistics."""
+        """Get firewall statistics with anomaly detection."""
         total = len(self.audit_log)
         allowed = sum(1 for e in self.audit_log if e["result"] == "allowed")
         denied = sum(1 for e in self.audit_log if e["result"] == "denied")
@@ -135,13 +135,53 @@ class Firewall:
             1 for e in self.audit_log if e["result"] == "approval_required"
         )
 
+        # Detect anomalies: high denial rate
+        denial_rate = denied / max(total, 1)
+        anomaly = denial_rate > 0.5
+
         return {
             "total_actions": total,
             "allowed": allowed,
             "denied": denied,
             "approval_required": approval,
             "policies_count": len(self.policies),
+            "denial_rate": round(denial_rate, 2),
+            "anomaly_detected": anomaly,
         }
+
+    def check_policy_conflicts(self) -> List[str]:
+        """Check for conflicting policies.
+        
+        Returns list of conflict descriptions.
+        """
+        conflicts: List[str] = []
+        policy_names = list(self.policies.keys())
+
+        for i, name1 in enumerate(policy_names):
+            for name2 in policy_names[i + 1:]:
+                p1 = self.policies[name1]
+                p2 = self.policies[name2]
+
+                # Check for actions that are allowed in one but forbidden in another
+                allowed_forbidden = p1.allowed_actions & p2.forbidden_actions
+                if allowed_forbidden:
+                    conflicts.append(
+                        f"{name1} allows {allowed_forbidden} but {name2} forbids it"
+                    )
+
+        return conflicts
+
+    def enforce_strictest(self, action: ActionType) -> bool:
+        """Check action against the strictest applicable policy.
+        
+        Returns True if allowed by all policies, False otherwise.
+        """
+        for policy in self.policies.values():
+            if action in policy.forbidden_actions:
+                return False
+            if action not in policy.allowed_actions:
+                return False
+        return True
 
 
 # ─── Default Policies ────────────────────────────────────────────────────────
