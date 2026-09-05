@@ -26,6 +26,14 @@ SCRUB_PATTERNS = [
 ]
 
 
+class ApexDataScrubber:
+    """Class wrapper matching scripts/apex_scrubber.py interface."""
+    @classmethod
+    def sanitize(cls, text: str) -> Tuple[str, Dict[str, int]]:
+        cleaned, count = scrub_text(text)
+        return cleaned, {"REDACTED": count}
+
+
 def scrub_text(content: str) -> Tuple[str, int]:
     scrubbed = content
     total_redactions = 0
