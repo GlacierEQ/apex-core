@@ -69,8 +69,14 @@ class Firewall:
         policy_name: str = "default",
         context: Optional[Dict[str, Any]] = None,
     ) -> bool:
-        """Validate an action against a policy.
-
+        """Validate an action against a policy with smart checks.
+        
+        Checks:
+        - Policy exists
+        - Action is not forbidden
+        - Action doesn't require approval (returns False if so)
+        - Action is in allowed list
+        
         Returns True if allowed, False if approval required.
         Raises FirewallViolation if forbidden.
         """
@@ -78,16 +84,19 @@ class Firewall:
         if not policy:
             raise ValueError(f"Policy not found: {policy_name}")
 
+        # Check forbidden actions first (highest priority)
         if action in policy.forbidden_actions:
             self._log(action, policy_name, "denied", "forbidden", context)
             raise FirewallViolation(
                 f"Action {action.value} is forbidden by policy {policy_name}"
             )
 
+        # Check approval-required actions
         if action in policy.approval_required:
             self._log(action, policy_name, "approval_required", None, context)
             return False
 
+        # Check allowed actions
         if action not in policy.allowed_actions:
             self._log(action, policy_name, "denied", "not in allowed list", context)
             raise FirewallViolation(
@@ -95,6 +104,69 @@ class Firewall:
             )
 
         self._log(action, policy_name, "allowed", None, context)
+        return True
+
+    def validate_batch(
+        self,
+        actions: List[ActionType],
+        policy_name: str = "default",
+        context: Optional[Dict[str, Any]] = None,
+    ) -> Dict[str, bool]:
+        """Validate multiple actions against a policy.
+        
+        Returns dict of action -> allowed (True/False).
+        Forbidden actions raise FirewallViolation immediately.
+        """
+        results: Dict[str, bool] = {}
+
+        for action in actions:
+            try:
+                allowed = self.validate(action, policy_name, context)
+                results[action.value] = allowed
+            except FirewallViolation:
+                raise
+
+        return results
+
+    def get_policy_conflicts(self) -> List[str]:
+        """Check for conflicts between registered policies.
+        
+        Returns list of conflict descriptions.
+        """
+        conflicts: List[str] = []
+        policy_names = list(self.policies.keys())
+
+        for i, name1 in enumerate(policy_names):
+            for name2 in policy_names[i + 1:]:
+                p1 = self.policies[name1]
+                p2 = self.policies[name2]
+
+                # Check for actions that are allowed in one but forbidden in another
+                allowed_forbidden = p1.allowed_actions & p2.forbidden_actions
+                if allowed_forbidden:
+                    conflicts.append(
+                        f"{name1} allows {allowed_forbidden} but {name2} forbids it"
+                    )
+
+                # Check for actions that are forbidden in one but required in another
+                forbidden_approval = p1.forbidden_actions & p2.approval_required
+                if forbidden_approval:
+                    conflicts.append(
+                        f"{name1} forbids {forbidden_approval} but {name2} requires approval"
+                    )
+
+        return conflicts
+
+    def enforce_strictest(self, action: ActionType) -> bool:
+        """Check action against the strictest applicable policy.
+        
+        Returns True if allowed by all policies, False otherwise.
+        """
+        for policy in self.policies.values():
+            if action in policy.forbidden_actions:
+                return False
+            if action not in policy.allowed_actions:
+                return False
         return True
 
     def _log(
