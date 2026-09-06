@@ -169,6 +169,120 @@ class Firewall:
                 return False
         return True
 
+    def learn_from_threat(
+        self,
+        action: ActionType,
+        threat_level: str,
+        policy_name: str = "default",
+    ) -> None:
+        """Learn from a threat and adapt security policies.
+        
+        Automatically adjusts policies based on threat intelligence.
+        Higher threat levels result in stricter policies.
+        """
+        policy = self.policies.get(policy_name)
+        if not policy:
+            return
+
+        if threat_level == "critical":
+            policy.forbidden_actions.add(action)
+            if action in policy.allowed_actions:
+                policy.allowed_actions.discard(action)
+            if action in policy.approval_required:
+                policy.approval_required.discard(action)
+        elif threat_level == "high":
+            if action in policy.allowed_actions:
+                policy.allowed_actions.discard(action)
+            policy.approval_required.add(action)
+        elif threat_level == "medium":
+            if action not in policy.forbidden_actions:
+                policy.approval_required.add(action)
+
+        self._log(
+            action, policy_name, "policy_updated",
+            f"Learned from {threat_level} threat",
+        )
+
+    def adapt_policy(
+        self,
+        policy_name: str,
+        new_allowed: Optional[Set[ActionType]] = None,
+        new_forbidden: Optional[Set[ActionType]] = None,
+        new_approval: Optional[Set[ActionType]] = None,
+    ) -> None:
+        """Adapt a policy based on new information."""
+        policy = self.policies.get(policy_name)
+        if not policy:
+            raise ValueError(f"Policy not found: {policy_name}")
+
+        if new_allowed is not None:
+            policy.allowed_actions = new_allowed
+        if new_forbidden is not None:
+            policy.forbidden_actions = new_forbidden
+        if new_approval is not None:
+            policy.approval_required = new_approval
+
+        self._log(
+            ActionType.READ, policy_name, "policy_adapted",
+            f"Policy {policy_name} adapted",
+        )
+
+    def detect_anomalies(self) -> List[Dict[str, Any]]:
+        """Detect anomalies in the audit log."""
+        anomalies = []
+
+        total = len(self.audit_log)
+        denied = sum(1 for e in self.audit_log if e["result"] == "denied")
+        denial_rate = denied / max(total, 1)
+
+        if denial_rate > 0.5:
+            anomalies.append({
+                "type": "high_denial_rate",
+                "severity": "critical",
+                "message": f"High denial rate: {denial_rate:.1%}",
+                "details": {"denied": denied, "total": total},
+            })
+        elif denial_rate > 0.3:
+            anomalies.append({
+                "type": "elevated_denial_rate",
+                "severity": "warning",
+                "message": f"Elevated denial rate: {denial_rate:.1%}",
+                "details": {"denied": denied, "total": total},
+            })
+
+        failed_actions: Dict[str, int] = {}
+        for entry in self.audit_log:
+            if entry["result"] == "denied":
+                key = f"{entry['action']}:{entry['policy']}"
+                failed_actions[key] = failed_actions.get(key, 0) + 1
+
+        for key, count in failed_actions.items():
+            if count > 5:
+                anomalies.append({
+                    "type": "repeated_failures",
+                    "severity": "warning",
+                    "message": f"Repeated failures for {key}: {count} times",
+                    "details": {"count": count},
+                })
+
+        return anomalies
+
+    def get_threat_level(self) -> str:
+        """Get current threat level based on audit log analysis."""
+        anomalies = self.detect_anomalies()
+
+        if not anomalies:
+            return "low"
+
+        for anomaly in anomalies:
+            if anomaly["severity"] == "critical":
+                return "critical"
+
+        if len(anomalies) > 3:
+            return "high"
+
+        return "medium"
+
     def _log(
         self,
         action: ActionType,
