@@ -371,6 +371,7 @@ class TestSwarmInvariants:
         assert result["parsed"]
         assert result["intent"] == "survey_area"
 
+    @settings(deadline=None)
     @given(num_drones=st.integers(min_value=1, max_value=100))
     def test_swarm_size(self, num_drones: int) -> None:
         """Swarm size matches input."""

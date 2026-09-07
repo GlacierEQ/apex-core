@@ -20,6 +20,9 @@ from enum import Enum
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
+# Derive APEX-core directory for subprocess cwd (ensures pytest module resolution)
+_AXPE_CORE_DIR = str(Path(__file__).parent.parent)
+
 
 class EpistemicLayer(str, Enum):
     L0_PRESENCE = "L0_PRESENCE"      # File/Artifact exists on disk
@@ -135,7 +138,8 @@ class ApexEpistemicChunker:
                     shell=True,
                     capture_output=True,
                     text=True,
-                    timeout=30
+                    timeout=30,
+                    cwd=_AXPE_CORE_DIR,
                 )
                 if res.returncode == 0:
                     return EpistemicVerificationResult(
