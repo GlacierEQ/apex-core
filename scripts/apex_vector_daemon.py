@@ -19,7 +19,7 @@ SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from apex_omni_cloud_ml import OmniCloudMLEngine
+from apex_omni_cloud_ml import ApexOmniCloudMLEngine
 from apex_ml_metal_engine import AppleHardwareVectorEngine
 
 
@@ -36,14 +36,18 @@ class ApexVectorDaemon:
 
         t0 = time.time()
         # 1. Delta Crawl
-        idx_res = OmniCloudMLEngine.crawl_all_horizons(max_files_per_horizon=max_files)
+        idx_res = ApexOmniCloudMLEngine().crawl_and_index(
+            max_files_per_source=max_files
+        )
 
         # 2. Re-load Hardware Engine
         hw_engine = AppleHardwareVectorEngine()
         loaded = hw_engine.load_index()
 
         elapsed = time.time() - t0
-        print(f"✓ Vectorized {loaded} documents across multi-cloud horizons in {elapsed:.2f}s")
+        print(
+            f"✓ Vectorized {loaded} documents across multi-cloud horizons in {elapsed:.2f}s"
+        )
         print("=" * 80)
 
         return {
@@ -66,7 +70,9 @@ class ApexVectorDaemon:
 
 def main():
     parser = argparse.ArgumentParser(description="APEX Vector Delta Daemon")
-    parser.add_argument("--interval", "-i", type=int, default=300, help="Polling interval in seconds")
+    parser.add_argument(
+        "--interval", "-i", type=int, default=300, help="Polling interval in seconds"
+    )
     parser.add_argument("--once", action="store_true", help="Run single sweep and exit")
     args = parser.parse_args()
 
