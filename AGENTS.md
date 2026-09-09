@@ -98,7 +98,7 @@ The APEX Estate is engineered as a **Decentralized Peer-to-Peer Holographic Mesh
 ```mermaid
 graph TD
     subgraph "COORDINATION LAYER (Peer Mesh)"
-        HEAD["🔧 APEX Coordination Plane<br/><i>INFRASTRUCTURE/apex-core</i><br/>Orchestrators · Watchdogs · Dev Fork Manager · 43-Point Normalizer"]
+        COORD["🔧 APEX Coordination Plane<br/><i>INFRASTRUCTURE/apex-core</i><br/>Orchestrators · Watchdogs · Dev Fork Manager · 43-Point Normalizer"]
     end
 
     subgraph "FAMILY I: LEGAL WARFARE & FORENSICS"
@@ -125,15 +125,15 @@ graph TD
         CH["☁️ CLOUD_HORIZONS<br/><i>Dropbox (Mermicorn) · ShadowDrive (4TB Lake) · Drive · OneDrive</li>"]
     end
 
-    HEAD <--> LT
-    HEAD <--> LD
-    HEAD <--> ST
-    HEAD <--> SD
-    HEAD <--> RT
-    HEAD <--> RD
-    HEAD <--> MT
-    HEAD <--> MD
-    HEAD <--> CH
+    COORD <--> LT
+    COORD <--> LD
+    COORD <--> ST
+    COORD <--> SD
+    COORD <--> RT
+    COORD <--> RD
+    COORD <--> MT
+    COORD <--> MD
+    COORD <--> CH
 ```
 
 ```
@@ -158,7 +158,7 @@ graph TD
 │   ├── apex-zk-receipt-chain/  # Cairo 1.0 + Lean 4 formal invariants
 │   ├── apex-ros2-autonomy/     # ROS2 Humble autonomy bridge + Gazebo simulation
 │   ├── apex-ebpf-sentinel/     # eBPF CO-RE Linux security probe + Go loader
-│   ├── apex-mcp-engine/        # Apple Silicon Metal/AMX hardware tensor acceleration
+│   ├── apex-metal-compute/      # Metal MSL attention kernels + Swift bridge
 │   ├── apex-ir-compiler/       # MLIR TableGen dialect + Rust AST frontend
 │   └── apex-crdt-mesh/         # Rust Tokio async convergent state mesh
 │
