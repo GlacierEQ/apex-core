@@ -15,10 +15,10 @@ from merge_skills import APEX_MEGA_TAXONOMY, ApexSkillsEngine, SkillAuditReport
 
 
 def test_taxonomy_completeness():
-    """Verify that all 8 Mega Skills and 83 Sub-Skills are canonically defined."""
+    """Verify that all 8 Mega Skills and 86 Sub-Skills are canonically defined."""
     assert len(APEX_MEGA_TAXONOMY) == 8
     total_sub_skills = sum(len(v["skills"]) for v in APEX_MEGA_TAXONOMY.values())
-    assert total_sub_skills == 85
+    assert total_sub_skills == 86
 
 
 def test_firewall_formatting():
@@ -52,7 +52,7 @@ def test_sub_skill_counts_per_mega_skill():
     expected_counts = {
         "mega-agent-core-operations": 7,
         "mega-apex-sovereign-mastermind": 8,
-        "mega-filesystem-omni-engine": 7,
+        "mega-filesystem-omni-engine": 8,
         "mega-gcp-data-engineering": 23,
         "mega-legal-forensic-engine": 5,
         "mega-model-expansion-engine": 5,

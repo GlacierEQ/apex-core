@@ -21,7 +21,7 @@ GATEWAY_PATH = Path("/Users/kcbflux/APEX_SYSTEM/INFRASTRUCTURE/MCP_SERVERS/openr
 if str(GATEWAY_PATH) not in sys.path:
     sys.path.insert(0, str(GATEWAY_PATH))
 
-from server import chat_novita_ai, chat_openrouter
+from gateway_compat import chat_novita_ai, chat_openrouter
 
 
 @dataclass

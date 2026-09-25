@@ -24,7 +24,7 @@ if str(SCRIPTS_PATH) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_PATH))
 
 from apex_epistemic_chunker import ApexEpistemicChunker
-from server import chat_openrouter
+from gateway_compat import chat_openrouter
 
 
 class ApexRepairLoop:
